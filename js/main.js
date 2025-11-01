@@ -18,10 +18,10 @@ function buildIndexByNumber(arr, key = 'Index') {
 }
 
 async function init() {
-  const [weapons, attachments, indexmap] = await Promise.all([
+  const [weapons, attachments, weaponMap] = await Promise.all([
     loadJSON('./data/weapons.json'),
     loadJSON('./data/attachments.json'),
-    loadJSON('./data/indexmap.json'),
+    loadJSON('./data/weapon_attachment_map.json')
   ]);
 
   // 索引（どちらも作る：Indexベース / Keyベース）
@@ -53,57 +53,52 @@ async function init() {
 
   function render() {
     const key = sel.value;
-    const mapEntry = indexmap.find(m => m.WeaponKey === key);
-    if (!mapEntry) { tbody.innerHTML = ''; meta.textContent = '該当なし'; return; }
+    const list = weaponMap.filter(m => m.WeaponKey === key && m.IsEquippable);
+    const defaultList = list
+      .filter(m => m.Default)
+      .map(m => attByKey.get(m.AttachmentKey)?.NameJP || m.AttachmentKey);
 
-    // ① Index配列 → ② Key配列（将来のため両対応）
-    let items = [];
-    if (Array.isArray(mapEntry.AttachmentIndexes) && mapEntry.AttachmentIndexes.length) {
-      items = mapEntry.AttachmentIndexes
-        .map(i => attByIndex.get(Number(i)))
-        .filter(Boolean);
-    } else if (Array.isArray(mapEntry.AttachmentKeys) && mapEntry.AttachmentKeys.length) {
-      items = mapEntry.AttachmentKeys
-        .map(k => attByKey.get(String(k)))
-        .filter(Boolean);
+    // update default UI
+    if (window.updateDefaultAttachments) {
+      window.updateDefaultAttachments(defaultList);
     }
 
-    // フィルタ（カテゴリ・キーワード）
     const catVal = cat.value.trim().toLowerCase();
     const q = kw.value.trim().toLowerCase();
 
-    const filtered = items.filter(a => {
-      const okCat = !catVal || String(a.Category).toLowerCase() === catVal;
-      const text = `${a.NameJP || ''} ${a.NameEN || ''} ${a.AttachmentKey}`.toLowerCase();
-      const okKw = !q || text.includes(q);
-      return okCat && okKw;
-    });
+    const rows = list
+      .map(m => {
+        const a = attByKey.get(m.AttachmentKey);
+        return a ? { ...a, Cost: m.Cost, Default: m.Default } : null;
+      })
+      .filter(Boolean)
+      .filter(a => {
+        const okCat = !catVal || a.Category.toLowerCase() === catVal;
+        const text = `${a.NameJP} ${a.AttachmentKey}`.toLowerCase();
+        const okKw = !q || text.includes(q);
+        return okCat && okKw;
+      });
 
     tbody.innerHTML = '';
-    filtered.forEach(a => {
+    rows.forEach(a => {
       const tr = document.createElement('tr');
       const cat = (a.Category || 'Other').replace(/\s+/g, '');
       tr.classList.add(`cat-${cat}`);
       tr.innerHTML = `
-        <td>${a.NameJP || a.NameEN || a.AttachmentKey}</td>
+        <td>${a.NameJP || a.AttachmentKey}${a.Default ? ' ⭐' : ''}</td>
         <td>${a.Category || ''}</td>
-        <td>${a.Cost === 0 ? '調査中' : a.Cost ?? ''}</td>
+        <td>${a.Cost ?? ''}</td>
         <td>${a.AttachmentKey}</td>
       `;
       tbody.appendChild(tr);
     });
 
-    meta.textContent = `総数: ${items.length} / 表示: ${filtered.length}`;
+    meta.textContent = `装備可能: ${rows.length}件`;
   }
 
   sel.addEventListener('change', render);
   cat.addEventListener('change', render);
   kw.addEventListener('input', render);
-
-  const defaults = items.filter(a => a.IsDefault === true).map(a => a.NameJP);
-  if (window.updateDefaultAttachments) {
-    window.updateDefaultAttachments(defaults);
-  }
 
   // 初期描画
   if (weapons.length) sel.value = weapons[0].WeaponKey;

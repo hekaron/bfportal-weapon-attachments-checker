@@ -6,18 +6,16 @@
     "NameEN": "Buckshot",
     "NameJP": "バックショット",
     "ShortName": "BUCKSHOT",
-    "ShortUniqueName": "BUCKSHOT",
-    "Cost": 10
+    "ShortUniqueName": "BUCKSHOT"
   },
   {
     "Index": 1,
     "AttachmentKey": "Ammo_Flechette",
     "Category": "Ammo",
     "NameEN": "Flechette",
-    "NameJP": "フレシェット弾",
+    "NameJP": "フレシェット",
     "ShortName": "FLECHETTE",
-    "ShortUniqueName": "FLECHETTE",
-    "Cost": 30
+    "ShortUniqueName": "FLECHETTE"
   },
   {
     "Index": 2,
@@ -26,18 +24,16 @@
     "NameEN": "FMJ",
     "NameJP": "FMJ",
     "ShortName": "STANDARD",
-    "ShortUniqueName": "STANDARD",
-    "Cost": 5
+    "ShortUniqueName": "STANDARD"
   },
   {
     "Index": 3,
     "AttachmentKey": "Ammo_Frangible",
     "Category": "Ammo",
     "NameEN": "Frangible",
-    "NameJP": "フランジブル弾",
+    "NameJP": "フランジブル",
     "ShortName": "FRANGIBLE",
-    "ShortUniqueName": "FRANGIBLE",
-    "Cost": 20
+    "ShortUniqueName": "FRANGIBLE"
   },
   {
     "Index": 4,
@@ -46,8 +42,7 @@
     "NameEN": "Hollow_Point",
     "NameJP": "ホローポイント",
     "ShortName": "HOLLOW POINT",
-    "ShortUniqueName": "HOLLOW POINT",
-    "Cost": 20
+    "ShortUniqueName": "HOLLOW POINT"
   },
   {
     "Index": 5,
@@ -56,8 +51,7 @@
     "NameEN": "Match_Grade",
     "NameJP": "マッチグレード",
     "ShortName": "LONG-RANGE",
-    "ShortUniqueName": "LONG-RANGE",
-    "Cost": 10
+    "ShortUniqueName": "LONG-RANGE"
   },
   {
     "Index": 6,
@@ -66,38 +60,34 @@
     "NameEN": "Polymer_Case",
     "NameJP": "ポリマーケース",
     "ShortName": "LIGHTWEIGHT",
-    "ShortUniqueName": "LIGHTWEIGHT",
-    "Cost": 10
+    "ShortUniqueName": "LIGHTWEIGHT"
   },
   {
     "Index": 7,
     "AttachmentKey": "Ammo_Slugs",
     "Category": "Ammo",
     "NameEN": "Slugs",
-    "NameJP": "スラッグ弾",
+    "NameJP": "スラッグ",
     "ShortName": "SLUGS",
-    "ShortUniqueName": "SLUGS",
-    "Cost": 40
+    "ShortUniqueName": "SLUGS"
   },
   {
     "Index": 8,
     "AttachmentKey": "Ammo_Synthetic_Tip",
     "Category": "Ammo",
     "NameEN": "Synthetic_Tip",
-    "NameJP": "シンセティック",
+    "NameJP": "合成チップ",
     "ShortName": "SYNTHETIC",
-    "ShortUniqueName": "SYNTHETIC",
-    "Cost": 30
+    "ShortUniqueName": "SYNTHETIC"
   },
   {
     "Index": 9,
     "AttachmentKey": "Ammo_Tungsten_Core",
     "Category": "Ammo",
     "NameEN": "Tungsten_Core",
-    "NameJP": "タングステン",
+    "NameJP": "タングステンコア",
     "ShortName": "PENETRATION",
-    "ShortUniqueName": "PENETRATION",
-    "Cost": 5
+    "ShortUniqueName": "PENETRATION"
   },
   {
     "Index": 10,
@@ -106,8 +96,7 @@
     "NameEN": "10_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 11,
@@ -116,8 +105,7 @@
     "NameEN": "10_Full",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 12,
@@ -126,8 +114,7 @@
     "NameEN": "102mm_Compact",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 13,
@@ -136,8 +123,7 @@
     "NameEN": "105_Custom",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 14,
@@ -146,8 +132,7 @@
     "NameEN": "105_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 15,
@@ -156,8 +141,7 @@
     "NameEN": "11_Extended",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 16,
@@ -166,8 +150,7 @@
     "NameEN": "11_Heavy",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 17,
@@ -176,8 +159,7 @@
     "NameEN": "114mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 18,
@@ -186,8 +168,7 @@
     "NameEN": "114mm_Pencil",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 19,
@@ -196,8 +177,7 @@
     "NameEN": "115_Commando",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 20,
@@ -206,8 +186,7 @@
     "NameEN": "12_Assaulter",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 21,
@@ -216,8 +195,7 @@
     "NameEN": "12_SBR",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 22,
@@ -226,8 +204,7 @@
     "NameEN": "122mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 23,
@@ -236,8 +213,7 @@
     "NameEN": "122mm_Pencil",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 24,
@@ -246,8 +222,7 @@
     "NameEN": "125_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 25,
@@ -256,8 +231,7 @@
     "NameEN": "125_Mid",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 26,
@@ -266,8 +240,7 @@
     "NameEN": "13_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 27,
@@ -276,8 +249,7 @@
     "NameEN": "13_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 28,
@@ -286,8 +258,7 @@
     "NameEN": "13_Prototype",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 29,
@@ -296,8 +267,7 @@
     "NameEN": "13_Standard",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 30,
@@ -306,8 +276,7 @@
     "NameEN": "135mm_Long",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 31,
@@ -316,8 +285,7 @@
     "NameEN": "145_Alt",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 32,
@@ -326,8 +294,7 @@
     "NameEN": "145_Carbine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 33,
@@ -336,8 +303,7 @@
     "NameEN": "145_Common",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 34,
@@ -346,18 +312,16 @@
     "NameEN": "145_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 35,
     "AttachmentKey": "Barrel_145_Standard",
     "Category": "Barrel",
     "NameEN": "145_Standard",
-    "NameJP": "",
+    "NameJP": "14.5インチスタンダード",
     "ShortName": "SHORT",
-    "ShortUniqueName": "SHORT",
-    "Cost": 0
+    "ShortUniqueName": "SHORT"
   },
   {
     "Index": 36,
@@ -366,8 +330,7 @@
     "NameEN": "16_Custom",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 37,
@@ -376,8 +339,7 @@
     "NameEN": "16_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 38,
@@ -386,8 +348,7 @@
     "NameEN": "16_Pencil",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 39,
@@ -396,8 +357,7 @@
     "NameEN": "16_Rifle",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 40,
@@ -406,8 +366,7 @@
     "NameEN": "16_Short",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 41,
@@ -416,8 +375,7 @@
     "NameEN": "16_US",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 42,
@@ -426,8 +384,7 @@
     "NameEN": "165_Basic",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 43,
@@ -436,8 +393,7 @@
     "NameEN": "165_Fluted",
     "NameJP": "",
     "ShortName": "LIGHT",
-    "ShortUniqueName": "LIGHT",
-    "Cost": 0
+    "ShortUniqueName": "LIGHT"
   },
   {
     "Index": 44,
@@ -446,8 +402,7 @@
     "NameEN": "165_LSW",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 45,
@@ -456,8 +411,7 @@
     "NameEN": "165_Rifle",
     "NameJP": "",
     "ShortName": "BASIC",
-    "ShortUniqueName": "BASIC",
-    "Cost": 0
+    "ShortUniqueName": "BASIC"
   },
   {
     "Index": 46,
@@ -466,8 +420,7 @@
     "NameEN": "17_Cut",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 47,
@@ -476,8 +429,7 @@
     "NameEN": "17_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 48,
@@ -486,8 +438,7 @@
     "NameEN": "17_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 49,
@@ -496,8 +447,7 @@
     "NameEN": "18_Custom",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 50,
@@ -506,8 +456,7 @@
     "NameEN": "18_EBR",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 51,
@@ -516,8 +465,7 @@
     "NameEN": "18_Extended",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 52,
@@ -526,8 +474,7 @@
     "NameEN": "18_US_LB",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 53,
@@ -536,8 +483,7 @@
     "NameEN": "180mm_Prototype",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 54,
@@ -546,8 +492,7 @@
     "NameEN": "180mm_Standard",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 55,
@@ -556,8 +501,7 @@
     "NameEN": "185_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 56,
@@ -566,8 +510,7 @@
     "NameEN": "189_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 57,
@@ -576,8 +519,7 @@
     "NameEN": "189_Prototype",
     "NameJP": "",
     "ShortName": "EXTENDED",
-    "ShortUniqueName": "EXTENDED",
-    "Cost": 0
+    "ShortUniqueName": "EXTENDED"
   },
   {
     "Index": 58,
@@ -586,8 +528,7 @@
     "NameEN": "20_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 59,
@@ -596,8 +537,7 @@
     "NameEN": "20_LE",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 60,
@@ -606,8 +546,7 @@
     "NameEN": "20_Lima",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 61,
@@ -616,8 +555,7 @@
     "NameEN": "20_Long",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 62,
@@ -626,8 +564,7 @@
     "NameEN": "20_OH",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 63,
@@ -636,8 +573,7 @@
     "NameEN": "20_SDM_R",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 64,
@@ -646,8 +582,7 @@
     "NameEN": "200mm_Custom",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 65,
@@ -656,8 +591,7 @@
     "NameEN": "200mm_Custom_H",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 66,
@@ -666,8 +600,7 @@
     "NameEN": "200mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 67,
@@ -676,8 +609,7 @@
     "NameEN": "200mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 68,
@@ -686,8 +618,7 @@
     "NameEN": "215_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 69,
@@ -696,8 +627,7 @@
     "NameEN": "215_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 70,
@@ -706,8 +636,7 @@
     "NameEN": "22_E3_Long",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 71,
@@ -716,8 +645,7 @@
     "NameEN": "22_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 72,
@@ -726,8 +654,7 @@
     "NameEN": "225mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 73,
@@ -736,8 +663,7 @@
     "NameEN": "24_Bravo",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 74,
@@ -746,8 +672,7 @@
     "NameEN": "24_Extended",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 75,
@@ -756,8 +681,7 @@
     "NameEN": "24_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 76,
@@ -766,8 +690,7 @@
     "NameEN": "24_Full",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 77,
@@ -776,8 +699,7 @@
     "NameEN": "240mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 78,
@@ -786,8 +708,7 @@
     "NameEN": "240mm_SB",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 79,
@@ -796,8 +717,7 @@
     "NameEN": "245mm_Custom",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 80,
@@ -806,8 +726,7 @@
     "NameEN": "26_Carbon",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 81,
@@ -816,8 +735,7 @@
     "NameEN": "26_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 82,
@@ -826,8 +744,7 @@
     "NameEN": "264mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 83,
@@ -836,8 +753,7 @@
     "NameEN": "264mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 84,
@@ -846,8 +762,7 @@
     "NameEN": "264mm_Prototype",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 85,
@@ -856,8 +771,7 @@
     "NameEN": "27_MK22",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 86,
@@ -866,8 +780,7 @@
     "NameEN": "303mm_LB",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 87,
@@ -876,8 +789,7 @@
     "NameEN": "305mm_Custom",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 88,
@@ -886,8 +798,7 @@
     "NameEN": "305mm_Custom_H",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 89,
@@ -896,8 +807,7 @@
     "NameEN": "314mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 90,
@@ -906,8 +816,7 @@
     "NameEN": "314mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 91,
@@ -916,8 +825,7 @@
     "NameEN": "314mm_Prototype",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 92,
@@ -926,8 +834,7 @@
     "NameEN": "330mm_Mk3",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 93,
@@ -936,8 +843,7 @@
     "NameEN": "349mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 94,
@@ -946,8 +852,7 @@
     "NameEN": "349mm_SB",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 95,
@@ -956,8 +861,7 @@
     "NameEN": "370mm_Compact",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 96,
@@ -966,8 +870,7 @@
     "NameEN": "39_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 97,
@@ -976,8 +879,7 @@
     "NameEN": "39_Pencil",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 98,
@@ -986,8 +888,7 @@
     "NameEN": "391mm_CQB",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 99,
@@ -996,8 +897,7 @@
     "NameEN": "406mm_Standard",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 100,
@@ -1006,8 +906,7 @@
     "NameEN": "407mm_Civ_S",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 101,
@@ -1016,8 +915,7 @@
     "NameEN": "409mm_Cut",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 102,
@@ -1026,8 +924,7 @@
     "NameEN": "409mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 103,
@@ -1036,8 +933,7 @@
     "NameEN": "409mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 104,
@@ -1046,38 +942,34 @@
     "NameEN": "409mm_US",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 105,
     "AttachmentKey": "Barrel_415mm_Factory",
     "Category": "Barrel",
     "NameEN": "415mm_Factory",
-    "NameJP": "",
+    "NameJP": "415MM標準",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 106,
     "AttachmentKey": "Barrel_415mm_Fluted",
     "Category": "Barrel",
     "NameEN": "415mm_Fluted",
-    "NameJP": "",
+    "NameJP": "415MMフルーテッド",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 107,
     "AttachmentKey": "Barrel_415mm_Prototype",
     "Category": "Barrel",
     "NameEN": "415mm_Prototype",
-    "NameJP": "",
+    "NameJP": "415MMプロトタイプ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 108,
@@ -1086,8 +978,7 @@
     "NameEN": "419mm_Boar_F",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 109,
@@ -1096,8 +987,7 @@
     "NameEN": "430mm_Cut",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 110,
@@ -1106,8 +996,7 @@
     "NameEN": "430mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 111,
@@ -1116,18 +1005,16 @@
     "NameEN": "432mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 112,
     "AttachmentKey": "Barrel_442_mm_CQB",
     "Category": "Barrel",
     "NameEN": "442_mm_CQB",
-    "NameJP": "",
+    "NameJP": "442MM CQB",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 113,
@@ -1136,8 +1023,7 @@
     "NameEN": "45_Compact",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 114,
@@ -1146,8 +1032,7 @@
     "NameEN": "450mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 115,
@@ -1156,8 +1041,7 @@
     "NameEN": "450mm_Standard",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 116,
@@ -1166,8 +1050,7 @@
     "NameEN": "457mm_Mk9",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 117,
@@ -1176,8 +1059,7 @@
     "NameEN": "457mm_Urban",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 118,
@@ -1186,8 +1068,7 @@
     "NameEN": "458mm_Custom",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 119,
@@ -1196,8 +1077,7 @@
     "NameEN": "465mm_LB",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 120,
@@ -1206,8 +1086,7 @@
     "NameEN": "480mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 121,
@@ -1216,8 +1095,7 @@
     "NameEN": "480mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 122,
@@ -1226,8 +1104,7 @@
     "NameEN": "480mm_MG",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 123,
@@ -1236,8 +1113,7 @@
     "NameEN": "5_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 124,
@@ -1246,8 +1122,7 @@
     "NameEN": "5_Pencil",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 125,
@@ -1256,8 +1131,7 @@
     "NameEN": "508mm_Mk8",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 126,
@@ -1266,8 +1140,7 @@
     "NameEN": "510mm_DMR",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 127,
@@ -1276,8 +1149,7 @@
     "NameEN": "510mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 128,
@@ -1286,8 +1158,7 @@
     "NameEN": "512_Compact",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 129,
@@ -1296,28 +1167,25 @@
     "NameEN": "514mm_Carbine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 130,
     "AttachmentKey": "Barrel_518mm_Factory",
     "Category": "Barrel",
     "NameEN": "518mm_Factory",
-    "NameJP": "",
+    "NameJP": "518MM標準",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 131,
     "AttachmentKey": "Barrel_518mm_Fluted",
     "Category": "Barrel",
     "NameEN": "518mm_Fluted",
-    "NameJP": "",
+    "NameJP": "518MMフルーテッド",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 132,
@@ -1326,8 +1194,7 @@
     "NameEN": "521mm_Boar",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 133,
@@ -1336,8 +1203,7 @@
     "NameEN": "521mm_Boar_F",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 134,
@@ -1346,8 +1212,7 @@
     "NameEN": "55_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 135,
@@ -1356,8 +1221,7 @@
     "NameEN": "55_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 136,
@@ -1366,8 +1230,7 @@
     "NameEN": "550mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 137,
@@ -1376,8 +1239,7 @@
     "NameEN": "556mm_Prototype",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 138,
@@ -1386,8 +1248,7 @@
     "NameEN": "560mm_Cut",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 139,
@@ -1396,8 +1257,7 @@
     "NameEN": "560mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 140,
@@ -1406,8 +1266,7 @@
     "NameEN": "565mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 141,
@@ -1416,8 +1275,7 @@
     "NameEN": "565mm_Para",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 142,
@@ -1426,8 +1284,7 @@
     "NameEN": "590mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 143,
@@ -1436,8 +1293,7 @@
     "NameEN": "6_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 144,
@@ -1446,8 +1302,7 @@
     "NameEN": "6_Standard",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 145,
@@ -1456,8 +1311,7 @@
     "NameEN": "600mm_Cut",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 146,
@@ -1466,8 +1320,7 @@
     "NameEN": "600mm_DMR",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 147,
@@ -1476,8 +1329,7 @@
     "NameEN": "600mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 148,
@@ -1486,8 +1338,7 @@
     "NameEN": "600mm_Tabuk",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 149,
@@ -1496,8 +1347,7 @@
     "NameEN": "612mm_VMW",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 150,
@@ -1506,38 +1356,34 @@
     "NameEN": "620mm_Classic",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 151,
     "AttachmentKey": "Barrel_646mm_Cut",
     "Category": "Barrel",
     "NameEN": "646mm_Cut",
-    "NameJP": "",
+    "NameJP": "646MMカット",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 152,
     "AttachmentKey": "Barrel_646mm_Fluted",
     "Category": "Barrel",
     "NameEN": "646mm_Fluted",
-    "NameJP": "",
+    "NameJP": "646MMフルーテッド",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 153,
     "AttachmentKey": "Barrel_646mm_LSW",
     "Category": "Barrel",
     "NameEN": "646mm_LSW",
-    "NameJP": "",
+    "NameJP": "646MM LSW",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 154,
@@ -1546,8 +1392,7 @@
     "NameEN": "65_Extended",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 155,
@@ -1556,8 +1401,7 @@
     "NameEN": "650mm_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 156,
@@ -1566,8 +1410,7 @@
     "NameEN": "650mm_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 157,
@@ -1576,8 +1419,7 @@
     "NameEN": "675_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 158,
@@ -1586,8 +1428,7 @@
     "NameEN": "68_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 159,
@@ -1596,8 +1437,7 @@
     "NameEN": "68_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 160,
@@ -1606,8 +1446,7 @@
     "NameEN": "730mm_3LR",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 161,
@@ -1616,8 +1455,7 @@
     "NameEN": "75_Compact",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 162,
@@ -1626,8 +1464,7 @@
     "NameEN": "8_Extended",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 163,
@@ -1636,8 +1473,7 @@
     "NameEN": "837_Long",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 164,
@@ -1646,8 +1482,7 @@
     "NameEN": "9_Factory",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 165,
@@ -1656,8 +1491,7 @@
     "NameEN": "9_Fluted",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 166,
@@ -1666,8 +1500,7 @@
     "NameEN": "9_Heavy",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 167,
@@ -1676,8 +1509,7 @@
     "NameEN": "IAR_Heavy",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 168,
@@ -1686,8 +1518,7 @@
     "NameEN": "5_mW_Green",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 169,
@@ -1696,8 +1527,7 @@
     "NameEN": "5_mW_Red",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 170,
@@ -1706,8 +1536,7 @@
     "NameEN": "50_mW_Green",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 171,
@@ -1716,8 +1545,7 @@
     "NameEN": "6H64_Vertical",
     "NameJP": "",
     "ShortName": "VERTICAL",
-    "ShortUniqueName": "VERTICAL 6H",
-    "Cost": 0
+    "ShortUniqueName": "VERTICAL 6H"
   },
   {
     "Index": 172,
@@ -1726,8 +1554,7 @@
     "NameEN": "Adjustable_Angled",
     "NameJP": "",
     "ShortName": "ANGLED",
-    "ShortUniqueName": "ANGLED A",
-    "Cost": 0
+    "ShortUniqueName": "ANGLED A"
   },
   {
     "Index": 173,
@@ -1736,8 +1563,7 @@
     "NameEN": "Alloy_Vertical",
     "NameJP": "",
     "ShortName": "VERTICAL",
-    "ShortUniqueName": "VERTICAL A",
-    "Cost": 0
+    "ShortUniqueName": "VERTICAL A"
   },
   {
     "Index": 174,
@@ -1746,8 +1572,7 @@
     "NameEN": "Bipod",
     "NameJP": "",
     "ShortName": "BIPOD",
-    "ShortUniqueName": "BIPOD",
-    "Cost": 0
+    "ShortUniqueName": "BIPOD"
   },
   {
     "Index": 175,
@@ -1756,8 +1581,7 @@
     "NameEN": "Canted_Stubby",
     "NameJP": "",
     "ShortName": "STUBBY",
-    "ShortUniqueName": "STUBBY C",
-    "Cost": 0
+    "ShortUniqueName": "STUBBY C"
   },
   {
     "Index": 176,
@@ -1766,18 +1590,16 @@
     "NameEN": "Classic_Grip_Pod",
     "NameJP": "",
     "ShortName": "GRIP POD",
-    "ShortUniqueName": "GRIP POD C",
-    "Cost": 0
+    "ShortUniqueName": "GRIP POD C"
   },
   {
     "Index": 177,
     "AttachmentKey": "Bottom_Classic_Vertical",
     "Category": "Bottom",
     "NameEN": "Classic_Vertical",
-    "NameJP": "",
+    "NameJP": "クラシック・バーティカル",
     "ShortName": "VERTICAL",
-    "ShortUniqueName": "VERTICAL C",
-    "Cost": 0
+    "ShortUniqueName": "VERTICAL C"
   },
   {
     "Index": 178,
@@ -1786,8 +1608,7 @@
     "NameEN": "Compact_Handstop",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 179,
@@ -1796,8 +1617,7 @@
     "NameEN": "Factory_Angled",
     "NameJP": "",
     "ShortName": "ANGLED",
-    "ShortUniqueName": "ANGLED FA",
-    "Cost": 0
+    "ShortUniqueName": "ANGLED FA"
   },
   {
     "Index": 180,
@@ -1806,8 +1626,7 @@
     "NameEN": "Flashlight",
     "NameJP": "",
     "ShortName": "FLASHLIGHT",
-    "ShortUniqueName": "FLASHLIGHT",
-    "Cost": 10
+    "ShortUniqueName": "FLASHLIGHT"
   },
   {
     "Index": 181,
@@ -1816,8 +1635,7 @@
     "NameEN": "Folding_Stubby",
     "NameJP": "",
     "ShortName": "STUBBY",
-    "ShortUniqueName": "STUBBY F",
-    "Cost": 0
+    "ShortUniqueName": "STUBBY F"
   },
   {
     "Index": 182,
@@ -1826,8 +1644,7 @@
     "NameEN": "Folding_Vertical",
     "NameJP": "",
     "ShortName": "VERTICAL",
-    "ShortUniqueName": "VERTICAL F",
-    "Cost": 0
+    "ShortUniqueName": "VERTICAL F"
   },
   {
     "Index": 183,
@@ -1836,8 +1653,7 @@
     "NameEN": "Full_Angled",
     "NameJP": "",
     "ShortName": "ANGLED",
-    "ShortUniqueName": "ANGLED FULL",
-    "Cost": 0
+    "ShortUniqueName": "ANGLED FULL"
   },
   {
     "Index": 184,
@@ -1846,8 +1662,7 @@
     "NameEN": "Laser_Light_Combo_Green",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 185,
@@ -1856,8 +1671,7 @@
     "NameEN": "Laser_Light_Combo_Red",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 186,
@@ -1866,8 +1680,7 @@
     "NameEN": "Low_Profile_Stubby",
     "NameJP": "",
     "ShortName": "STUBBY",
-    "ShortUniqueName": "STUBBY L",
-    "Cost": 0
+    "ShortUniqueName": "STUBBY L"
   },
   {
     "Index": 187,
@@ -1876,8 +1689,7 @@
     "NameEN": "PTT_Grip_Pod",
     "NameJP": "",
     "ShortName": "GRIP POD",
-    "ShortUniqueName": "GRIP POD P",
-    "Cost": 0
+    "ShortUniqueName": "GRIP POD P"
   },
   {
     "Index": 188,
@@ -1886,8 +1698,7 @@
     "NameEN": "QD_Grip_Pod",
     "NameJP": "",
     "ShortName": "GRIP POD",
-    "ShortUniqueName": "GRIP POD Q",
-    "Cost": 0
+    "ShortUniqueName": "GRIP POD Q"
   },
   {
     "Index": 189,
@@ -1896,8 +1707,7 @@
     "NameEN": "Ribbed_Stubby",
     "NameJP": "",
     "ShortName": "STUBBY",
-    "ShortUniqueName": "STUBBY R",
-    "Cost": 0
+    "ShortUniqueName": "STUBBY R"
   },
   {
     "Index": 190,
@@ -1906,8 +1716,7 @@
     "NameEN": "Ribbed_Vertical",
     "NameJP": "",
     "ShortName": "VERTICAL",
-    "ShortUniqueName": "VERTICAL R",
-    "Cost": 0
+    "ShortUniqueName": "VERTICAL R"
   },
   {
     "Index": 191,
@@ -1916,8 +1725,7 @@
     "NameEN": "Slim_Angled",
     "NameJP": "",
     "ShortName": "ANGLED",
-    "ShortUniqueName": "ANGLED S",
-    "Cost": 0
+    "ShortUniqueName": "ANGLED S"
   },
   {
     "Index": 192,
@@ -1926,8 +1734,7 @@
     "NameEN": "Slim_Handstop",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 193,
@@ -1936,8 +1743,7 @@
     "NameEN": "Stippled_Stubby",
     "NameJP": "",
     "ShortName": "STUBBY",
-    "ShortUniqueName": "STUBBY S",
-    "Cost": 0
+    "ShortUniqueName": "STUBBY S"
   },
   {
     "Index": 194,
@@ -1946,8 +1752,7 @@
     "NameEN": "Underslung_Mount",
     "NameJP": "",
     "ShortName": "MOUNT",
-    "ShortUniqueName": "MOUNT",
-    "Cost": 0
+    "ShortUniqueName": "MOUNT"
   },
   {
     "Index": 195,
@@ -1956,8 +1761,7 @@
     "NameEN": "VIS_IR_Light",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 196,
@@ -1966,8 +1770,7 @@
     "NameEN": "DLC_Bolt",
     "NameJP": "",
     "ShortName": "ADS BOLT",
-    "ShortUniqueName": "ADS BOLT",
-    "Cost": 30
+    "ShortUniqueName": "ADS BOLT"
   },
   {
     "Index": 197,
@@ -1976,8 +1779,7 @@
     "NameEN": "Improved_Mag_Catch",
     "NameJP": "",
     "ShortName": "MAG CATCH",
-    "ShortUniqueName": "MAG CATCH",
-    "Cost": 5
+    "ShortUniqueName": "MAG CATCH"
   },
   {
     "Index": 198,
@@ -1986,8 +1788,7 @@
     "NameEN": "Magwell_Flare",
     "NameJP": "",
     "ShortName": "MAG FLARE",
-    "ShortUniqueName": "MAG FLARE",
-    "Cost": 10
+    "ShortUniqueName": "MAG FLARE"
   },
   {
     "Index": 199,
@@ -1996,8 +1797,7 @@
     "NameEN": "Match_Trigger",
     "NameJP": "",
     "ShortName": "TRIGGER",
-    "ShortUniqueName": "TRIGGER",
-    "Cost": 15
+    "ShortUniqueName": "TRIGGER"
   },
   {
     "Index": 200,
@@ -2006,8 +1806,7 @@
     "NameEN": "Rail_Cover",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 201,
@@ -2016,8 +1815,7 @@
     "NameEN": "120_mW_Blue",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 202,
@@ -2026,8 +1824,7 @@
     "NameEN": "5_mW_Green",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 203,
@@ -2036,8 +1833,7 @@
     "NameEN": "5_mW_Red",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 204,
@@ -2046,8 +1842,7 @@
     "NameEN": "50_mW_Blue",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 205,
@@ -2056,8 +1851,7 @@
     "NameEN": "50_mW_Green",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 206,
@@ -2066,8 +1860,7 @@
     "NameEN": "Flashlight",
     "NameJP": "",
     "ShortName": "LIGHT",
-    "ShortUniqueName": "LIGHT",
-    "Cost": 10
+    "ShortUniqueName": "LIGHT"
   },
   {
     "Index": 207,
@@ -2076,8 +1869,7 @@
     "NameEN": "Range_Finder",
     "NameJP": "",
     "ShortName": "RANGE",
-    "ShortUniqueName": "RANGE",
-    "Cost": 15
+    "ShortUniqueName": "RANGE"
   },
   {
     "Index": 208,
@@ -2086,8 +1878,7 @@
     "NameEN": "VIS_IR_Light",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 209,
@@ -2096,8 +1887,7 @@
     "NameEN": "100rnd_Belt_Box",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 210,
@@ -2106,8 +1896,7 @@
     "NameEN": "100rnd_Belt_Pouch",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 211,
@@ -2116,28 +1905,25 @@
     "NameEN": "100rnd_Drum_Mag",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 212,
     "AttachmentKey": "Magazine_10rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "10rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "10連ファストマグ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 213,
     "AttachmentKey": "Magazine_10rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "10rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "10連マガジン",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 214,
@@ -2146,28 +1932,25 @@
     "NameEN": "11rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 215,
     "AttachmentKey": "Magazine_15rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "15rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "15連ファストマグ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 216,
     "AttachmentKey": "Magazine_15rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "15rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "15連マガジン",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 217,
@@ -2176,8 +1959,7 @@
     "NameEN": "17rnd_Fast_Mag",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 218,
@@ -2186,8 +1968,7 @@
     "NameEN": "17rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 219,
@@ -2196,28 +1977,25 @@
     "NameEN": "200rnd_Belt_Box",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 220,
     "AttachmentKey": "Magazine_20rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "20rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "20連ファストマグ",
     "ShortName": "20 FAST",
-    "ShortUniqueName": "20 FAST",
-    "Cost": 0
+    "ShortUniqueName": "20 FAST"
   },
   {
     "Index": 221,
     "AttachmentKey": "Magazine_20rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "20rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "20連マガジン",
     "ShortName": "20 RND",
-    "ShortUniqueName": "20 RND",
-    "Cost": 0
+    "ShortUniqueName": "20 RND"
   },
   {
     "Index": 222,
@@ -2226,8 +2004,7 @@
     "NameEN": "21rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 223,
@@ -2236,8 +2013,7 @@
     "NameEN": "22rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 224,
@@ -2246,8 +2022,7 @@
     "NameEN": "23rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 225,
@@ -2256,18 +2031,16 @@
     "NameEN": "25rnd_Fast_Mag",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 226,
     "AttachmentKey": "Magazine_25rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "25rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "25連マガジン",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 227,
@@ -2276,68 +2049,61 @@
     "NameEN": "27rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 228,
     "AttachmentKey": "Magazine_30rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "30rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "30連ファストマグ",
     "ShortName": "30 FAST",
-    "ShortUniqueName": "30 FAST",
-    "Cost": 0
+    "ShortUniqueName": "30 FAST"
   },
   {
     "Index": 229,
     "AttachmentKey": "Magazine_30rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "30rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "30連マガジン",
     "ShortName": "30 RND",
-    "ShortUniqueName": "30 RND",
-    "Cost": 0
+    "ShortUniqueName": "30 RND"
   },
   {
     "Index": 230,
     "AttachmentKey": "Magazine_36rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "36rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "36連マガジン",
     "ShortName": "36 RND",
-    "ShortUniqueName": "36 RND",
-    "Cost": 0
+    "ShortUniqueName": "36 RND"
   },
   {
     "Index": 231,
     "AttachmentKey": "Magazine_4_Shell_Tube",
     "Category": "Magazine",
     "NameEN": "4_Shell_Tube",
-    "NameJP": "",
+    "NameJP": "4シェルチューブ",
     "ShortName": "4 RND",
-    "ShortUniqueName": "4 RND",
-    "Cost": 5
+    "ShortUniqueName": "4 RND"
   },
   {
     "Index": 232,
     "AttachmentKey": "Magazine_40rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "40rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "40連ファストマグ",
     "ShortName": "40 FAST",
-    "ShortUniqueName": "40 FAST",
-    "Cost": 0
+    "ShortUniqueName": "40 FAST"
   },
   {
     "Index": 233,
     "AttachmentKey": "Magazine_40rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "40rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "40連マガジン",
     "ShortName": "40 RND",
-    "ShortUniqueName": "40 RND",
-    "Cost": 0
+    "ShortUniqueName": "40 RND"
   },
   {
     "Index": 234,
@@ -2346,8 +2112,7 @@
     "NameEN": "41rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 235,
@@ -2356,8 +2121,7 @@
     "NameEN": "45rnd_Fast_Mag",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 236,
@@ -2366,38 +2130,34 @@
     "NameEN": "45rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 237,
     "AttachmentKey": "Magazine_4rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "4rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "4連ファストマグ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 238,
     "AttachmentKey": "Magazine_4rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "4rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "4連マガジン",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 239,
     "AttachmentKey": "Magazine_5_Shell_Tube",
     "Category": "Magazine",
     "NameEN": "5_Shell_Tube",
-    "NameJP": "",
+    "NameJP": "5シェルチューブ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 240,
@@ -2406,8 +2166,7 @@
     "NameEN": "50rnd_Belt_Pouch",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 241,
@@ -2416,8 +2175,7 @@
     "NameEN": "50rnd_Loose_Belt",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 242,
@@ -2426,38 +2184,34 @@
     "NameEN": "50rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 243,
     "AttachmentKey": "Magazine_5rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "5rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "5連ファストマグ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 244,
     "AttachmentKey": "Magazine_5rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "5rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "5連マガジン",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 245,
     "AttachmentKey": "Magazine_6_Shell_Tube",
     "Category": "Magazine",
     "NameEN": "6_Shell_Tube",
-    "NameJP": "",
+    "NameJP": "6シェルチューブ",
     "ShortName": "6 RND",
-    "ShortUniqueName": "6 RND",
-    "Cost": 5
+    "ShortUniqueName": "6 RND"
   },
   {
     "Index": 246,
@@ -2466,8 +2220,7 @@
     "NameEN": "60rnd_Drum_Mag",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 247,
@@ -2476,8 +2229,7 @@
     "NameEN": "60rnd_Magazine",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 248,
@@ -2486,8 +2238,7 @@
     "NameEN": "6rnd_Speedloader",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 249,
@@ -2496,18 +2247,16 @@
     "NameEN": "7_Shell_Dual_Tubes",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 250,
     "AttachmentKey": "Magazine_7_Shell_Tube",
     "Category": "Magazine",
     "NameEN": "7_Shell_Tube",
-    "NameJP": "",
+    "NameJP": "7シェルチューブ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 251,
@@ -2516,8 +2265,7 @@
     "NameEN": "75rnd_Belt_Box",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 252,
@@ -2526,38 +2274,34 @@
     "NameEN": "75rnd_Drum",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 253,
     "AttachmentKey": "Magazine_7rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "7rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "7連マガジン",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 254,
     "AttachmentKey": "Magazine_8rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "8rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "8連ファストマグ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 255,
     "AttachmentKey": "Magazine_8rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "8rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "8連マガジン",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 256,
@@ -2566,88 +2310,79 @@
     "NameEN": "8rnd_Speedloader",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 257,
     "AttachmentKey": "Muzzle_Compensated_Brake",
     "Category": "Muzzle",
     "NameEN": "Compensated_Brake",
-    "NameJP": "",
+    "NameJP": "コンペンセイター",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 258,
     "AttachmentKey": "Muzzle_CQB_Suppressor",
     "Category": "Muzzle",
     "NameEN": "CQB_Suppressor",
-    "NameJP": "",
+    "NameJP": "CQBサプレッサー",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 259,
     "AttachmentKey": "Muzzle_Double_port_Brake",
     "Category": "Muzzle",
     "NameEN": "Double_port_Brake",
-    "NameJP": "",
+    "NameJP": "ダブルポート・ブレーキ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 260,
     "AttachmentKey": "Muzzle_Flash_Hider",
     "Category": "Muzzle",
     "NameEN": "Flash_Hider",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "NameJP": "フラッシュハイダー",
+    "ShortName": "FLASH HIDER",
+    "ShortUniqueName": "FLASH HIDER"
   },
   {
     "Index": 261,
     "AttachmentKey": "Muzzle_Lightened_Suppressor",
     "Category": "Muzzle",
     "NameEN": "Lightened_Suppressor",
-    "NameJP": "",
+    "NameJP": "軽量化済みサプレッサー",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 262,
     "AttachmentKey": "Muzzle_Linear_Comp",
     "Category": "Muzzle",
     "NameEN": "Linear_Comp",
-    "NameJP": "",
+    "NameJP": "リニアコンペンセイター",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 263,
     "AttachmentKey": "Muzzle_Long_Suppressor",
     "Category": "Muzzle",
     "NameEN": "Long_Suppressor",
-    "NameJP": "",
+    "NameJP": "ロングサプレッサー",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 264,
     "AttachmentKey": "Muzzle_Single_port_Brake",
     "Category": "Muzzle",
     "NameEN": "Single_port_Brake",
-    "NameJP": "",
+    "NameJP": "シングルポート・ブレーキ",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 265,
@@ -2656,18 +2391,16 @@
     "NameEN": "Slant_Brake",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 266,
     "AttachmentKey": "Muzzle_Standard_Suppressor",
     "Category": "Muzzle",
     "NameEN": "Standard_Suppressor",
-    "NameJP": "",
+    "NameJP": "スタンダード・サプレッサー",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 267,
@@ -2676,8 +2409,7 @@
     "NameEN": "Thread_Protector",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 268,
@@ -2686,8 +2418,7 @@
     "NameEN": "Triple_port_Brake",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 269,
@@ -2696,8 +2427,7 @@
     "NameEN": "120_mW_Blue",
     "NameJP": "",
     "ShortName": "BLUE LASER",
-    "ShortUniqueName": "BLUE LASER 120",
-    "Cost": 30
+    "ShortUniqueName": "BLUE LASER 120"
   },
   {
     "Index": 270,
@@ -2706,8 +2436,7 @@
     "NameEN": "5_mW_Green",
     "NameJP": "",
     "ShortName": "GREEN LASER",
-    "ShortUniqueName": "GREEN LASER",
-    "Cost": 10
+    "ShortUniqueName": "GREEN LASER"
   },
   {
     "Index": 271,
@@ -2716,8 +2445,7 @@
     "NameEN": "5_mW_Red",
     "NameJP": "",
     "ShortName": "RED LASER",
-    "ShortUniqueName": "RED LASER",
-    "Cost": 10
+    "ShortUniqueName": "RED LASER"
   },
   {
     "Index": 272,
@@ -2726,8 +2454,7 @@
     "NameEN": "50_mW_Blue",
     "NameJP": "",
     "ShortName": "BLUE LASER",
-    "ShortUniqueName": "BLUE LASER 50",
-    "Cost": 20
+    "ShortUniqueName": "BLUE LASER 50"
   },
   {
     "Index": 273,
@@ -2736,8 +2463,7 @@
     "NameEN": "50_mW_Green",
     "NameJP": "",
     "ShortName": "GREEN LASER",
-    "ShortUniqueName": "GREEN LASER 50",
-    "Cost": 20
+    "ShortUniqueName": "GREEN LASER 50"
   },
   {
     "Index": 274,
@@ -2746,8 +2472,7 @@
     "NameEN": "Flashlight",
     "NameJP": "",
     "ShortName": "LIGHT",
-    "ShortUniqueName": "LIGHT",
-    "Cost": 10
+    "ShortUniqueName": "LIGHT"
   },
   {
     "Index": 275,
@@ -2756,8 +2481,7 @@
     "NameEN": "Laser_Light_Combo_Green",
     "NameJP": "",
     "ShortName": "LASER/LIGHT",
-    "ShortUniqueName": "LASER/LIGHT G",
-    "Cost": 20
+    "ShortUniqueName": "LASER/LIGHT G"
   },
   {
     "Index": 276,
@@ -2766,8 +2490,7 @@
     "NameEN": "Laser_Light_Combo_Red",
     "NameJP": "",
     "ShortName": "LASER/LIGHT",
-    "ShortUniqueName": "LASER/LIGHT R",
-    "Cost": 20
+    "ShortUniqueName": "LASER/LIGHT R"
   },
   {
     "Index": 277,
@@ -2776,8 +2499,7 @@
     "NameEN": "Range_Finder",
     "NameJP": "",
     "ShortName": "RANGE",
-    "ShortUniqueName": "RANGE",
-    "Cost": 15
+    "ShortUniqueName": "RANGE"
   },
   {
     "Index": 278,
@@ -2786,8 +2508,7 @@
     "NameEN": "VIS_IR_Light",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 279,
@@ -2796,8 +2517,7 @@
     "NameEN": "1p87_150x",
     "NameJP": "",
     "ShortName": "SIGHT 1.50X",
-    "ShortUniqueName": "SIGHT 1.50X 1P",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 1.50X 1P"
   },
   {
     "Index": 280,
@@ -2806,8 +2526,7 @@
     "NameEN": "1p88_Variable",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 281,
@@ -2816,8 +2535,7 @@
     "NameEN": "2Pro_125x",
     "NameJP": "",
     "ShortName": "SIGHT 1.25X",
-    "ShortUniqueName": "SIGHT 1.25X 2P",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 1.25X 2P"
   },
   {
     "Index": 282,
@@ -2826,8 +2544,7 @@
     "NameEN": "3VZR_175x",
     "NameJP": "",
     "ShortName": "SIGHT 1.75X",
-    "ShortUniqueName": "SIGHT 1.75X 3V",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 1.75X 3V"
   },
   {
     "Index": 283,
@@ -2836,8 +2553,7 @@
     "NameEN": "A_P2_175x",
     "NameJP": "",
     "ShortName": "SIGHT 1.75X",
-    "ShortUniqueName": "SIGHT 1.75X A",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 1.75X A"
   },
   {
     "Index": 284,
@@ -2846,8 +2562,7 @@
     "NameEN": "Adjustable_Magnification_200x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 285,
@@ -2856,8 +2571,7 @@
     "NameEN": "Adjustable_Magnification_300x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 286,
@@ -2866,8 +2580,7 @@
     "NameEN": "Adjustable_Magnification_400x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 287,
@@ -2876,8 +2589,7 @@
     "NameEN": "Anti_Glare_Coating",
     "NameJP": "",
     "ShortName": "ANTI-GLARE",
-    "ShortUniqueName": "ANTI-GLARE",
-    "Cost": 10
+    "ShortUniqueName": "ANTI-GLARE"
   },
   {
     "Index": 288,
@@ -2886,8 +2598,7 @@
     "NameEN": "Aperture_Sight",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 289,
@@ -2896,8 +2607,7 @@
     "NameEN": "Baker_300x",
     "NameJP": "",
     "ShortName": "SCOPE 3.00X",
-    "ShortUniqueName": "SCOPE 3.00X",
-    "Cost": 10
+    "ShortUniqueName": "SCOPE 3.00X"
   },
   {
     "Index": 290,
@@ -2906,28 +2616,25 @@
     "NameEN": "BF_2M_250x",
     "NameJP": "",
     "ShortName": "SCOPE 2.50X",
-    "ShortUniqueName": "SCOPE 2.50X",
-    "Cost": 10
+    "ShortUniqueName": "SCOPE 2.50X"
   },
   {
     "Index": 291,
     "AttachmentKey": "Scope_Canted_Iron_Sights",
     "Category": "Scope",
     "NameEN": "Canted_Iron_Sights",
-    "NameJP": "",
+    "NameJP": "オフセットアイアンサイト",
     "ShortName": "BASIC SIGHT",
-    "ShortUniqueName": "BASIC SIGHT",
-    "Cost": 0
+    "ShortUniqueName": "BASIC SIGHT"
   },
   {
     "Index": 292,
     "AttachmentKey": "Scope_CCO_200x",
     "Category": "Scope",
     "NameEN": "CCO_200x",
-    "NameJP": "",
+    "NameJP": "CCO X2.00",
     "ShortName": "SIGHT 2.00X",
-    "ShortUniqueName": "SIGHT 2.00X C",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 2.00X C"
   },
   {
     "Index": 293,
@@ -2936,8 +2643,7 @@
     "NameEN": "CQ_RDS_125x",
     "NameJP": "",
     "ShortName": "SIGHT 1.25X",
-    "ShortUniqueName": "SIGHT 1.25X C",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 1.25X C"
   },
   {
     "Index": 294,
@@ -2946,8 +2652,7 @@
     "NameEN": "CQB_Sights",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 295,
@@ -2956,8 +2661,7 @@
     "NameEN": "DVO_LPVO",
     "NameJP": "",
     "ShortName": "VARIABLE 1-6X",
-    "ShortUniqueName": "VARIABLE 1-6X D",
-    "Cost": 25
+    "ShortUniqueName": "VARIABLE 1-6X D"
   },
   {
     "Index": 296,
@@ -2966,8 +2670,7 @@
     "NameEN": "GRIM_150x",
     "NameJP": "",
     "ShortName": "THERMAL 1.50X",
-    "ShortUniqueName": "THERMAL 1.50X",
-    "Cost": 25
+    "ShortUniqueName": "THERMAL 1.50X"
   },
   {
     "Index": 297,
@@ -2976,8 +2679,7 @@
     "NameEN": "Iron_Sights",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 298,
@@ -2986,8 +2688,7 @@
     "NameEN": "LDS_450x",
     "NameJP": "",
     "ShortName": "SCOPE 4.50X",
-    "ShortUniqueName": "SCOPE 4.50X",
-    "Cost": 10
+    "ShortUniqueName": "SCOPE 4.50X"
   },
   {
     "Index": 299,
@@ -2996,8 +2697,7 @@
     "NameEN": "LERT_800x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 300,
@@ -3006,8 +2706,7 @@
     "NameEN": "Mars_F_LPVO",
     "NameJP": "",
     "ShortName": "VARIABLE 1-5X",
-    "ShortUniqueName": "VARIABLE 1-5X",
-    "Cost": 25
+    "ShortUniqueName": "VARIABLE 1-5X"
   },
   {
     "Index": 301,
@@ -3016,8 +2715,7 @@
     "NameEN": "MC_CO_LPVO",
     "NameJP": "",
     "ShortName": "VARIABLE 1-6X",
-    "ShortUniqueName": "VARIABLE 1-6X M",
-    "Cost": 25
+    "ShortUniqueName": "VARIABLE 1-6X M"
   },
   {
     "Index": 302,
@@ -3026,8 +2724,7 @@
     "NameEN": "Mini_Flex_100x",
     "NameJP": "",
     "ShortName": "SIGHT 1.00X",
-    "ShortUniqueName": "SIGHT 1.00X M",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 1.00X M"
   },
   {
     "Index": 303,
@@ -3036,8 +2733,7 @@
     "NameEN": "NFX_800x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 304,
@@ -3046,8 +2742,7 @@
     "NameEN": "NGFC_LPVO",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 305,
@@ -3056,8 +2751,7 @@
     "NameEN": "Osa_7_100x",
     "NameJP": "",
     "ShortName": "SIGHT 1.00X",
-    "ShortUniqueName": "SIGHT 1.00X O",
-    "Cost": 0
+    "ShortUniqueName": "SIGHT 1.00X O"
   },
   {
     "Index": 306,
@@ -3066,18 +2760,16 @@
     "NameEN": "PAS_35_300x",
     "NameJP": "",
     "ShortName": "THERMAL 3.00X",
-    "ShortUniqueName": "THERMAL 3.00X",
-    "Cost": 25
+    "ShortUniqueName": "THERMAL 3.00X"
   },
   {
     "Index": 307,
     "AttachmentKey": "Scope_Piggyback_Reflex",
     "Category": "Scope",
     "NameEN": "Piggyback_Reflex",
-    "NameJP": "",
+    "NameJP": "ピギーバック・リフレックス",
     "ShortName": "SIGHT 1.00X",
-    "ShortUniqueName": "SIGHT 1.00X P",
-    "Cost": 0
+    "ShortUniqueName": "SIGHT 1.00X P"
   },
   {
     "Index": 308,
@@ -3086,8 +2778,7 @@
     "NameEN": "PVQ_31_400x",
     "NameJP": "",
     "ShortName": "SCOPE 4.00X",
-    "ShortUniqueName": "SCOPE 4.00X",
-    "Cost": 10
+    "ShortUniqueName": "SCOPE 4.00X"
   },
   {
     "Index": 309,
@@ -3096,8 +2787,7 @@
     "NameEN": "R_MR_100x",
     "NameJP": "",
     "ShortName": "SIGHT 1.00X",
-    "ShortUniqueName": "SIGHT 1.00X R",
-    "Cost": 0
+    "ShortUniqueName": "SIGHT 1.00X R"
   },
   {
     "Index": 310,
@@ -3106,8 +2796,7 @@
     "NameEN": "R_VPS_1000x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 311,
@@ -3116,8 +2805,7 @@
     "NameEN": "R4T_200x",
     "NameJP": "",
     "ShortName": "SIGHT 2.00X",
-    "ShortUniqueName": "SIGHT 2.00X R",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 2.00X R"
   },
   {
     "Index": 312,
@@ -3126,8 +2814,7 @@
     "NameEN": "RO_M_175x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 313,
@@ -3136,8 +2823,7 @@
     "NameEN": "RO_S_125x",
     "NameJP": "",
     "ShortName": "SIGHT 1.25X",
-    "ShortUniqueName": "SIGHT 1.25X R",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 1.25X R"
   },
   {
     "Index": 314,
@@ -3146,8 +2832,7 @@
     "NameEN": "ROX_150x",
     "NameJP": "",
     "ShortName": "SIGHT 1.50X",
-    "ShortUniqueName": "SIGHT 1.50X R",
-    "Cost": 10
+    "ShortUniqueName": "SIGHT 1.50X R"
   },
   {
     "Index": 315,
@@ -3156,18 +2841,16 @@
     "NameEN": "S_VPS_600x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 316,
     "AttachmentKey": "Scope_SDO_350x",
     "Category": "Scope",
     "NameEN": "SDO_350x",
-    "NameJP": "",
+    "NameJP": "SDO X3.50",
     "ShortName": "SCOPE 3.50X",
-    "ShortUniqueName": "SCOPE 3.50X",
-    "Cost": 10
+    "ShortUniqueName": "SCOPE 3.50X"
   },
   {
     "Index": 317,
@@ -3176,8 +2859,7 @@
     "NameEN": "SF_G2_500x",
     "NameJP": "",
     "ShortName": "SCOPE 5.00X",
-    "ShortUniqueName": "SCOPE 5.00X SF",
-    "Cost": 10
+    "ShortUniqueName": "SCOPE 5.00X SF"
   },
   {
     "Index": 318,
@@ -3186,8 +2868,7 @@
     "NameEN": "SM_Rifle_Variable",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 319,
@@ -3196,8 +2877,7 @@
     "NameEN": "SSDS_600x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 320,
@@ -3206,18 +2886,16 @@
     "NameEN": "ST_Prisim_500x",
     "NameJP": "",
     "ShortName": "SCOPE 5.00X",
-    "ShortUniqueName": "SCOPE 5.00X SU",
-    "Cost": 10
+    "ShortUniqueName": "SCOPE 5.00X SU"
   },
   {
     "Index": 321,
     "AttachmentKey": "Scope_SU_123_150x",
     "Category": "Scope",
     "NameEN": "SU_123_150x",
-    "NameJP": "",
+    "NameJP": "SU-231 X1.50",
     "ShortName": "SIGHT 1.50X",
-    "ShortUniqueName": "SIGHT 1.50X S",
-    "Cost": 0
+    "ShortUniqueName": "SIGHT 1.50X S"
   },
   {
     "Index": 322,
@@ -3226,8 +2904,7 @@
     "NameEN": "SU_230_LPVO",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 323,
@@ -3236,8 +2913,7 @@
     "NameEN": "TS_HD_600x",
     "NameJP": "",
     "ShortName": "",
-    "ShortUniqueName": "",
-    "Cost": 0
+    "ShortUniqueName": ""
   },
   {
     "Index": 324,
@@ -3246,8 +2922,7 @@
     "NameEN": "120_mW_Blue",
     "NameJP": "",
     "ShortName": "BLUE LASER",
-    "ShortUniqueName": "BLUE LASER 120",
-    "Cost": 30
+    "ShortUniqueName": "BLUE LASER 120"
   },
   {
     "Index": 325,
@@ -3256,8 +2931,7 @@
     "NameEN": "5_mW_Green",
     "NameJP": "",
     "ShortName": "GREEN LASER",
-    "ShortUniqueName": "GREEN LASER 5",
-    "Cost": 10
+    "ShortUniqueName": "GREEN LASER 5"
   },
   {
     "Index": 326,
@@ -3266,8 +2940,7 @@
     "NameEN": "5_mW_Red",
     "NameJP": "",
     "ShortName": "RED LASER",
-    "ShortUniqueName": "RED LASER 5",
-    "Cost": 10
+    "ShortUniqueName": "RED LASER 5"
   },
   {
     "Index": 327,
@@ -3276,8 +2949,7 @@
     "NameEN": "50_mW_Blue",
     "NameJP": "",
     "ShortName": "BLUE LASER",
-    "ShortUniqueName": "BLUE LASER 50",
-    "Cost": 20
+    "ShortUniqueName": "BLUE LASER 50"
   },
   {
     "Index": 328,
@@ -3286,7 +2958,6 @@
     "NameEN": "50_mW_Green",
     "NameJP": "",
     "ShortName": "GREEN LASER",
-    "ShortUniqueName": "GREEN LASER 50",
-    "Cost": 20
+    "ShortUniqueName": "GREEN LASER 50"
   }
 ]
