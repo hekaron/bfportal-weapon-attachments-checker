@@ -26,6 +26,21 @@
       line-height: 1.3;
     }
 
+    button.versionLog-btn {
+      background: #FFCB05;
+      color: #000;
+      font-weight: bold;
+      border: none;
+      padding: 6px 12px;
+      font-size: 13px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    button.versionLog-btn:hover {
+      background: #C7A252;
+    }
+
     button.info-btn {
       background: #1976d2;
       color: #fff;
@@ -192,6 +207,7 @@
 <body>
   <header>
     <h1>BFPortal：武器ごとの装備可能アタッチメント</h1>
+    <button class="versionLog-btn" id="versionLogBtn">バージョン履歴</button>
     <button class="info-btn" id="infoBtn">はじめにお読みください</button>
   </header>
   <div class="bar">
@@ -226,9 +242,9 @@
   </table>
 
       <!-- ✅ モーダル本体 -->
-  <div class="modal-backdrop" id="modalBg">
+  <div class="modal-backdrop" id="infoModalBg">
     <div class="modal">
-      <button class="close" id="modalClose">&times;</button>
+      <button class="close" id="infoModalClose">&times;</button>
       <h2>免責事項</h2>
       <p>
         本サイトは Battlefield Portal のカスタムモード制作支援を目的とした
@@ -255,12 +271,37 @@
     </div>
   </div>
 
+  <div class="modal-backdrop" id="versionLogModalBg">
+    <div class="modal">
+      <button class="close" id="versionLogModalClose">&times;</button>
+      <h2>バージョン履歴</h2>
+      <p>
+        2025-11-02:
+        <br>・レスポンシブ対応
+        <br>・アタッチメントカテゴリ別色分け
+        <br>・武器別アタッチメントコストに対応(現在イチから調査中…)
+      </p>
+      <p>
+        2025-11-01:<br>・サイト公開
+      </p>
+    </div>
+  </div>
+
   <script src="./js/main.js"></script>
   <script>
     // --- モーダル制御 ---
-    const modalBg = document.getElementById('modalBg');
+    const versionLogModalBg = document.getElementById('versionLogModalBg');
+    const versionLogBtn = document.getElementById('versionLogBtn');
+    const versionLogModalClose = document.getElementById('versionLogModalClose');
+    const modalBg = document.getElementById('infoModalBg');
     const infoBtn = document.getElementById('infoBtn');
-    const modalClose = document.getElementById('modalClose');
+    const modalClose = document.getElementById('infoModalClose');
+
+    versionLogBtn.addEventListener('click', () => versionLogModalBg.style.display = 'flex');
+    versionLogModalClose.addEventListener('click', () => versionLogModalBg.style.display = 'none');
+    versionLogModalBg.addEventListener('click', (e) => {
+      if (e.target === versionLogModalBg) versionLogModalBg.style.display = 'none';
+    });
 
     infoBtn.addEventListener('click', () => modalBg.style.display = 'flex');
     modalClose.addEventListener('click', () => modalBg.style.display = 'none');
@@ -272,7 +313,7 @@
       const container = document.getElementById('defaultList');
       container.innerHTML = '';
       if (!defaultList || !defaultList.length) {
-        container.innerHTML = '<span>デフォルト装備なし</span>';
+        container.innerHTML = '<span>デフォルトアタッチメント調査中...</span>';
         return;
       }
       defaultList.forEach(name => {

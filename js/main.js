@@ -87,7 +87,7 @@ async function init() {
       tr.innerHTML = `
         <td>${a.NameJP || a.AttachmentKey}${a.Default ? ' ⭐' : ''}</td>
         <td>${a.Category || ''}</td>
-        <td>${a.Cost ?? ''}</td>
+        <td>${a.Cost === 0 ? '調査中' : a.Cost ?? ''}</td>
         <td>${a.AttachmentKey}</td>
       `;
       tbody.appendChild(tr);
