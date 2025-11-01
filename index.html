@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BF Portal – Weapon Attachment Viewer</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 24px; }
+    h1 { font-size: 20px; margin: 0 0 12px; }
+    .bar { display:flex; gap:12px; align-items:center; margin-bottom:16px; flex-wrap:wrap; }
+    select, input { font-size: 14px; padding: 6px 8px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 8px 10px; font-size: 14px; }
+    th { background: #f7f7f7; text-align: left; }
+    .muted { color:#666; font-size:12px; }
+  </style>
+</head>
+<body>
+  <h1>武器ごとの装備可能アタッチメント</h1>
+
+  <div class="bar">
+    <label>武器：</label>
+    <select id="weaponSelect"></select>
+
+    <label>カテゴリ：</label>
+    <select id="catFilter">
+      <option value="">（すべて）</option>
+    </select>
+
+    <input id="kw" type="search" placeholder="名前で絞り込み…" />
+  </div>
+
+  <div class="muted" id="meta"></div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>名前</th>
+        <th>カテゴリ</th>
+        <th>Cost</th>
+        <th>キー</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+
+  <script src="./js/main.js"></script>
+</body>
+</html>
