@@ -82,6 +82,8 @@ async function init() {
     tbody.innerHTML = '';
     filtered.forEach(a => {
       const tr = document.createElement('tr');
+      const cat = (a.Category || 'Other').replace(/\s+/g, '');
+      tr.classList.add(`cat-${cat}`);
       tr.innerHTML = `
         <td>${a.NameJP || a.NameEN || a.AttachmentKey}</td>
         <td>${a.Category || ''}</td>
@@ -97,6 +99,11 @@ async function init() {
   sel.addEventListener('change', render);
   cat.addEventListener('change', render);
   kw.addEventListener('input', render);
+
+  const defaults = items.filter(a => a.IsDefault === true).map(a => a.NameJP);
+  if (window.updateDefaultAttachments) {
+    window.updateDefaultAttachments(defaults);
+  }
 
   // 初期描画
   if (weapons.length) sel.value = weapons[0].WeaponKey;

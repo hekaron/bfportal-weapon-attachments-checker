@@ -175,6 +175,18 @@
       }
       th, td { font-size: 13px; }
     }
+
+    /* ===== カテゴリ色分け ===== */
+    .cat-Ammo       { background: #CFE2FF; color: #0B5394; }
+    .cat-Barrel     { background: #FFE699; color: #7F6000; }
+    .cat-Bottom     { background: #C9EAD3; color: #1C4C34; }
+    .cat-Ergonomic  { background: #E5D0F5; color: #3B0A45; }
+    .cat-Left       { background: #E0E0E0; color: #333333; }
+    .cat-Magazine   { background: #FADBD8; color: #6E1E1E; }  /* 特殊 */
+    .cat-Muzzle     { background: #F9E5C1; color: #5A3B00; }
+    .cat-Right      { background: #D9D2E9; color: #1C1C7A; }
+    .cat-Scope      { background: #D0E8E8; color: #134F5C; }
+    .cat-Top        { background: #FFF2CC; color: #7F6000; }
   </style>
 </head>
 <body>
@@ -192,6 +204,11 @@
     </select>
 
     <input id="kw" type="search" placeholder="名前で絞り込み…" />
+  </div>
+
+  <div id="defaultArea">
+    <h2>デフォルトアタッチメント</h2>
+    <div id="defaultList"><span>（選択した武器のデフォルトアタッチメントを表示）</span></div>
   </div>
 
   <div class="muted" id="meta"></div>
@@ -250,6 +267,20 @@
     modalBg.addEventListener('click', (e) => {
       if (e.target === modalBg) modalBg.style.display = 'none';
     });
+
+    window.updateDefaultAttachments = function(defaultList) {
+      const container = document.getElementById('defaultList');
+      container.innerHTML = '';
+      if (!defaultList || !defaultList.length) {
+        container.innerHTML = '<span>デフォルト装備なし</span>';
+        return;
+      }
+      defaultList.forEach(name => {
+        const span = document.createElement('span');
+        span.textContent = name;
+        container.appendChild(span);
+      });
+    };
   </script>
 </body>
 </html>
