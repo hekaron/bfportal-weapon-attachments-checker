@@ -1,0 +1,3292 @@
+[
+  {
+    "Index": 0,
+    "AttachmentKey": "Ammo_Buckshot",
+    "Category": "Ammo",
+    "NameEN": "Buckshot",
+    "NameJP": "バックショット",
+    "ShortName": "BUCKSHOT",
+    "ShortUniqueName": "BUCKSHOT",
+    "Cost": 10
+  },
+  {
+    "Index": 1,
+    "AttachmentKey": "Ammo_Flechette",
+    "Category": "Ammo",
+    "NameEN": "Flechette",
+    "NameJP": "フレシェット弾",
+    "ShortName": "FLECHETTE",
+    "ShortUniqueName": "FLECHETTE",
+    "Cost": 30
+  },
+  {
+    "Index": 2,
+    "AttachmentKey": "Ammo_FMJ",
+    "Category": "Ammo",
+    "NameEN": "FMJ",
+    "NameJP": "FMJ",
+    "ShortName": "STANDARD",
+    "ShortUniqueName": "STANDARD",
+    "Cost": 5
+  },
+  {
+    "Index": 3,
+    "AttachmentKey": "Ammo_Frangible",
+    "Category": "Ammo",
+    "NameEN": "Frangible",
+    "NameJP": "フランジブル弾",
+    "ShortName": "FRANGIBLE",
+    "ShortUniqueName": "FRANGIBLE",
+    "Cost": 20
+  },
+  {
+    "Index": 4,
+    "AttachmentKey": "Ammo_Hollow_Point",
+    "Category": "Ammo",
+    "NameEN": "Hollow_Point",
+    "NameJP": "ホローポイント",
+    "ShortName": "HOLLOW POINT",
+    "ShortUniqueName": "HOLLOW POINT",
+    "Cost": 20
+  },
+  {
+    "Index": 5,
+    "AttachmentKey": "Ammo_Match_Grade",
+    "Category": "Ammo",
+    "NameEN": "Match_Grade",
+    "NameJP": "マッチグレード",
+    "ShortName": "LONG-RANGE",
+    "ShortUniqueName": "LONG-RANGE",
+    "Cost": 10
+  },
+  {
+    "Index": 6,
+    "AttachmentKey": "Ammo_Polymer_Case",
+    "Category": "Ammo",
+    "NameEN": "Polymer_Case",
+    "NameJP": "ポリマーケース",
+    "ShortName": "LIGHTWEIGHT",
+    "ShortUniqueName": "LIGHTWEIGHT",
+    "Cost": 10
+  },
+  {
+    "Index": 7,
+    "AttachmentKey": "Ammo_Slugs",
+    "Category": "Ammo",
+    "NameEN": "Slugs",
+    "NameJP": "スラッグ弾",
+    "ShortName": "SLUGS",
+    "ShortUniqueName": "SLUGS",
+    "Cost": 40
+  },
+  {
+    "Index": 8,
+    "AttachmentKey": "Ammo_Synthetic_Tip",
+    "Category": "Ammo",
+    "NameEN": "Synthetic_Tip",
+    "NameJP": "シンセティック",
+    "ShortName": "SYNTHETIC",
+    "ShortUniqueName": "SYNTHETIC",
+    "Cost": 30
+  },
+  {
+    "Index": 9,
+    "AttachmentKey": "Ammo_Tungsten_Core",
+    "Category": "Ammo",
+    "NameEN": "Tungsten_Core",
+    "NameJP": "タングステン",
+    "ShortName": "PENETRATION",
+    "ShortUniqueName": "PENETRATION",
+    "Cost": 5
+  },
+  {
+    "Index": 10,
+    "AttachmentKey": "Barrel_10_Factory",
+    "Category": "Barrel",
+    "NameEN": "10_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 11,
+    "AttachmentKey": "Barrel_10_Full",
+    "Category": "Barrel",
+    "NameEN": "10_Full",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 12,
+    "AttachmentKey": "Barrel_102mm_Compact",
+    "Category": "Barrel",
+    "NameEN": "102mm_Compact",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 13,
+    "AttachmentKey": "Barrel_105_Custom",
+    "Category": "Barrel",
+    "NameEN": "105_Custom",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 14,
+    "AttachmentKey": "Barrel_105_Factory",
+    "Category": "Barrel",
+    "NameEN": "105_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 15,
+    "AttachmentKey": "Barrel_11_Extended",
+    "Category": "Barrel",
+    "NameEN": "11_Extended",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 16,
+    "AttachmentKey": "Barrel_11_Heavy",
+    "Category": "Barrel",
+    "NameEN": "11_Heavy",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 17,
+    "AttachmentKey": "Barrel_114mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "114mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 18,
+    "AttachmentKey": "Barrel_114mm_Pencil",
+    "Category": "Barrel",
+    "NameEN": "114mm_Pencil",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 19,
+    "AttachmentKey": "Barrel_115_Commando",
+    "Category": "Barrel",
+    "NameEN": "115_Commando",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 20,
+    "AttachmentKey": "Barrel_12_Assaulter",
+    "Category": "Barrel",
+    "NameEN": "12_Assaulter",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 21,
+    "AttachmentKey": "Barrel_12_SBR",
+    "Category": "Barrel",
+    "NameEN": "12_SBR",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 22,
+    "AttachmentKey": "Barrel_122mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "122mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 23,
+    "AttachmentKey": "Barrel_122mm_Pencil",
+    "Category": "Barrel",
+    "NameEN": "122mm_Pencil",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 24,
+    "AttachmentKey": "Barrel_125_Fluted",
+    "Category": "Barrel",
+    "NameEN": "125_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 25,
+    "AttachmentKey": "Barrel_125_Mid",
+    "Category": "Barrel",
+    "NameEN": "125_Mid",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 26,
+    "AttachmentKey": "Barrel_13_Factory",
+    "Category": "Barrel",
+    "NameEN": "13_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 27,
+    "AttachmentKey": "Barrel_13_Fluted",
+    "Category": "Barrel",
+    "NameEN": "13_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 28,
+    "AttachmentKey": "Barrel_13_Prototype",
+    "Category": "Barrel",
+    "NameEN": "13_Prototype",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 29,
+    "AttachmentKey": "Barrel_13_Standard",
+    "Category": "Barrel",
+    "NameEN": "13_Standard",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 30,
+    "AttachmentKey": "Barrel_135mm_Long",
+    "Category": "Barrel",
+    "NameEN": "135mm_Long",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 31,
+    "AttachmentKey": "Barrel_145_Alt",
+    "Category": "Barrel",
+    "NameEN": "145_Alt",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 32,
+    "AttachmentKey": "Barrel_145_Carbine",
+    "Category": "Barrel",
+    "NameEN": "145_Carbine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 33,
+    "AttachmentKey": "Barrel_145_Common",
+    "Category": "Barrel",
+    "NameEN": "145_Common",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 34,
+    "AttachmentKey": "Barrel_145_Factory",
+    "Category": "Barrel",
+    "NameEN": "145_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 35,
+    "AttachmentKey": "Barrel_145_Standard",
+    "Category": "Barrel",
+    "NameEN": "145_Standard",
+    "NameJP": "",
+    "ShortName": "SHORT",
+    "ShortUniqueName": "SHORT",
+    "Cost": 0
+  },
+  {
+    "Index": 36,
+    "AttachmentKey": "Barrel_16_Custom",
+    "Category": "Barrel",
+    "NameEN": "16_Custom",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 37,
+    "AttachmentKey": "Barrel_16_Factory",
+    "Category": "Barrel",
+    "NameEN": "16_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 38,
+    "AttachmentKey": "Barrel_16_Pencil",
+    "Category": "Barrel",
+    "NameEN": "16_Pencil",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 39,
+    "AttachmentKey": "Barrel_16_Rifle",
+    "Category": "Barrel",
+    "NameEN": "16_Rifle",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 40,
+    "AttachmentKey": "Barrel_16_Short",
+    "Category": "Barrel",
+    "NameEN": "16_Short",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 41,
+    "AttachmentKey": "Barrel_16_US",
+    "Category": "Barrel",
+    "NameEN": "16_US",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 42,
+    "AttachmentKey": "Barrel_165_Basic",
+    "Category": "Barrel",
+    "NameEN": "165_Basic",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 43,
+    "AttachmentKey": "Barrel_165_Fluted",
+    "Category": "Barrel",
+    "NameEN": "165_Fluted",
+    "NameJP": "",
+    "ShortName": "LIGHT",
+    "ShortUniqueName": "LIGHT",
+    "Cost": 0
+  },
+  {
+    "Index": 44,
+    "AttachmentKey": "Barrel_165_LSW",
+    "Category": "Barrel",
+    "NameEN": "165_LSW",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 45,
+    "AttachmentKey": "Barrel_165_Rifle",
+    "Category": "Barrel",
+    "NameEN": "165_Rifle",
+    "NameJP": "",
+    "ShortName": "BASIC",
+    "ShortUniqueName": "BASIC",
+    "Cost": 0
+  },
+  {
+    "Index": 46,
+    "AttachmentKey": "Barrel_17_Cut",
+    "Category": "Barrel",
+    "NameEN": "17_Cut",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 47,
+    "AttachmentKey": "Barrel_17_Factory",
+    "Category": "Barrel",
+    "NameEN": "17_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 48,
+    "AttachmentKey": "Barrel_17_Fluted",
+    "Category": "Barrel",
+    "NameEN": "17_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 49,
+    "AttachmentKey": "Barrel_18_Custom",
+    "Category": "Barrel",
+    "NameEN": "18_Custom",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 50,
+    "AttachmentKey": "Barrel_18_EBR",
+    "Category": "Barrel",
+    "NameEN": "18_EBR",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 51,
+    "AttachmentKey": "Barrel_18_Extended",
+    "Category": "Barrel",
+    "NameEN": "18_Extended",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 52,
+    "AttachmentKey": "Barrel_18_US_LB",
+    "Category": "Barrel",
+    "NameEN": "18_US_LB",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 53,
+    "AttachmentKey": "Barrel_180mm_Prototype",
+    "Category": "Barrel",
+    "NameEN": "180mm_Prototype",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 54,
+    "AttachmentKey": "Barrel_180mm_Standard",
+    "Category": "Barrel",
+    "NameEN": "180mm_Standard",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 55,
+    "AttachmentKey": "Barrel_185_Factory",
+    "Category": "Barrel",
+    "NameEN": "185_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 56,
+    "AttachmentKey": "Barrel_189_Factory",
+    "Category": "Barrel",
+    "NameEN": "189_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 57,
+    "AttachmentKey": "Barrel_189_Prototype",
+    "Category": "Barrel",
+    "NameEN": "189_Prototype",
+    "NameJP": "",
+    "ShortName": "EXTENDED",
+    "ShortUniqueName": "EXTENDED",
+    "Cost": 0
+  },
+  {
+    "Index": 58,
+    "AttachmentKey": "Barrel_20_Factory",
+    "Category": "Barrel",
+    "NameEN": "20_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 59,
+    "AttachmentKey": "Barrel_20_LE",
+    "Category": "Barrel",
+    "NameEN": "20_LE",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 60,
+    "AttachmentKey": "Barrel_20_Lima",
+    "Category": "Barrel",
+    "NameEN": "20_Lima",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 61,
+    "AttachmentKey": "Barrel_20_Long",
+    "Category": "Barrel",
+    "NameEN": "20_Long",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 62,
+    "AttachmentKey": "Barrel_20_OH",
+    "Category": "Barrel",
+    "NameEN": "20_OH",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 63,
+    "AttachmentKey": "Barrel_20_SDM_R",
+    "Category": "Barrel",
+    "NameEN": "20_SDM_R",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 64,
+    "AttachmentKey": "Barrel_200mm_Custom",
+    "Category": "Barrel",
+    "NameEN": "200mm_Custom",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 65,
+    "AttachmentKey": "Barrel_200mm_Custom_H",
+    "Category": "Barrel",
+    "NameEN": "200mm_Custom_H",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 66,
+    "AttachmentKey": "Barrel_200mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "200mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 67,
+    "AttachmentKey": "Barrel_200mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "200mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 68,
+    "AttachmentKey": "Barrel_215_Factory",
+    "Category": "Barrel",
+    "NameEN": "215_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 69,
+    "AttachmentKey": "Barrel_215_Fluted",
+    "Category": "Barrel",
+    "NameEN": "215_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 70,
+    "AttachmentKey": "Barrel_22_E3_Long",
+    "Category": "Barrel",
+    "NameEN": "22_E3_Long",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 71,
+    "AttachmentKey": "Barrel_22_Factory",
+    "Category": "Barrel",
+    "NameEN": "22_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 72,
+    "AttachmentKey": "Barrel_225mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "225mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 73,
+    "AttachmentKey": "Barrel_24_Bravo",
+    "Category": "Barrel",
+    "NameEN": "24_Bravo",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 74,
+    "AttachmentKey": "Barrel_24_Extended",
+    "Category": "Barrel",
+    "NameEN": "24_Extended",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 75,
+    "AttachmentKey": "Barrel_24_Fluted",
+    "Category": "Barrel",
+    "NameEN": "24_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 76,
+    "AttachmentKey": "Barrel_24_Full",
+    "Category": "Barrel",
+    "NameEN": "24_Full",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 77,
+    "AttachmentKey": "Barrel_240mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "240mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 78,
+    "AttachmentKey": "Barrel_240mm_SB",
+    "Category": "Barrel",
+    "NameEN": "240mm_SB",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 79,
+    "AttachmentKey": "Barrel_245mm_Custom",
+    "Category": "Barrel",
+    "NameEN": "245mm_Custom",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 80,
+    "AttachmentKey": "Barrel_26_Carbon",
+    "Category": "Barrel",
+    "NameEN": "26_Carbon",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 81,
+    "AttachmentKey": "Barrel_26_Factory",
+    "Category": "Barrel",
+    "NameEN": "26_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 82,
+    "AttachmentKey": "Barrel_264mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "264mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 83,
+    "AttachmentKey": "Barrel_264mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "264mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 84,
+    "AttachmentKey": "Barrel_264mm_Prototype",
+    "Category": "Barrel",
+    "NameEN": "264mm_Prototype",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 85,
+    "AttachmentKey": "Barrel_27_MK22",
+    "Category": "Barrel",
+    "NameEN": "27_MK22",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 86,
+    "AttachmentKey": "Barrel_303mm_LB",
+    "Category": "Barrel",
+    "NameEN": "303mm_LB",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 87,
+    "AttachmentKey": "Barrel_305mm_Custom",
+    "Category": "Barrel",
+    "NameEN": "305mm_Custom",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 88,
+    "AttachmentKey": "Barrel_305mm_Custom_H",
+    "Category": "Barrel",
+    "NameEN": "305mm_Custom_H",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 89,
+    "AttachmentKey": "Barrel_314mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "314mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 90,
+    "AttachmentKey": "Barrel_314mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "314mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 91,
+    "AttachmentKey": "Barrel_314mm_Prototype",
+    "Category": "Barrel",
+    "NameEN": "314mm_Prototype",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 92,
+    "AttachmentKey": "Barrel_330mm_Mk3",
+    "Category": "Barrel",
+    "NameEN": "330mm_Mk3",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 93,
+    "AttachmentKey": "Barrel_349mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "349mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 94,
+    "AttachmentKey": "Barrel_349mm_SB",
+    "Category": "Barrel",
+    "NameEN": "349mm_SB",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 95,
+    "AttachmentKey": "Barrel_370mm_Compact",
+    "Category": "Barrel",
+    "NameEN": "370mm_Compact",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 96,
+    "AttachmentKey": "Barrel_39_Factory",
+    "Category": "Barrel",
+    "NameEN": "39_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 97,
+    "AttachmentKey": "Barrel_39_Pencil",
+    "Category": "Barrel",
+    "NameEN": "39_Pencil",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 98,
+    "AttachmentKey": "Barrel_391mm_CQB",
+    "Category": "Barrel",
+    "NameEN": "391mm_CQB",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 99,
+    "AttachmentKey": "Barrel_406mm_Standard",
+    "Category": "Barrel",
+    "NameEN": "406mm_Standard",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 100,
+    "AttachmentKey": "Barrel_407mm_Civ_S",
+    "Category": "Barrel",
+    "NameEN": "407mm_Civ_S",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 101,
+    "AttachmentKey": "Barrel_409mm_Cut",
+    "Category": "Barrel",
+    "NameEN": "409mm_Cut",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 102,
+    "AttachmentKey": "Barrel_409mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "409mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 103,
+    "AttachmentKey": "Barrel_409mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "409mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 104,
+    "AttachmentKey": "Barrel_409mm_US",
+    "Category": "Barrel",
+    "NameEN": "409mm_US",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 105,
+    "AttachmentKey": "Barrel_415mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "415mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 106,
+    "AttachmentKey": "Barrel_415mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "415mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 107,
+    "AttachmentKey": "Barrel_415mm_Prototype",
+    "Category": "Barrel",
+    "NameEN": "415mm_Prototype",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 108,
+    "AttachmentKey": "Barrel_419mm_Boar_F",
+    "Category": "Barrel",
+    "NameEN": "419mm_Boar_F",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 109,
+    "AttachmentKey": "Barrel_430mm_Cut",
+    "Category": "Barrel",
+    "NameEN": "430mm_Cut",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 110,
+    "AttachmentKey": "Barrel_430mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "430mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 111,
+    "AttachmentKey": "Barrel_432mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "432mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 112,
+    "AttachmentKey": "Barrel_442_mm_CQB",
+    "Category": "Barrel",
+    "NameEN": "442_mm_CQB",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 113,
+    "AttachmentKey": "Barrel_45_Compact",
+    "Category": "Barrel",
+    "NameEN": "45_Compact",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 114,
+    "AttachmentKey": "Barrel_450mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "450mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 115,
+    "AttachmentKey": "Barrel_450mm_Standard",
+    "Category": "Barrel",
+    "NameEN": "450mm_Standard",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 116,
+    "AttachmentKey": "Barrel_457mm_Mk9",
+    "Category": "Barrel",
+    "NameEN": "457mm_Mk9",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 117,
+    "AttachmentKey": "Barrel_457mm_Urban",
+    "Category": "Barrel",
+    "NameEN": "457mm_Urban",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 118,
+    "AttachmentKey": "Barrel_458mm_Custom",
+    "Category": "Barrel",
+    "NameEN": "458mm_Custom",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 119,
+    "AttachmentKey": "Barrel_465mm_LB",
+    "Category": "Barrel",
+    "NameEN": "465mm_LB",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 120,
+    "AttachmentKey": "Barrel_480mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "480mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 121,
+    "AttachmentKey": "Barrel_480mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "480mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 122,
+    "AttachmentKey": "Barrel_480mm_MG",
+    "Category": "Barrel",
+    "NameEN": "480mm_MG",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 123,
+    "AttachmentKey": "Barrel_5_Factory",
+    "Category": "Barrel",
+    "NameEN": "5_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 124,
+    "AttachmentKey": "Barrel_5_Pencil",
+    "Category": "Barrel",
+    "NameEN": "5_Pencil",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 125,
+    "AttachmentKey": "Barrel_508mm_Mk8",
+    "Category": "Barrel",
+    "NameEN": "508mm_Mk8",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 126,
+    "AttachmentKey": "Barrel_510mm_DMR",
+    "Category": "Barrel",
+    "NameEN": "510mm_DMR",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 127,
+    "AttachmentKey": "Barrel_510mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "510mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 128,
+    "AttachmentKey": "Barrel_512_Compact",
+    "Category": "Barrel",
+    "NameEN": "512_Compact",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 129,
+    "AttachmentKey": "Barrel_514mm_Carbine",
+    "Category": "Barrel",
+    "NameEN": "514mm_Carbine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 130,
+    "AttachmentKey": "Barrel_518mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "518mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 131,
+    "AttachmentKey": "Barrel_518mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "518mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 132,
+    "AttachmentKey": "Barrel_521mm_Boar",
+    "Category": "Barrel",
+    "NameEN": "521mm_Boar",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 133,
+    "AttachmentKey": "Barrel_521mm_Boar_F",
+    "Category": "Barrel",
+    "NameEN": "521mm_Boar_F",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 134,
+    "AttachmentKey": "Barrel_55_Factory",
+    "Category": "Barrel",
+    "NameEN": "55_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 135,
+    "AttachmentKey": "Barrel_55_Fluted",
+    "Category": "Barrel",
+    "NameEN": "55_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 136,
+    "AttachmentKey": "Barrel_550mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "550mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 137,
+    "AttachmentKey": "Barrel_556mm_Prototype",
+    "Category": "Barrel",
+    "NameEN": "556mm_Prototype",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 138,
+    "AttachmentKey": "Barrel_560mm_Cut",
+    "Category": "Barrel",
+    "NameEN": "560mm_Cut",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 139,
+    "AttachmentKey": "Barrel_560mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "560mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 140,
+    "AttachmentKey": "Barrel_565mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "565mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 141,
+    "AttachmentKey": "Barrel_565mm_Para",
+    "Category": "Barrel",
+    "NameEN": "565mm_Para",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 142,
+    "AttachmentKey": "Barrel_590mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "590mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 143,
+    "AttachmentKey": "Barrel_6_Fluted",
+    "Category": "Barrel",
+    "NameEN": "6_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 144,
+    "AttachmentKey": "Barrel_6_Standard",
+    "Category": "Barrel",
+    "NameEN": "6_Standard",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 145,
+    "AttachmentKey": "Barrel_600mm_Cut",
+    "Category": "Barrel",
+    "NameEN": "600mm_Cut",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 146,
+    "AttachmentKey": "Barrel_600mm_DMR",
+    "Category": "Barrel",
+    "NameEN": "600mm_DMR",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 147,
+    "AttachmentKey": "Barrel_600mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "600mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 148,
+    "AttachmentKey": "Barrel_600mm_Tabuk",
+    "Category": "Barrel",
+    "NameEN": "600mm_Tabuk",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 149,
+    "AttachmentKey": "Barrel_612mm_VMW",
+    "Category": "Barrel",
+    "NameEN": "612mm_VMW",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 150,
+    "AttachmentKey": "Barrel_620mm_Classic",
+    "Category": "Barrel",
+    "NameEN": "620mm_Classic",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 151,
+    "AttachmentKey": "Barrel_646mm_Cut",
+    "Category": "Barrel",
+    "NameEN": "646mm_Cut",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 152,
+    "AttachmentKey": "Barrel_646mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "646mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 153,
+    "AttachmentKey": "Barrel_646mm_LSW",
+    "Category": "Barrel",
+    "NameEN": "646mm_LSW",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 154,
+    "AttachmentKey": "Barrel_65_Extended",
+    "Category": "Barrel",
+    "NameEN": "65_Extended",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 155,
+    "AttachmentKey": "Barrel_650mm_Factory",
+    "Category": "Barrel",
+    "NameEN": "650mm_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 156,
+    "AttachmentKey": "Barrel_650mm_Fluted",
+    "Category": "Barrel",
+    "NameEN": "650mm_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 157,
+    "AttachmentKey": "Barrel_675_Factory",
+    "Category": "Barrel",
+    "NameEN": "675_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 158,
+    "AttachmentKey": "Barrel_68_Factory",
+    "Category": "Barrel",
+    "NameEN": "68_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 159,
+    "AttachmentKey": "Barrel_68_Fluted",
+    "Category": "Barrel",
+    "NameEN": "68_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 160,
+    "AttachmentKey": "Barrel_730mm_3LR",
+    "Category": "Barrel",
+    "NameEN": "730mm_3LR",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 161,
+    "AttachmentKey": "Barrel_75_Compact",
+    "Category": "Barrel",
+    "NameEN": "75_Compact",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 162,
+    "AttachmentKey": "Barrel_8_Extended",
+    "Category": "Barrel",
+    "NameEN": "8_Extended",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 163,
+    "AttachmentKey": "Barrel_837_Long",
+    "Category": "Barrel",
+    "NameEN": "837_Long",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 164,
+    "AttachmentKey": "Barrel_9_Factory",
+    "Category": "Barrel",
+    "NameEN": "9_Factory",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 165,
+    "AttachmentKey": "Barrel_9_Fluted",
+    "Category": "Barrel",
+    "NameEN": "9_Fluted",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 166,
+    "AttachmentKey": "Barrel_9_Heavy",
+    "Category": "Barrel",
+    "NameEN": "9_Heavy",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 167,
+    "AttachmentKey": "Barrel_IAR_Heavy",
+    "Category": "Barrel",
+    "NameEN": "IAR_Heavy",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 168,
+    "AttachmentKey": "Bottom_5_mW_Green",
+    "Category": "Bottom",
+    "NameEN": "5_mW_Green",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 169,
+    "AttachmentKey": "Bottom_5_mW_Red",
+    "Category": "Bottom",
+    "NameEN": "5_mW_Red",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 170,
+    "AttachmentKey": "Bottom_50_mW_Green",
+    "Category": "Bottom",
+    "NameEN": "50_mW_Green",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 171,
+    "AttachmentKey": "Bottom_6H64_Vertical",
+    "Category": "Bottom",
+    "NameEN": "6H64_Vertical",
+    "NameJP": "",
+    "ShortName": "VERTICAL",
+    "ShortUniqueName": "VERTICAL 6H",
+    "Cost": 0
+  },
+  {
+    "Index": 172,
+    "AttachmentKey": "Bottom_Adjustable_Angled",
+    "Category": "Bottom",
+    "NameEN": "Adjustable_Angled",
+    "NameJP": "",
+    "ShortName": "ANGLED",
+    "ShortUniqueName": "ANGLED A",
+    "Cost": 0
+  },
+  {
+    "Index": 173,
+    "AttachmentKey": "Bottom_Alloy_Vertical",
+    "Category": "Bottom",
+    "NameEN": "Alloy_Vertical",
+    "NameJP": "",
+    "ShortName": "VERTICAL",
+    "ShortUniqueName": "VERTICAL A",
+    "Cost": 0
+  },
+  {
+    "Index": 174,
+    "AttachmentKey": "Bottom_Bipod",
+    "Category": "Bottom",
+    "NameEN": "Bipod",
+    "NameJP": "",
+    "ShortName": "BIPOD",
+    "ShortUniqueName": "BIPOD",
+    "Cost": 0
+  },
+  {
+    "Index": 175,
+    "AttachmentKey": "Bottom_Canted_Stubby",
+    "Category": "Bottom",
+    "NameEN": "Canted_Stubby",
+    "NameJP": "",
+    "ShortName": "STUBBY",
+    "ShortUniqueName": "STUBBY C",
+    "Cost": 0
+  },
+  {
+    "Index": 176,
+    "AttachmentKey": "Bottom_Classic_Grip_Pod",
+    "Category": "Bottom",
+    "NameEN": "Classic_Grip_Pod",
+    "NameJP": "",
+    "ShortName": "GRIP POD",
+    "ShortUniqueName": "GRIP POD C",
+    "Cost": 0
+  },
+  {
+    "Index": 177,
+    "AttachmentKey": "Bottom_Classic_Vertical",
+    "Category": "Bottom",
+    "NameEN": "Classic_Vertical",
+    "NameJP": "",
+    "ShortName": "VERTICAL",
+    "ShortUniqueName": "VERTICAL C",
+    "Cost": 0
+  },
+  {
+    "Index": 178,
+    "AttachmentKey": "Bottom_Compact_Handstop",
+    "Category": "Bottom",
+    "NameEN": "Compact_Handstop",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 179,
+    "AttachmentKey": "Bottom_Factory_Angled",
+    "Category": "Bottom",
+    "NameEN": "Factory_Angled",
+    "NameJP": "",
+    "ShortName": "ANGLED",
+    "ShortUniqueName": "ANGLED FA",
+    "Cost": 0
+  },
+  {
+    "Index": 180,
+    "AttachmentKey": "Bottom_Flashlight",
+    "Category": "Bottom",
+    "NameEN": "Flashlight",
+    "NameJP": "",
+    "ShortName": "FLASHLIGHT",
+    "ShortUniqueName": "FLASHLIGHT",
+    "Cost": 10
+  },
+  {
+    "Index": 181,
+    "AttachmentKey": "Bottom_Folding_Stubby",
+    "Category": "Bottom",
+    "NameEN": "Folding_Stubby",
+    "NameJP": "",
+    "ShortName": "STUBBY",
+    "ShortUniqueName": "STUBBY F",
+    "Cost": 0
+  },
+  {
+    "Index": 182,
+    "AttachmentKey": "Bottom_Folding_Vertical",
+    "Category": "Bottom",
+    "NameEN": "Folding_Vertical",
+    "NameJP": "",
+    "ShortName": "VERTICAL",
+    "ShortUniqueName": "VERTICAL F",
+    "Cost": 0
+  },
+  {
+    "Index": 183,
+    "AttachmentKey": "Bottom_Full_Angled",
+    "Category": "Bottom",
+    "NameEN": "Full_Angled",
+    "NameJP": "",
+    "ShortName": "ANGLED",
+    "ShortUniqueName": "ANGLED FULL",
+    "Cost": 0
+  },
+  {
+    "Index": 184,
+    "AttachmentKey": "Bottom_Laser_Light_Combo_Green",
+    "Category": "Bottom",
+    "NameEN": "Laser_Light_Combo_Green",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 185,
+    "AttachmentKey": "Bottom_Laser_Light_Combo_Red",
+    "Category": "Bottom",
+    "NameEN": "Laser_Light_Combo_Red",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 186,
+    "AttachmentKey": "Bottom_Low_Profile_Stubby",
+    "Category": "Bottom",
+    "NameEN": "Low_Profile_Stubby",
+    "NameJP": "",
+    "ShortName": "STUBBY",
+    "ShortUniqueName": "STUBBY L",
+    "Cost": 0
+  },
+  {
+    "Index": 187,
+    "AttachmentKey": "Bottom_PTT_Grip_Pod",
+    "Category": "Bottom",
+    "NameEN": "PTT_Grip_Pod",
+    "NameJP": "",
+    "ShortName": "GRIP POD",
+    "ShortUniqueName": "GRIP POD P",
+    "Cost": 0
+  },
+  {
+    "Index": 188,
+    "AttachmentKey": "Bottom_QD_Grip_Pod",
+    "Category": "Bottom",
+    "NameEN": "QD_Grip_Pod",
+    "NameJP": "",
+    "ShortName": "GRIP POD",
+    "ShortUniqueName": "GRIP POD Q",
+    "Cost": 0
+  },
+  {
+    "Index": 189,
+    "AttachmentKey": "Bottom_Ribbed_Stubby",
+    "Category": "Bottom",
+    "NameEN": "Ribbed_Stubby",
+    "NameJP": "",
+    "ShortName": "STUBBY",
+    "ShortUniqueName": "STUBBY R",
+    "Cost": 0
+  },
+  {
+    "Index": 190,
+    "AttachmentKey": "Bottom_Ribbed_Vertical",
+    "Category": "Bottom",
+    "NameEN": "Ribbed_Vertical",
+    "NameJP": "",
+    "ShortName": "VERTICAL",
+    "ShortUniqueName": "VERTICAL R",
+    "Cost": 0
+  },
+  {
+    "Index": 191,
+    "AttachmentKey": "Bottom_Slim_Angled",
+    "Category": "Bottom",
+    "NameEN": "Slim_Angled",
+    "NameJP": "",
+    "ShortName": "ANGLED",
+    "ShortUniqueName": "ANGLED S",
+    "Cost": 0
+  },
+  {
+    "Index": 192,
+    "AttachmentKey": "Bottom_Slim_Handstop",
+    "Category": "Bottom",
+    "NameEN": "Slim_Handstop",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 193,
+    "AttachmentKey": "Bottom_Stippled_Stubby",
+    "Category": "Bottom",
+    "NameEN": "Stippled_Stubby",
+    "NameJP": "",
+    "ShortName": "STUBBY",
+    "ShortUniqueName": "STUBBY S",
+    "Cost": 0
+  },
+  {
+    "Index": 194,
+    "AttachmentKey": "Bottom_Underslung_Mount",
+    "Category": "Bottom",
+    "NameEN": "Underslung_Mount",
+    "NameJP": "",
+    "ShortName": "MOUNT",
+    "ShortUniqueName": "MOUNT",
+    "Cost": 0
+  },
+  {
+    "Index": 195,
+    "AttachmentKey": "Bottom_VIS_IR_Light",
+    "Category": "Bottom",
+    "NameEN": "VIS_IR_Light",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 196,
+    "AttachmentKey": "Ergonomic_DLC_Bolt",
+    "Category": "Ergonomic",
+    "NameEN": "DLC_Bolt",
+    "NameJP": "",
+    "ShortName": "ADS BOLT",
+    "ShortUniqueName": "ADS BOLT",
+    "Cost": 30
+  },
+  {
+    "Index": 197,
+    "AttachmentKey": "Ergonomic_Improved_Mag_Catch",
+    "Category": "Ergonomic",
+    "NameEN": "Improved_Mag_Catch",
+    "NameJP": "",
+    "ShortName": "MAG CATCH",
+    "ShortUniqueName": "MAG CATCH",
+    "Cost": 5
+  },
+  {
+    "Index": 198,
+    "AttachmentKey": "Ergonomic_Magwell_Flare",
+    "Category": "Ergonomic",
+    "NameEN": "Magwell_Flare",
+    "NameJP": "",
+    "ShortName": "MAG FLARE",
+    "ShortUniqueName": "MAG FLARE",
+    "Cost": 10
+  },
+  {
+    "Index": 199,
+    "AttachmentKey": "Ergonomic_Match_Trigger",
+    "Category": "Ergonomic",
+    "NameEN": "Match_Trigger",
+    "NameJP": "",
+    "ShortName": "TRIGGER",
+    "ShortUniqueName": "TRIGGER",
+    "Cost": 15
+  },
+  {
+    "Index": 200,
+    "AttachmentKey": "Ergonomic_Rail_Cover",
+    "Category": "Ergonomic",
+    "NameEN": "Rail_Cover",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 201,
+    "AttachmentKey": "Left_120_mW_Blue",
+    "Category": "Left",
+    "NameEN": "120_mW_Blue",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 202,
+    "AttachmentKey": "Left_5_mW_Green",
+    "Category": "Left",
+    "NameEN": "5_mW_Green",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 203,
+    "AttachmentKey": "Left_5_mW_Red",
+    "Category": "Left",
+    "NameEN": "5_mW_Red",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 204,
+    "AttachmentKey": "Left_50_mW_Blue",
+    "Category": "Left",
+    "NameEN": "50_mW_Blue",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 205,
+    "AttachmentKey": "Left_50_mW_Green",
+    "Category": "Left",
+    "NameEN": "50_mW_Green",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 206,
+    "AttachmentKey": "Left_Flashlight",
+    "Category": "Left",
+    "NameEN": "Flashlight",
+    "NameJP": "",
+    "ShortName": "LIGHT",
+    "ShortUniqueName": "LIGHT",
+    "Cost": 10
+  },
+  {
+    "Index": 207,
+    "AttachmentKey": "Left_Range_Finder",
+    "Category": "Left",
+    "NameEN": "Range_Finder",
+    "NameJP": "",
+    "ShortName": "RANGE",
+    "ShortUniqueName": "RANGE",
+    "Cost": 15
+  },
+  {
+    "Index": 208,
+    "AttachmentKey": "Left_VIS_IR_Light",
+    "Category": "Left",
+    "NameEN": "VIS_IR_Light",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 209,
+    "AttachmentKey": "Magazine_100rnd_Belt_Box",
+    "Category": "Magazine",
+    "NameEN": "100rnd_Belt_Box",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 210,
+    "AttachmentKey": "Magazine_100rnd_Belt_Pouch",
+    "Category": "Magazine",
+    "NameEN": "100rnd_Belt_Pouch",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 211,
+    "AttachmentKey": "Magazine_100rnd_Drum_Mag",
+    "Category": "Magazine",
+    "NameEN": "100rnd_Drum_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 212,
+    "AttachmentKey": "Magazine_10rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "10rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 213,
+    "AttachmentKey": "Magazine_10rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "10rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 214,
+    "AttachmentKey": "Magazine_11rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "11rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 215,
+    "AttachmentKey": "Magazine_15rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "15rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 216,
+    "AttachmentKey": "Magazine_15rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "15rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 217,
+    "AttachmentKey": "Magazine_17rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "17rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 218,
+    "AttachmentKey": "Magazine_17rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "17rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 219,
+    "AttachmentKey": "Magazine_200rnd_Belt_Box",
+    "Category": "Magazine",
+    "NameEN": "200rnd_Belt_Box",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 220,
+    "AttachmentKey": "Magazine_20rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "20rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "20 FAST",
+    "ShortUniqueName": "20 FAST",
+    "Cost": 0
+  },
+  {
+    "Index": 221,
+    "AttachmentKey": "Magazine_20rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "20rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "20 RND",
+    "ShortUniqueName": "20 RND",
+    "Cost": 0
+  },
+  {
+    "Index": 222,
+    "AttachmentKey": "Magazine_21rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "21rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 223,
+    "AttachmentKey": "Magazine_22rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "22rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 224,
+    "AttachmentKey": "Magazine_23rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "23rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 225,
+    "AttachmentKey": "Magazine_25rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "25rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 226,
+    "AttachmentKey": "Magazine_25rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "25rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 227,
+    "AttachmentKey": "Magazine_27rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "27rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 228,
+    "AttachmentKey": "Magazine_30rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "30rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "30 FAST",
+    "ShortUniqueName": "30 FAST",
+    "Cost": 0
+  },
+  {
+    "Index": 229,
+    "AttachmentKey": "Magazine_30rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "30rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "30 RND",
+    "ShortUniqueName": "30 RND",
+    "Cost": 0
+  },
+  {
+    "Index": 230,
+    "AttachmentKey": "Magazine_36rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "36rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "36 RND",
+    "ShortUniqueName": "36 RND",
+    "Cost": 0
+  },
+  {
+    "Index": 231,
+    "AttachmentKey": "Magazine_4_Shell_Tube",
+    "Category": "Magazine",
+    "NameEN": "4_Shell_Tube",
+    "NameJP": "",
+    "ShortName": "4 RND",
+    "ShortUniqueName": "4 RND",
+    "Cost": 5
+  },
+  {
+    "Index": 232,
+    "AttachmentKey": "Magazine_40rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "40rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "40 FAST",
+    "ShortUniqueName": "40 FAST",
+    "Cost": 0
+  },
+  {
+    "Index": 233,
+    "AttachmentKey": "Magazine_40rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "40rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "40 RND",
+    "ShortUniqueName": "40 RND",
+    "Cost": 0
+  },
+  {
+    "Index": 234,
+    "AttachmentKey": "Magazine_41rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "41rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 235,
+    "AttachmentKey": "Magazine_45rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "45rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 236,
+    "AttachmentKey": "Magazine_45rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "45rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 237,
+    "AttachmentKey": "Magazine_4rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "4rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 238,
+    "AttachmentKey": "Magazine_4rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "4rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 239,
+    "AttachmentKey": "Magazine_5_Shell_Tube",
+    "Category": "Magazine",
+    "NameEN": "5_Shell_Tube",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 240,
+    "AttachmentKey": "Magazine_50rnd_Belt_Pouch",
+    "Category": "Magazine",
+    "NameEN": "50rnd_Belt_Pouch",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 241,
+    "AttachmentKey": "Magazine_50rnd_Loose_Belt",
+    "Category": "Magazine",
+    "NameEN": "50rnd_Loose_Belt",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 242,
+    "AttachmentKey": "Magazine_50rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "50rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 243,
+    "AttachmentKey": "Magazine_5rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "5rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 244,
+    "AttachmentKey": "Magazine_5rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "5rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 245,
+    "AttachmentKey": "Magazine_6_Shell_Tube",
+    "Category": "Magazine",
+    "NameEN": "6_Shell_Tube",
+    "NameJP": "",
+    "ShortName": "6 RND",
+    "ShortUniqueName": "6 RND",
+    "Cost": 5
+  },
+  {
+    "Index": 246,
+    "AttachmentKey": "Magazine_60rnd_Drum_Mag",
+    "Category": "Magazine",
+    "NameEN": "60rnd_Drum_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 247,
+    "AttachmentKey": "Magazine_60rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "60rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 248,
+    "AttachmentKey": "Magazine_6rnd_Speedloader",
+    "Category": "Magazine",
+    "NameEN": "6rnd_Speedloader",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 249,
+    "AttachmentKey": "Magazine_7_Shell_Dual_Tubes",
+    "Category": "Magazine",
+    "NameEN": "7_Shell_Dual_Tubes",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 250,
+    "AttachmentKey": "Magazine_7_Shell_Tube",
+    "Category": "Magazine",
+    "NameEN": "7_Shell_Tube",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 251,
+    "AttachmentKey": "Magazine_75rnd_Belt_Box",
+    "Category": "Magazine",
+    "NameEN": "75rnd_Belt_Box",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 252,
+    "AttachmentKey": "Magazine_75rnd_Drum",
+    "Category": "Magazine",
+    "NameEN": "75rnd_Drum",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 253,
+    "AttachmentKey": "Magazine_7rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "7rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 254,
+    "AttachmentKey": "Magazine_8rnd_Fast_Mag",
+    "Category": "Magazine",
+    "NameEN": "8rnd_Fast_Mag",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 255,
+    "AttachmentKey": "Magazine_8rnd_Magazine",
+    "Category": "Magazine",
+    "NameEN": "8rnd_Magazine",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 256,
+    "AttachmentKey": "Magazine_8rnd_Speedloader",
+    "Category": "Magazine",
+    "NameEN": "8rnd_Speedloader",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 257,
+    "AttachmentKey": "Muzzle_Compensated_Brake",
+    "Category": "Muzzle",
+    "NameEN": "Compensated_Brake",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 258,
+    "AttachmentKey": "Muzzle_CQB_Suppressor",
+    "Category": "Muzzle",
+    "NameEN": "CQB_Suppressor",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 259,
+    "AttachmentKey": "Muzzle_Double_port_Brake",
+    "Category": "Muzzle",
+    "NameEN": "Double_port_Brake",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 260,
+    "AttachmentKey": "Muzzle_Flash_Hider",
+    "Category": "Muzzle",
+    "NameEN": "Flash_Hider",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 261,
+    "AttachmentKey": "Muzzle_Lightened_Suppressor",
+    "Category": "Muzzle",
+    "NameEN": "Lightened_Suppressor",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 262,
+    "AttachmentKey": "Muzzle_Linear_Comp",
+    "Category": "Muzzle",
+    "NameEN": "Linear_Comp",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 263,
+    "AttachmentKey": "Muzzle_Long_Suppressor",
+    "Category": "Muzzle",
+    "NameEN": "Long_Suppressor",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 264,
+    "AttachmentKey": "Muzzle_Single_port_Brake",
+    "Category": "Muzzle",
+    "NameEN": "Single_port_Brake",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 265,
+    "AttachmentKey": "Muzzle_Slant_Brake",
+    "Category": "Muzzle",
+    "NameEN": "Slant_Brake",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 266,
+    "AttachmentKey": "Muzzle_Standard_Suppressor",
+    "Category": "Muzzle",
+    "NameEN": "Standard_Suppressor",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 267,
+    "AttachmentKey": "Muzzle_Thread_Protector",
+    "Category": "Muzzle",
+    "NameEN": "Thread_Protector",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 268,
+    "AttachmentKey": "Muzzle_Triple_port_Brake",
+    "Category": "Muzzle",
+    "NameEN": "Triple_port_Brake",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 269,
+    "AttachmentKey": "Right_120_mW_Blue",
+    "Category": "Right",
+    "NameEN": "120_mW_Blue",
+    "NameJP": "",
+    "ShortName": "BLUE LASER",
+    "ShortUniqueName": "BLUE LASER 120",
+    "Cost": 30
+  },
+  {
+    "Index": 270,
+    "AttachmentKey": "Right_5_mW_Green",
+    "Category": "Right",
+    "NameEN": "5_mW_Green",
+    "NameJP": "",
+    "ShortName": "GREEN LASER",
+    "ShortUniqueName": "GREEN LASER",
+    "Cost": 10
+  },
+  {
+    "Index": 271,
+    "AttachmentKey": "Right_5_mW_Red",
+    "Category": "Right",
+    "NameEN": "5_mW_Red",
+    "NameJP": "",
+    "ShortName": "RED LASER",
+    "ShortUniqueName": "RED LASER",
+    "Cost": 10
+  },
+  {
+    "Index": 272,
+    "AttachmentKey": "Right_50_mW_Blue",
+    "Category": "Right",
+    "NameEN": "50_mW_Blue",
+    "NameJP": "",
+    "ShortName": "BLUE LASER",
+    "ShortUniqueName": "BLUE LASER 50",
+    "Cost": 20
+  },
+  {
+    "Index": 273,
+    "AttachmentKey": "Right_50_mW_Green",
+    "Category": "Right",
+    "NameEN": "50_mW_Green",
+    "NameJP": "",
+    "ShortName": "GREEN LASER",
+    "ShortUniqueName": "GREEN LASER 50",
+    "Cost": 20
+  },
+  {
+    "Index": 274,
+    "AttachmentKey": "Right_Flashlight",
+    "Category": "Right",
+    "NameEN": "Flashlight",
+    "NameJP": "",
+    "ShortName": "LIGHT",
+    "ShortUniqueName": "LIGHT",
+    "Cost": 10
+  },
+  {
+    "Index": 275,
+    "AttachmentKey": "Right_Laser_Light_Combo_Green",
+    "Category": "Right",
+    "NameEN": "Laser_Light_Combo_Green",
+    "NameJP": "",
+    "ShortName": "LASER/LIGHT",
+    "ShortUniqueName": "LASER/LIGHT G",
+    "Cost": 20
+  },
+  {
+    "Index": 276,
+    "AttachmentKey": "Right_Laser_Light_Combo_Red",
+    "Category": "Right",
+    "NameEN": "Laser_Light_Combo_Red",
+    "NameJP": "",
+    "ShortName": "LASER/LIGHT",
+    "ShortUniqueName": "LASER/LIGHT R",
+    "Cost": 20
+  },
+  {
+    "Index": 277,
+    "AttachmentKey": "Right_Range_Finder",
+    "Category": "Right",
+    "NameEN": "Range_Finder",
+    "NameJP": "",
+    "ShortName": "RANGE",
+    "ShortUniqueName": "RANGE",
+    "Cost": 15
+  },
+  {
+    "Index": 278,
+    "AttachmentKey": "Right_VIS_IR_Light",
+    "Category": "Right",
+    "NameEN": "VIS_IR_Light",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 279,
+    "AttachmentKey": "Scope_1p87_150x",
+    "Category": "Scope",
+    "NameEN": "1p87_150x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.50X",
+    "ShortUniqueName": "SIGHT 1.50X 1P",
+    "Cost": 10
+  },
+  {
+    "Index": 280,
+    "AttachmentKey": "Scope_1p88_Variable",
+    "Category": "Scope",
+    "NameEN": "1p88_Variable",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 281,
+    "AttachmentKey": "Scope_2Pro_125x",
+    "Category": "Scope",
+    "NameEN": "2Pro_125x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.25X",
+    "ShortUniqueName": "SIGHT 1.25X 2P",
+    "Cost": 10
+  },
+  {
+    "Index": 282,
+    "AttachmentKey": "Scope_3VZR_175x",
+    "Category": "Scope",
+    "NameEN": "3VZR_175x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.75X",
+    "ShortUniqueName": "SIGHT 1.75X 3V",
+    "Cost": 10
+  },
+  {
+    "Index": 283,
+    "AttachmentKey": "Scope_A_P2_175x",
+    "Category": "Scope",
+    "NameEN": "A_P2_175x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.75X",
+    "ShortUniqueName": "SIGHT 1.75X A",
+    "Cost": 10
+  },
+  {
+    "Index": 284,
+    "AttachmentKey": "Scope_Adjustable_Magnification_200x",
+    "Category": "Scope",
+    "NameEN": "Adjustable_Magnification_200x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 285,
+    "AttachmentKey": "Scope_Adjustable_Magnification_300x",
+    "Category": "Scope",
+    "NameEN": "Adjustable_Magnification_300x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 286,
+    "AttachmentKey": "Scope_Adjustable_Magnification_400x",
+    "Category": "Scope",
+    "NameEN": "Adjustable_Magnification_400x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 287,
+    "AttachmentKey": "Scope_Anti_Glare_Coating",
+    "Category": "Scope",
+    "NameEN": "Anti_Glare_Coating",
+    "NameJP": "",
+    "ShortName": "ANTI-GLARE",
+    "ShortUniqueName": "ANTI-GLARE",
+    "Cost": 10
+  },
+  {
+    "Index": 288,
+    "AttachmentKey": "Scope_Aperture_Sight",
+    "Category": "Scope",
+    "NameEN": "Aperture_Sight",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 289,
+    "AttachmentKey": "Scope_Baker_300x",
+    "Category": "Scope",
+    "NameEN": "Baker_300x",
+    "NameJP": "",
+    "ShortName": "SCOPE 3.00X",
+    "ShortUniqueName": "SCOPE 3.00X",
+    "Cost": 10
+  },
+  {
+    "Index": 290,
+    "AttachmentKey": "Scope_BF_2M_250x",
+    "Category": "Scope",
+    "NameEN": "BF_2M_250x",
+    "NameJP": "",
+    "ShortName": "SCOPE 2.50X",
+    "ShortUniqueName": "SCOPE 2.50X",
+    "Cost": 10
+  },
+  {
+    "Index": 291,
+    "AttachmentKey": "Scope_Canted_Iron_Sights",
+    "Category": "Scope",
+    "NameEN": "Canted_Iron_Sights",
+    "NameJP": "",
+    "ShortName": "BASIC SIGHT",
+    "ShortUniqueName": "BASIC SIGHT",
+    "Cost": 0
+  },
+  {
+    "Index": 292,
+    "AttachmentKey": "Scope_CCO_200x",
+    "Category": "Scope",
+    "NameEN": "CCO_200x",
+    "NameJP": "",
+    "ShortName": "SIGHT 2.00X",
+    "ShortUniqueName": "SIGHT 2.00X C",
+    "Cost": 10
+  },
+  {
+    "Index": 293,
+    "AttachmentKey": "Scope_CQ_RDS_125x",
+    "Category": "Scope",
+    "NameEN": "CQ_RDS_125x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.25X",
+    "ShortUniqueName": "SIGHT 1.25X C",
+    "Cost": 10
+  },
+  {
+    "Index": 294,
+    "AttachmentKey": "Scope_CQB_Sights",
+    "Category": "Scope",
+    "NameEN": "CQB_Sights",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 295,
+    "AttachmentKey": "Scope_DVO_LPVO",
+    "Category": "Scope",
+    "NameEN": "DVO_LPVO",
+    "NameJP": "",
+    "ShortName": "VARIABLE 1-6X",
+    "ShortUniqueName": "VARIABLE 1-6X D",
+    "Cost": 25
+  },
+  {
+    "Index": 296,
+    "AttachmentKey": "Scope_GRIM_150x",
+    "Category": "Scope",
+    "NameEN": "GRIM_150x",
+    "NameJP": "",
+    "ShortName": "THERMAL 1.50X",
+    "ShortUniqueName": "THERMAL 1.50X",
+    "Cost": 25
+  },
+  {
+    "Index": 297,
+    "AttachmentKey": "Scope_Iron_Sights",
+    "Category": "Scope",
+    "NameEN": "Iron_Sights",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 298,
+    "AttachmentKey": "Scope_LDS_450x",
+    "Category": "Scope",
+    "NameEN": "LDS_450x",
+    "NameJP": "",
+    "ShortName": "SCOPE 4.50X",
+    "ShortUniqueName": "SCOPE 4.50X",
+    "Cost": 10
+  },
+  {
+    "Index": 299,
+    "AttachmentKey": "Scope_LERT_800x",
+    "Category": "Scope",
+    "NameEN": "LERT_800x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 300,
+    "AttachmentKey": "Scope_Mars_F_LPVO",
+    "Category": "Scope",
+    "NameEN": "Mars_F_LPVO",
+    "NameJP": "",
+    "ShortName": "VARIABLE 1-5X",
+    "ShortUniqueName": "VARIABLE 1-5X",
+    "Cost": 25
+  },
+  {
+    "Index": 301,
+    "AttachmentKey": "Scope_MC_CO_LPVO",
+    "Category": "Scope",
+    "NameEN": "MC_CO_LPVO",
+    "NameJP": "",
+    "ShortName": "VARIABLE 1-6X",
+    "ShortUniqueName": "VARIABLE 1-6X M",
+    "Cost": 25
+  },
+  {
+    "Index": 302,
+    "AttachmentKey": "Scope_Mini_Flex_100x",
+    "Category": "Scope",
+    "NameEN": "Mini_Flex_100x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.00X",
+    "ShortUniqueName": "SIGHT 1.00X M",
+    "Cost": 10
+  },
+  {
+    "Index": 303,
+    "AttachmentKey": "Scope_NFX_800x",
+    "Category": "Scope",
+    "NameEN": "NFX_800x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 304,
+    "AttachmentKey": "Scope_NGFC_LPVO",
+    "Category": "Scope",
+    "NameEN": "NGFC_LPVO",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 305,
+    "AttachmentKey": "Scope_Osa_7_100x",
+    "Category": "Scope",
+    "NameEN": "Osa_7_100x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.00X",
+    "ShortUniqueName": "SIGHT 1.00X O",
+    "Cost": 0
+  },
+  {
+    "Index": 306,
+    "AttachmentKey": "Scope_PAS_35_300x",
+    "Category": "Scope",
+    "NameEN": "PAS_35_300x",
+    "NameJP": "",
+    "ShortName": "THERMAL 3.00X",
+    "ShortUniqueName": "THERMAL 3.00X",
+    "Cost": 25
+  },
+  {
+    "Index": 307,
+    "AttachmentKey": "Scope_Piggyback_Reflex",
+    "Category": "Scope",
+    "NameEN": "Piggyback_Reflex",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.00X",
+    "ShortUniqueName": "SIGHT 1.00X P",
+    "Cost": 0
+  },
+  {
+    "Index": 308,
+    "AttachmentKey": "Scope_PVQ_31_400x",
+    "Category": "Scope",
+    "NameEN": "PVQ_31_400x",
+    "NameJP": "",
+    "ShortName": "SCOPE 4.00X",
+    "ShortUniqueName": "SCOPE 4.00X",
+    "Cost": 10
+  },
+  {
+    "Index": 309,
+    "AttachmentKey": "Scope_R_MR_100x",
+    "Category": "Scope",
+    "NameEN": "R_MR_100x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.00X",
+    "ShortUniqueName": "SIGHT 1.00X R",
+    "Cost": 0
+  },
+  {
+    "Index": 310,
+    "AttachmentKey": "Scope_R_VPS_1000x",
+    "Category": "Scope",
+    "NameEN": "R_VPS_1000x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 311,
+    "AttachmentKey": "Scope_R4T_200x",
+    "Category": "Scope",
+    "NameEN": "R4T_200x",
+    "NameJP": "",
+    "ShortName": "SIGHT 2.00X",
+    "ShortUniqueName": "SIGHT 2.00X R",
+    "Cost": 10
+  },
+  {
+    "Index": 312,
+    "AttachmentKey": "Scope_RO_M_175x",
+    "Category": "Scope",
+    "NameEN": "RO_M_175x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 313,
+    "AttachmentKey": "Scope_RO_S_125x",
+    "Category": "Scope",
+    "NameEN": "RO_S_125x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.25X",
+    "ShortUniqueName": "SIGHT 1.25X R",
+    "Cost": 10
+  },
+  {
+    "Index": 314,
+    "AttachmentKey": "Scope_ROX_150x",
+    "Category": "Scope",
+    "NameEN": "ROX_150x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.50X",
+    "ShortUniqueName": "SIGHT 1.50X R",
+    "Cost": 10
+  },
+  {
+    "Index": 315,
+    "AttachmentKey": "Scope_S_VPS_600x",
+    "Category": "Scope",
+    "NameEN": "S_VPS_600x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 316,
+    "AttachmentKey": "Scope_SDO_350x",
+    "Category": "Scope",
+    "NameEN": "SDO_350x",
+    "NameJP": "",
+    "ShortName": "SCOPE 3.50X",
+    "ShortUniqueName": "SCOPE 3.50X",
+    "Cost": 10
+  },
+  {
+    "Index": 317,
+    "AttachmentKey": "Scope_SF_G2_500x",
+    "Category": "Scope",
+    "NameEN": "SF_G2_500x",
+    "NameJP": "",
+    "ShortName": "SCOPE 5.00X",
+    "ShortUniqueName": "SCOPE 5.00X SF",
+    "Cost": 10
+  },
+  {
+    "Index": 318,
+    "AttachmentKey": "Scope_SM_Rifle_Variable",
+    "Category": "Scope",
+    "NameEN": "SM_Rifle_Variable",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 319,
+    "AttachmentKey": "Scope_SSDS_600x",
+    "Category": "Scope",
+    "NameEN": "SSDS_600x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 320,
+    "AttachmentKey": "Scope_ST_Prisim_500x",
+    "Category": "Scope",
+    "NameEN": "ST_Prisim_500x",
+    "NameJP": "",
+    "ShortName": "SCOPE 5.00X",
+    "ShortUniqueName": "SCOPE 5.00X SU",
+    "Cost": 10
+  },
+  {
+    "Index": 321,
+    "AttachmentKey": "Scope_SU_123_150x",
+    "Category": "Scope",
+    "NameEN": "SU_123_150x",
+    "NameJP": "",
+    "ShortName": "SIGHT 1.50X",
+    "ShortUniqueName": "SIGHT 1.50X S",
+    "Cost": 0
+  },
+  {
+    "Index": 322,
+    "AttachmentKey": "Scope_SU_230_LPVO",
+    "Category": "Scope",
+    "NameEN": "SU_230_LPVO",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 323,
+    "AttachmentKey": "Scope_TS_HD_600x",
+    "Category": "Scope",
+    "NameEN": "TS_HD_600x",
+    "NameJP": "",
+    "ShortName": "",
+    "ShortUniqueName": "",
+    "Cost": 0
+  },
+  {
+    "Index": 324,
+    "AttachmentKey": "Top_120_mW_Blue",
+    "Category": "Top",
+    "NameEN": "120_mW_Blue",
+    "NameJP": "",
+    "ShortName": "BLUE LASER",
+    "ShortUniqueName": "BLUE LASER 120",
+    "Cost": 30
+  },
+  {
+    "Index": 325,
+    "AttachmentKey": "Top_5_mW_Green",
+    "Category": "Top",
+    "NameEN": "5_mW_Green",
+    "NameJP": "",
+    "ShortName": "GREEN LASER",
+    "ShortUniqueName": "GREEN LASER 5",
+    "Cost": 10
+  },
+  {
+    "Index": 326,
+    "AttachmentKey": "Top_5_mW_Red",
+    "Category": "Top",
+    "NameEN": "5_mW_Red",
+    "NameJP": "",
+    "ShortName": "RED LASER",
+    "ShortUniqueName": "RED LASER 5",
+    "Cost": 10
+  },
+  {
+    "Index": 327,
+    "AttachmentKey": "Top_50_mW_Blue",
+    "Category": "Top",
+    "NameEN": "50_mW_Blue",
+    "NameJP": "",
+    "ShortName": "BLUE LASER",
+    "ShortUniqueName": "BLUE LASER 50",
+    "Cost": 20
+  },
+  {
+    "Index": 328,
+    "AttachmentKey": "Top_50_mW_Green",
+    "Category": "Top",
+    "NameEN": "50_mW_Green",
+    "NameJP": "",
+    "ShortName": "GREEN LASER",
+    "ShortUniqueName": "GREEN LASER 50",
+    "Cost": 20
+  }
+]

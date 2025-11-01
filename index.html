@@ -6,18 +6,54 @@
   <title>BF Portal – Weapon Attachment Viewer</title>
   <style>
     body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 24px; }
-    h1 { font-size: 20px; margin: 0 0 12px; }
+    header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; }
+    h1 { font-size: 20px; margin: 0; }
+    button.info-btn {
+      background: #1976d2; color: #fff; border: none; padding: 6px 12px;
+      font-size: 13px; border-radius: 4px; cursor: pointer;
+    }
+    button.info-btn:hover { background: #145ca1; }
+
     .bar { display:flex; gap:12px; align-items:center; margin-bottom:16px; flex-wrap:wrap; }
     select, input { font-size: 14px; padding: 6px 8px; }
     table { border-collapse: collapse; width: 100%; }
     th, td { border: 1px solid #ddd; padding: 8px 10px; font-size: 14px; }
     th { background: #f7f7f7; text-align: left; }
     .muted { color:#666; font-size:12px; }
+
+    /* --- モーダル関連 --- */
+    .modal-backdrop {
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.5);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+    .modal {
+      background: #fff; border-radius: 8px;
+      max-width: 700px; width: 90%;
+      padding: 24px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+      position: relative;
+      animation: fadeIn 0.2s ease;
+    }
+    .modal h2 { margin-top: 0; font-size: 18px; }
+    .modal button.close {
+      position: absolute; top: 10px; right: 10px;
+      border: none; background: transparent;
+      font-size: 20px; cursor: pointer;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: scale(0.95); }
+      to { opacity: 1; transform: scale(1); }
+    }
   </style>
 </head>
 <body>
-  <h1>武器ごとの装備可能アタッチメント</h1>
-
+  <header>
+    <h1>BFPortal：武器ごとの装備可能アタッチメント</h1>
+    <button class="info-btn" id="infoBtn">はじめにお読みください</button>
+  </header>
   <div class="bar">
     <label>武器：</label>
     <select id="weaponSelect"></select>
@@ -44,6 +80,48 @@
     <tbody id="tbody"></tbody>
   </table>
 
+      <!-- ✅ モーダル本体 -->
+  <div class="modal-backdrop" id="modalBg">
+    <div class="modal">
+      <button class="close" id="modalClose">&times;</button>
+      <h2>免責事項</h2>
+      <p>
+        本サイトは Battlefield Portal のカスタムモード制作支援を目的とした
+        ファンメイドツールです。<br><br>
+        このサイトに記載されている全てのゲーム内パラメーターデータは、ゲームのプレイ中に目視で確認し、手作業で収集・入力したものです。<br>
+        当データ作成において、リバースエンジニアリング、データの違法な抽出（データマイニング）、またはその他の不正な解析行為は一切行っていません。
+        記載内容の正確性については細心の注意を払っておりますが、ゲームのアップデート等により情報が古くなる可能性があります。本データの利用によって生じたいかなる損害についても、当方は一切の責任を負いません。
+      </p>
+      <p>
+        本サイトに含まれる全てのパラメータおよびデータは、エレクトロニック・アーツ（Electronic Arts Inc.）が販売し、Battlefield Studios / DICE が開発する**『Battlefield』シリーズ**のコンテンツに基づいています。すべての著作権および商標権は、エレクトロニック・アーツ株式会社 および 各著作権者 に帰属します。<br><br>
+        © Electronic Arts Inc. EA、DICE、および Battlefield はElectronic Arts Inc. の商標または登録商標です。
+      </p>
+      <h2>謝辞</h2>
+      <p>
+        本データの作成は、以下の皆様のご協力によって成り立っています。
+      </p>
+      <p>
+        Battlefield Portal Japan Community： 調査環境の維持と情報共有にご協力いただきました。
+      </p>
+      <p>
+        kirlo 様： パラメータの効率的な収集を実現するための調査方法について、具体的なアイデアをご提供いただきました。
+      </p>
+      <p class="muted">Special thanks to the Battlefield Portal community.</p>
+    </div>
+  </div>
+
   <script src="./js/main.js"></script>
+  <script>
+    // --- モーダル制御 ---
+    const modalBg = document.getElementById('modalBg');
+    const infoBtn = document.getElementById('infoBtn');
+    const modalClose = document.getElementById('modalClose');
+
+    infoBtn.addEventListener('click', () => modalBg.style.display = 'flex');
+    modalClose.addEventListener('click', () => modalBg.style.display = 'none');
+    modalBg.addEventListener('click', (e) => {
+      if (e.target === modalBg) modalBg.style.display = 'none';
+    });
+  </script>
 </body>
 </html>

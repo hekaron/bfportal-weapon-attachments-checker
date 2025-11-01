@@ -1,0 +1,242 @@
+[
+  {
+    "WeaponKey": "AssaultRifle_AK4D",
+    "Category": "AssaultRifle",
+    "DisplayName": "AK4D"
+  },
+  {
+    "WeaponKey": "AssaultRifle_B36A4",
+    "Category": "AssaultRifle",
+    "DisplayName": "B36A4"
+  },
+  {
+    "WeaponKey": "AssaultRifle_KORD_6P67",
+    "Category": "AssaultRifle",
+    "DisplayName": "KORD 6P67"
+  },
+  {
+    "WeaponKey": "AssaultRifle_L85A3",
+    "Category": "AssaultRifle",
+    "DisplayName": "L85A3"
+  },
+  {
+    "WeaponKey": "AssaultRifle_M433",
+    "Category": "AssaultRifle",
+    "DisplayName": "M433"
+  },
+  {
+    "WeaponKey": "AssaultRifle_NVO_228E",
+    "Category": "AssaultRifle",
+    "DisplayName": "NVO-228E"
+  },
+  {
+    "WeaponKey": "AssaultRifle_SOR_556_Mk2",
+    "Category": "AssaultRifle",
+    "DisplayName": "SOR-556 MK2"
+  },
+  {
+    "WeaponKey": "AssaultRifle_TR_7",
+    "Category": "AssaultRifle",
+    "DisplayName": "TR-7"
+  },
+  {
+    "WeaponKey": "Carbine_AK_205",
+    "Category": "Carbine",
+    "DisplayName": "AK-205"
+  },
+  {
+    "WeaponKey": "Carbine_GRT_BC",
+    "Category": "Carbine",
+    "DisplayName": "GRT-BC"
+  },
+  {
+    "WeaponKey": "Carbine_M277",
+    "Category": "Carbine",
+    "DisplayName": "M277"
+  },
+  {
+    "WeaponKey": "Carbine_M417_A2",
+    "Category": "Carbine",
+    "DisplayName": "M417 A2"
+  },
+  {
+    "WeaponKey": "Carbine_M4A1",
+    "Category": "Carbine",
+    "DisplayName": "M4A1"
+  },
+  {
+    "WeaponKey": "Carbine_QBZ_192",
+    "Category": "Carbine",
+    "DisplayName": "QBZ-192"
+  },
+  {
+    "WeaponKey": "Carbine_SG_553R",
+    "Category": "Carbine",
+    "DisplayName": "SG 553R"
+  },
+  {
+    "WeaponKey": "Carbine_SOR_300SC",
+    "Category": "Carbine",
+    "DisplayName": "SOR-300SC"
+  },
+  {
+    "WeaponKey": "DMR_LMR27",
+    "Category": "DMR",
+    "DisplayName": "LMR27"
+  },
+  {
+    "WeaponKey": "DMR_M39_EMR",
+    "Category": "DMR",
+    "DisplayName": "M39 EMR"
+  },
+  {
+    "WeaponKey": "DMR_SVDM",
+    "Category": "DMR",
+    "DisplayName": "SVDM"
+  },
+  {
+    "WeaponKey": "DMR_SVK_86",
+    "Category": "DMR",
+    "DisplayName": "SVK-8.6"
+  },
+  {
+    "WeaponKey": "LMG_DRS_IAR",
+    "Category": "LMG",
+    "DisplayName": "DRS-IAR"
+  },
+  {
+    "WeaponKey": "LMG_KTS100_MK8",
+    "Category": "LMG",
+    "DisplayName": "KTS100 MK8"
+  },
+  {
+    "WeaponKey": "LMG_L110",
+    "Category": "LMG",
+    "DisplayName": "L110"
+  },
+  {
+    "WeaponKey": "LMG_M_60",
+    "Category": "LMG",
+    "DisplayName": "M/60"
+  },
+  {
+    "WeaponKey": "LMG_M123K",
+    "Category": "LMG",
+    "DisplayName": "M123K"
+  },
+  {
+    "WeaponKey": "LMG_M240L",
+    "Category": "LMG",
+    "DisplayName": "M240L"
+  },
+  {
+    "WeaponKey": "LMG_M250",
+    "Category": "LMG",
+    "DisplayName": "M250"
+  },
+  {
+    "WeaponKey": "LMG_RPKM",
+    "Category": "LMG",
+    "DisplayName": "RPKM"
+  },
+  {
+    "WeaponKey": "Shotgun__185KS_K",
+    "Category": "Shotgun",
+    "DisplayName": "18.5KS-K"
+  },
+  {
+    "WeaponKey": "Shotgun_M1014",
+    "Category": "Shotgun",
+    "DisplayName": "M1014"
+  },
+  {
+    "WeaponKey": "Shotgun_M87A1",
+    "Category": "Shotgun",
+    "DisplayName": "M87A1"
+  },
+  {
+    "WeaponKey": "Sidearm_ES_57",
+    "Category": "Sidearm",
+    "DisplayName": "ES 57"
+  },
+  {
+    "WeaponKey": "Sidearm_GGH_22",
+    "Category": "Sidearm",
+    "DisplayName": "GGH-22"
+  },
+  {
+    "WeaponKey": "Sidearm_M44",
+    "Category": "Sidearm",
+    "DisplayName": "M44"
+  },
+  {
+    "WeaponKey": "Sidearm_M45A1",
+    "Category": "Sidearm",
+    "DisplayName": "M45A1"
+  },
+  {
+    "WeaponKey": "Sidearm_P18",
+    "Category": "Sidearm",
+    "DisplayName": "P18"
+  },
+  {
+    "WeaponKey": "SMG_KV9",
+    "Category": "SMG",
+    "DisplayName": "KV9"
+  },
+  {
+    "WeaponKey": "SMG_PW5A3",
+    "Category": "SMG",
+    "DisplayName": "PW5A3"
+  },
+  {
+    "WeaponKey": "SMG_PW7A2",
+    "Category": "SMG",
+    "DisplayName": "PW7A2"
+  },
+  {
+    "WeaponKey": "SMG_SCW_10",
+    "Category": "SMG",
+    "DisplayName": "SCW-10"
+  },
+  {
+    "WeaponKey": "SMG_SGX",
+    "Category": "SMG",
+    "DisplayName": "SGX"
+  },
+  {
+    "WeaponKey": "SMG_SL9",
+    "Category": "SMG",
+    "DisplayName": "SL9"
+  },
+  {
+    "WeaponKey": "SMG_UMG_40",
+    "Category": "SMG",
+    "DisplayName": "UMG-40"
+  },
+  {
+    "WeaponKey": "SMG_USG_90",
+    "Category": "SMG",
+    "DisplayName": "USG-90"
+  },
+  {
+    "WeaponKey": "Sniper_M2010_ESR",
+    "Category": "Sniper",
+    "DisplayName": "M2010 ESR"
+  },
+  {
+    "WeaponKey": "Sniper_Mini_Scout",
+    "Category": "Sniper",
+    "DisplayName": "MINI SCOUT"
+  },
+  {
+    "WeaponKey": "Sniper_PSR",
+    "Category": "Sniper",
+    "DisplayName": "PSR"
+  },
+  {
+    "WeaponKey": "Sniper_SV_98",
+    "Category": "Sniper",
+    "DisplayName": "SV-98"
+  }
+]
