@@ -58,8 +58,8 @@ async function init() {
 
     // ① Index配列 → ② Key配列（将来のため両対応）
     let items = [];
-    if (Array.isArray(mapEntry.AttachmentIndices) && mapEntry.AttachmentIndices.length) {
-      items = mapEntry.AttachmentIndices
+    if (Array.isArray(mapEntry.AttachmentIndexes) && mapEntry.AttachmentIndexes.length) {
+      items = mapEntry.AttachmentIndexes
         .map(i => attByIndex.get(Number(i)))
         .filter(Boolean);
     } else if (Array.isArray(mapEntry.AttachmentKeys) && mapEntry.AttachmentKeys.length) {
