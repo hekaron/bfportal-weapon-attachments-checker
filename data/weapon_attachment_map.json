@@ -20,7 +20,7 @@
     "AttachmentKey": "Ammo_FMJ",
     "IsEquippable": true,
     "Cost": 5,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -924,7 +924,7 @@
     "AttachmentKey": "Barrel_450mm_Standard",
     "IsEquippable": false,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -1772,7 +1772,7 @@
     "AttachmentKey": "Magazine_20rnd_Magazine",
     "IsEquippable": true,
     "Cost": 5,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -2084,7 +2084,7 @@
     "AttachmentKey": "Muzzle_Flash_Hider",
     "IsEquippable": true,
     "Cost": 10,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -2340,7 +2340,7 @@
     "AttachmentKey": "Scope_CCO_200x",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -2652,7 +2652,7 @@
     "AttachmentKey": "Ammo_FMJ",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "AttachmentKey": "Barrel_480mm_Factory",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -4468,7 +4468,7 @@
     "AttachmentKey": "Magazine_30rnd_Magazine",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -4716,7 +4716,7 @@
     "AttachmentKey": "Muzzle_Flash_Hider",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -4972,7 +4972,7 @@
     "AttachmentKey": "Scope_CCO_200x",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -5284,7 +5284,7 @@
     "AttachmentKey": "Ammo_FMJ",
     "IsEquippable": true,
     "Cost": 5,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -6108,7 +6108,7 @@
     "AttachmentKey": "Barrel_415mm_Factory",
     "IsEquippable": true,
     "Cost": 10,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -7100,7 +7100,7 @@
     "AttachmentKey": "Magazine_30rnd_Magazine",
     "IsEquippable": true,
     "Cost": 5,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -7380,7 +7380,7 @@
     "AttachmentKey": "Muzzle_Single_port_Brake",
     "IsEquippable": true,
     "Cost": 5,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -7604,7 +7604,7 @@
     "AttachmentKey": "Scope_CCO_200x",
     "IsEquippable": true,
     "Cost": 10,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -7916,7 +7916,7 @@
     "AttachmentKey": "Ammo_FMJ",
     "IsEquippable": true,
     "Cost": 5,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -8940,7 +8940,7 @@
     "AttachmentKey": "Barrel_518mm_Factory",
     "IsEquippable": true,
     "Cost": 10,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -9732,7 +9732,7 @@
     "AttachmentKey": "Magazine_30rnd_Magazine",
     "IsEquippable": true,
     "Cost": 5,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -9980,7 +9980,7 @@
     "AttachmentKey": "Muzzle_Flash_Hider",
     "IsEquippable": true,
     "Cost": 10,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -10428,7 +10428,7 @@
     "AttachmentKey": "Scope_SDO_350x",
     "IsEquippable": true,
     "Cost": 10,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -10548,7 +10548,7 @@
     "AttachmentKey": "Ammo_FMJ",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -10812,7 +10812,7 @@
     "AttachmentKey": "Barrel_145_Standard",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -11948,7 +11948,7 @@
     "AttachmentKey": "Bottom_Classic_Vertical",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -12364,7 +12364,7 @@
     "AttachmentKey": "Magazine_30rnd_Magazine",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -12612,7 +12612,7 @@
     "AttachmentKey": "Muzzle_Flash_Hider",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -13100,7 +13100,7 @@
     "AttachmentKey": "Scope_SU_123_150x",
     "IsEquippable": true,
     "Cost": 0,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -102667,15 +102667,15 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Ammo_FMJ",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 5,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Ammo_Frangible",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -102683,7 +102683,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Ammo_Hollow_Point",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -102723,7 +102723,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Ammo_Tungsten_Core",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -103163,7 +103163,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Barrel_200mm_Custom",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 15,
     "IsDefault": false,
     "Note": ""
   },
@@ -103915,15 +103915,15 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Barrel_68_Factory",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 10,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Barrel_68_Fluted",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -104019,7 +104019,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_6H64_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -104035,7 +104035,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Alloy_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -104051,7 +104051,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Canted_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -104067,7 +104067,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Classic_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 35,
     "IsDefault": false,
     "Note": ""
   },
@@ -104075,7 +104075,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Compact_Handstop",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104099,7 +104099,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Folding_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -104107,7 +104107,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Folding_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104139,7 +104139,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Low_Profile_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 45,
     "IsDefault": false,
     "Note": ""
   },
@@ -104163,7 +104163,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Ribbed_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -104171,7 +104171,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Ribbed_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -104179,7 +104179,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Slim_Angled",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -104195,7 +104195,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Bottom_Stippled_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 35,
     "IsDefault": false,
     "Note": ""
   },
@@ -104227,7 +104227,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Ergonomic_Improved_Mag_Catch",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -104371,7 +104371,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Magazine_15rnd_Fast_Mag",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104379,8 +104379,8 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Magazine_15rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 5,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -104419,7 +104419,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Magazine_20rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -104459,7 +104459,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Magazine_25rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 45,
     "IsDefault": false,
     "Note": ""
   },
@@ -104707,7 +104707,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Muzzle_Compensated_Brake",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -104715,7 +104715,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Muzzle_CQB_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -104723,7 +104723,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Muzzle_Double_port_Brake",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104731,7 +104731,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Muzzle_Flash_Hider",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104739,7 +104739,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Muzzle_Lightened_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -104747,7 +104747,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Muzzle_Linear_Comp",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104755,7 +104755,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Muzzle_Long_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -104779,7 +104779,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Muzzle_Standard_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -104843,7 +104843,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Right_Flashlight",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104883,7 +104883,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_1p87_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104899,15 +104899,15 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_2Pro_125x",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 10,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_3VZR_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104915,7 +104915,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_A_P2_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104963,7 +104963,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_Baker_300x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104971,7 +104971,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_BF_2M_250x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104979,7 +104979,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_Canted_Iron_Sights",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -104987,7 +104987,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_CCO_200x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -104995,7 +104995,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_CQ_RDS_125x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105019,7 +105019,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_GRIM_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -105027,7 +105027,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_Iron_Sights",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -105035,7 +105035,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_LDS_450x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105051,7 +105051,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_Mars_F_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -105067,7 +105067,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_Mini_Flex_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105091,7 +105091,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_Osa_7_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105099,7 +105099,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_PAS_35_300x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -105115,7 +105115,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_PVQ_31_400x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105123,7 +105123,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_R_MR_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105139,7 +105139,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_R4T_200x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105147,7 +105147,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_RO_M_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105155,7 +105155,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_RO_S_125x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105163,7 +105163,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_ROX_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105179,7 +105179,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_SDO_350x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105187,7 +105187,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_SF_G2_500x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105211,7 +105211,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_ST_Prisim_500x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105219,7 +105219,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_SU_123_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105227,7 +105227,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Scope_SU_230_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -105243,7 +105243,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Top_120_mW_Blue",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -105251,7 +105251,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Top_5_mW_Green",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105259,7 +105259,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Top_5_mW_Red",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -105267,7 +105267,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Top_50_mW_Blue",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -105275,7 +105275,7 @@
     "WeaponKey": "SMG_SCW_10",
     "AttachmentKey": "Top_50_mW_Green",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },

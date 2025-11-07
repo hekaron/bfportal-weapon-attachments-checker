@@ -580,9 +580,9 @@
     "AttachmentKey": "Barrel_200mm_Custom",
     "Category": "Barrel",
     "NameEN": "200mm_Custom",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "200MMカスタム",
+    "ShortName": "EXTENDED",
+    "ShortUniqueName": "EXTENDED"
   },
   {
     "Index": 65,
@@ -1426,18 +1426,18 @@
     "AttachmentKey": "Barrel_68_Factory",
     "Category": "Barrel",
     "NameEN": "68_Factory",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "6.8インチ標準",
+    "ShortName": "STANDARD",
+    "ShortUniqueName": "STANDARD"
   },
   {
     "Index": 159,
     "AttachmentKey": "Barrel_68_Fluted",
     "Category": "Barrel",
     "NameEN": "68_Fluted",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "6.8インチフルーテッド",
+    "ShortName": "FLUTED",
+    "ShortUniqueName": "FLUTED"
   },
   {
     "Index": 160,
@@ -1543,7 +1543,7 @@
     "AttachmentKey": "Bottom_6H64_Vertical",
     "Category": "Bottom",
     "NameEN": "6H64_Vertical",
-    "NameJP": "",
+    "NameJP": "6H64バーティカル",
     "ShortName": "VERTICAL",
     "ShortUniqueName": "VERTICAL 6H"
   },
@@ -1561,7 +1561,7 @@
     "AttachmentKey": "Bottom_Alloy_Vertical",
     "Category": "Bottom",
     "NameEN": "Alloy_Vertical",
-    "NameJP": "",
+    "NameJP": "合金製バーティカル",
     "ShortName": "VERTICAL",
     "ShortUniqueName": "VERTICAL A"
   },
@@ -1579,7 +1579,7 @@
     "AttachmentKey": "Bottom_Canted_Stubby",
     "Category": "Bottom",
     "NameEN": "Canted_Stubby",
-    "NameJP": "",
+    "NameJP": "オフセット・スタビー",
     "ShortName": "STUBBY",
     "ShortUniqueName": "STUBBY C"
   },
@@ -1606,7 +1606,7 @@
     "AttachmentKey": "Bottom_Compact_Handstop",
     "Category": "Bottom",
     "NameEN": "Compact_Handstop",
-    "NameJP": "",
+    "NameJP": "コンパクト・ハンドストップ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1633,7 +1633,7 @@
     "AttachmentKey": "Bottom_Folding_Stubby",
     "Category": "Bottom",
     "NameEN": "Folding_Stubby",
-    "NameJP": "",
+    "NameJP": "折りたたみスタビー",
     "ShortName": "STUBBY",
     "ShortUniqueName": "STUBBY F"
   },
@@ -1642,7 +1642,7 @@
     "AttachmentKey": "Bottom_Folding_Vertical",
     "Category": "Bottom",
     "NameEN": "Folding_Vertical",
-    "NameJP": "",
+    "NameJP": "折りたたみバーティカル",
     "ShortName": "VERTICAL",
     "ShortUniqueName": "VERTICAL F"
   },
@@ -1678,7 +1678,7 @@
     "AttachmentKey": "Bottom_Low_Profile_Stubby",
     "Category": "Bottom",
     "NameEN": "Low_Profile_Stubby",
-    "NameJP": "",
+    "NameJP": "ロープロファイル・スタビー",
     "ShortName": "STUBBY",
     "ShortUniqueName": "STUBBY L"
   },
@@ -1705,7 +1705,7 @@
     "AttachmentKey": "Bottom_Ribbed_Stubby",
     "Category": "Bottom",
     "NameEN": "Ribbed_Stubby",
-    "NameJP": "",
+    "NameJP": "リブ付きスタビー",
     "ShortName": "STUBBY",
     "ShortUniqueName": "STUBBY R"
   },
@@ -1714,7 +1714,7 @@
     "AttachmentKey": "Bottom_Ribbed_Vertical",
     "Category": "Bottom",
     "NameEN": "Ribbed_Vertical",
-    "NameJP": "",
+    "NameJP": "リブ付きバーティカル",
     "ShortName": "VERTICAL",
     "ShortUniqueName": "VERTICAL R"
   },
@@ -1723,7 +1723,7 @@
     "AttachmentKey": "Bottom_Slim_Angled",
     "Category": "Bottom",
     "NameEN": "Slim_Angled",
-    "NameJP": "",
+    "NameJP": "スリム・アングルド",
     "ShortName": "ANGLED",
     "ShortUniqueName": "ANGLED S"
   },
@@ -1741,7 +1741,7 @@
     "AttachmentKey": "Bottom_Stippled_Stubby",
     "Category": "Bottom",
     "NameEN": "Stippled_Stubby",
-    "NameJP": "",
+    "NameJP": "ステップリング・スタビー",
     "ShortName": "STUBBY",
     "ShortUniqueName": "STUBBY S"
   },
@@ -1777,7 +1777,7 @@
     "AttachmentKey": "Ergonomic_Improved_Mag_Catch",
     "Category": "Ergonomic",
     "NameEN": "Improved_Mag_Catch",
-    "NameJP": "",
+    "NameJP": "改良型マガジンキャッチ",
     "ShortName": "MAG CATCH",
     "ShortUniqueName": "MAG CATCH"
   },
@@ -2515,7 +2515,7 @@
     "AttachmentKey": "Scope_1p87_150x",
     "Category": "Scope",
     "NameEN": "1p87_150x",
-    "NameJP": "",
+    "NameJP": "1P87 X1.50",
     "ShortName": "SIGHT 1.50X",
     "ShortUniqueName": "SIGHT 1.50X 1P"
   },
@@ -2533,7 +2533,7 @@
     "AttachmentKey": "Scope_2Pro_125x",
     "Category": "Scope",
     "NameEN": "2Pro_125x",
-    "NameJP": "",
+    "NameJP": "2プロX1.25",
     "ShortName": "SIGHT 1.25X",
     "ShortUniqueName": "SIGHT 1.25X 2P"
   },
@@ -2542,7 +2542,7 @@
     "AttachmentKey": "Scope_3VZR_175x",
     "Category": "Scope",
     "NameEN": "3VZR_175x",
-    "NameJP": "",
+    "NameJP": "3VZR X1.75",
     "ShortName": "SIGHT 1.75X",
     "ShortUniqueName": "SIGHT 1.75X 3V"
   },
@@ -2551,7 +2551,7 @@
     "AttachmentKey": "Scope_A_P2_175x",
     "Category": "Scope",
     "NameEN": "A_P2_175x",
-    "NameJP": "",
+    "NameJP": "A-P2 1.75X",
     "ShortName": "SIGHT 1.75X",
     "ShortUniqueName": "SIGHT 1.75X A"
   },
@@ -2605,7 +2605,7 @@
     "AttachmentKey": "Scope_Baker_300x",
     "Category": "Scope",
     "NameEN": "Baker_300x",
-    "NameJP": "",
+    "NameJP": "ベイカーX3.00",
     "ShortName": "SCOPE 3.00X",
     "ShortUniqueName": "SCOPE 3.00X"
   },
@@ -2668,7 +2668,7 @@
     "AttachmentKey": "Scope_GRIM_150x",
     "Category": "Scope",
     "NameEN": "GRIM_150x",
-    "NameJP": "",
+    "NameJP": "GRIM X1.50",
     "ShortName": "THERMAL 1.50X",
     "ShortUniqueName": "THERMAL 1.50X"
   },
@@ -2677,7 +2677,7 @@
     "AttachmentKey": "Scope_Iron_Sights",
     "Category": "Scope",
     "NameEN": "Iron_Sights",
-    "NameJP": "",
+    "NameJP": "アイアンサイト",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2686,7 +2686,7 @@
     "AttachmentKey": "Scope_LDS_450x",
     "Category": "Scope",
     "NameEN": "LDS_450x",
-    "NameJP": "",
+    "NameJP": "LDS X4.50",
     "ShortName": "SCOPE 4.50X",
     "ShortUniqueName": "SCOPE 4.50X"
   },
@@ -2704,7 +2704,7 @@
     "AttachmentKey": "Scope_Mars_F_LPVO",
     "Category": "Scope",
     "NameEN": "Mars_F_LPVO",
-    "NameJP": "",
+    "NameJP": "MARS-F LPVO",
     "ShortName": "VARIABLE 1-5X",
     "ShortUniqueName": "VARIABLE 1-5X"
   },
@@ -2722,7 +2722,7 @@
     "AttachmentKey": "Scope_Mini_Flex_100x",
     "Category": "Scope",
     "NameEN": "Mini_Flex_100x",
-    "NameJP": "",
+    "NameJP": "ミニフレックスX1.00",
     "ShortName": "SIGHT 1.00X",
     "ShortUniqueName": "SIGHT 1.00X M"
   },
@@ -2749,7 +2749,7 @@
     "AttachmentKey": "Scope_Osa_7_100x",
     "Category": "Scope",
     "NameEN": "Osa_7_100x",
-    "NameJP": "",
+    "NameJP": "OSA-7 X1.00",
     "ShortName": "SIGHT 1.00X",
     "ShortUniqueName": "SIGHT 1.00X O"
   },
@@ -2758,7 +2758,7 @@
     "AttachmentKey": "Scope_PAS_35_300x",
     "Category": "Scope",
     "NameEN": "PAS_35_300x",
-    "NameJP": "",
+    "NameJP": "PAS-35 X3.00",
     "ShortName": "THERMAL 3.00X",
     "ShortUniqueName": "THERMAL 3.00X"
   },
@@ -2776,7 +2776,7 @@
     "AttachmentKey": "Scope_PVQ_31_400x",
     "Category": "Scope",
     "NameEN": "PVQ_31_400x",
-    "NameJP": "",
+    "NameJP": "PVQ-31 X4.00",
     "ShortName": "SCOPE 4.00X",
     "ShortUniqueName": "SCOPE 4.00X"
   },
@@ -2803,7 +2803,7 @@
     "AttachmentKey": "Scope_R4T_200x",
     "Category": "Scope",
     "NameEN": "R4T_200x",
-    "NameJP": "",
+    "NameJP": "R4T X2.00",
     "ShortName": "SIGHT 2.00X",
     "ShortUniqueName": "SIGHT 2.00X R"
   },
@@ -2812,7 +2812,7 @@
     "AttachmentKey": "Scope_RO_M_175x",
     "Category": "Scope",
     "NameEN": "RO_M_175x",
-    "NameJP": "",
+    "NameJP": "RO-M X1.75",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2821,7 +2821,7 @@
     "AttachmentKey": "Scope_RO_S_125x",
     "Category": "Scope",
     "NameEN": "RO_S_125x",
-    "NameJP": "",
+    "NameJP": "RO-S X1.25",
     "ShortName": "SIGHT 1.25X",
     "ShortUniqueName": "SIGHT 1.25X R"
   },
@@ -2830,7 +2830,7 @@
     "AttachmentKey": "Scope_ROX_150x",
     "Category": "Scope",
     "NameEN": "ROX_150x",
-    "NameJP": "",
+    "NameJP": "ROX X1.50",
     "ShortName": "SIGHT 1.50X",
     "ShortUniqueName": "SIGHT 1.50X R"
   },
@@ -2857,7 +2857,7 @@
     "AttachmentKey": "Scope_SF_G2_500x",
     "Category": "Scope",
     "NameEN": "SF_G2_500x",
-    "NameJP": "",
+    "NameJP": "SF-G2 X5.00",
     "ShortName": "SCOPE 5.00X",
     "ShortUniqueName": "SCOPE 5.00X SF"
   },
@@ -2884,7 +2884,7 @@
     "AttachmentKey": "Scope_ST_Prisim_500x",
     "Category": "Scope",
     "NameEN": "ST_Prisim_500x",
-    "NameJP": "",
+    "NameJP": "ST プリズムX5.00",
     "ShortName": "SCOPE 5.00X",
     "ShortUniqueName": "SCOPE 5.00X SU"
   },
@@ -2902,7 +2902,7 @@
     "AttachmentKey": "Scope_SU_230_LPVO",
     "Category": "Scope",
     "NameEN": "SU_230_LPVO",
-    "NameJP": "",
+    "NameJP": "SU-230 LPVO",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2920,7 +2920,7 @@
     "AttachmentKey": "Top_120_mW_Blue",
     "Category": "Top",
     "NameEN": "120_mW_Blue",
-    "NameJP": "",
+    "NameJP": "120MWブルー",
     "ShortName": "BLUE LASER",
     "ShortUniqueName": "BLUE LASER 120"
   },
@@ -2929,7 +2929,7 @@
     "AttachmentKey": "Top_5_mW_Green",
     "Category": "Top",
     "NameEN": "5_mW_Green",
-    "NameJP": "",
+    "NameJP": "5MWグリーン",
     "ShortName": "GREEN LASER",
     "ShortUniqueName": "GREEN LASER 5"
   },
@@ -2938,7 +2938,7 @@
     "AttachmentKey": "Top_5_mW_Red",
     "Category": "Top",
     "NameEN": "5_mW_Red",
-    "NameJP": "",
+    "NameJP": "5MWレッド",
     "ShortName": "RED LASER",
     "ShortUniqueName": "RED LASER 5"
   },
@@ -2947,7 +2947,7 @@
     "AttachmentKey": "Top_50_mW_Blue",
     "Category": "Top",
     "NameEN": "50_mW_Blue",
-    "NameJP": "",
+    "NameJP": "50MWブルー",
     "ShortName": "BLUE LASER",
     "ShortUniqueName": "BLUE LASER 50"
   },
@@ -2956,7 +2956,7 @@
     "AttachmentKey": "Top_50_mW_Green",
     "Category": "Top",
     "NameEN": "50_mW_Green",
-    "NameJP": "",
+    "NameJP": "50MWグリーン",
     "ShortName": "GREEN LASER",
     "ShortUniqueName": "GREEN LASER 50"
   }
