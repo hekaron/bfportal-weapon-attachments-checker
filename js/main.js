@@ -69,7 +69,7 @@ async function init() {
     const rows = list
       .map(m => {
         const a = attByKey.get(m.AttachmentKey);
-        return a ? { ...a, Cost: m.Cost, Default: m.Default } : null;
+        return a ? { ...a, Cost: m.Cost, Default: m.IsDefault } : null;
       })
       .filter(Boolean)
       .filter(a => {
