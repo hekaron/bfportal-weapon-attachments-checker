@@ -55,7 +55,7 @@ async function init() {
     const key = sel.value;
     const list = weaponMap.filter(m => m.WeaponKey === key && m.IsEquippable);
     const defaultList = list
-      .filter(m => m.Default)
+      .filter(m => m.IsDefault)
       .map(m => attByKey.get(m.AttachmentKey)?.NameJP || m.AttachmentKey);
 
     // update default UI
