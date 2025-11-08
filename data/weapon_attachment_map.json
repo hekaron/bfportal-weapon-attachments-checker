@@ -14698,7 +14698,7 @@
   {
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Slim_Handstop",
-    "IsEquippable": true,
+    "IsEquippable": false,
     "Cost": 0,
     "IsDefault": false,
     "Note": ""
@@ -15618,7 +15618,7 @@
   {
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_Piggyback_Reflex",
-    "IsEquippable": true,
+    "IsEquippable": false,
     "Cost": 0,
     "IsDefault": false,
     "Note": ""
@@ -15811,15 +15811,15 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ammo_FMJ",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 5,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ammo_Frangible",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -15827,7 +15827,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ammo_Hollow_Point",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -15843,7 +15843,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ammo_Polymer_Case",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15859,7 +15859,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ammo_Synthetic_Tip",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -15867,7 +15867,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ammo_Tungsten_Core",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -16067,8 +16067,8 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Barrel_145_Factory",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 15,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -16123,7 +16123,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Barrel_16_US",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -16187,7 +16187,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Barrel_18_Custom",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -16211,7 +16211,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Barrel_18_US_LB",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 15,
     "IsDefault": false,
     "Note": ""
   },
@@ -17131,7 +17131,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Barrel_IAR_Heavy",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -17163,7 +17163,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_6H64_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -17171,7 +17171,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Adjustable_Angled",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 15,
     "IsDefault": false,
     "Note": ""
   },
@@ -17179,7 +17179,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Alloy_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -17187,7 +17187,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Bipod",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -17195,7 +17195,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Canted_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -17203,7 +17203,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Classic_Grip_Pod",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -17211,7 +17211,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Classic_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 35,
     "IsDefault": false,
     "Note": ""
   },
@@ -17243,7 +17243,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Folding_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -17251,7 +17251,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Folding_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -17259,7 +17259,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Full_Angled",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -17283,7 +17283,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Low_Profile_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 45,
     "IsDefault": false,
     "Note": ""
   },
@@ -17291,7 +17291,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_PTT_Grip_Pod",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -17299,7 +17299,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_QD_Grip_Pod",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -17307,7 +17307,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Ribbed_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -17315,7 +17315,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Ribbed_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -17323,14 +17323,14 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Slim_Angled",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Slim_Handstop",
-    "IsEquippable": true,
+    "IsEquippable": false,
     "Cost": 0,
     "IsDefault": false,
     "Note": ""
@@ -17339,7 +17339,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Bottom_Stippled_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 35,
     "IsDefault": false,
     "Note": ""
   },
@@ -17379,7 +17379,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ergonomic_Magwell_Flare",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -17387,7 +17387,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ergonomic_Match_Trigger",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 15,
     "IsDefault": false,
     "Note": ""
   },
@@ -17395,7 +17395,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Ergonomic_Rail_Cover",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -17555,7 +17555,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_20rnd_Fast_Mag",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -17563,7 +17563,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_20rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -17619,7 +17619,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_30rnd_Fast_Mag",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -17627,15 +17627,15 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_30rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 5,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_36rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 15,
     "IsDefault": false,
     "Note": ""
   },
@@ -17651,7 +17651,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_40rnd_Fast_Mag",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -17659,7 +17659,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_40rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -17675,7 +17675,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_45rnd_Fast_Mag",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 40,
     "IsDefault": false,
     "Note": ""
   },
@@ -17683,7 +17683,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Magazine_45rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 35,
     "IsDefault": false,
     "Note": ""
   },
@@ -17851,7 +17851,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Muzzle_Compensated_Brake",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -17859,7 +17859,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Muzzle_CQB_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -17867,7 +17867,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Muzzle_Double_port_Brake",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -17875,15 +17875,15 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Muzzle_Flash_Hider",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 10,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Muzzle_Lightened_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -17891,7 +17891,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Muzzle_Linear_Comp",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -17907,7 +17907,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Muzzle_Single_port_Brake",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -17923,7 +17923,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Muzzle_Standard_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -17987,7 +17987,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Right_Flashlight",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18027,7 +18027,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_1p87_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18043,7 +18043,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_2Pro_125x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18051,7 +18051,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_3VZR_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18059,7 +18059,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_A_P2_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18107,7 +18107,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_Baker_300x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18115,7 +18115,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_BF_2M_250x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18123,7 +18123,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_Canted_Iron_Sights",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -18131,7 +18131,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_CCO_200x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18139,7 +18139,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_CQ_RDS_125x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18155,7 +18155,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_DVO_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -18163,7 +18163,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_GRIM_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -18171,7 +18171,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_Iron_Sights",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -18179,7 +18179,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_LDS_450x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18203,7 +18203,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_MC_CO_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -18211,7 +18211,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_Mini_Flex_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18227,7 +18227,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_NGFC_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -18235,7 +18235,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_Osa_7_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18243,14 +18243,14 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_PAS_35_300x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_Piggyback_Reflex",
-    "IsEquippable": true,
+    "IsEquippable": false,
     "Cost": 0,
     "IsDefault": false,
     "Note": ""
@@ -18259,15 +18259,15 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_PVQ_31_400x",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 10,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_R_MR_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18283,7 +18283,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_R4T_200x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18291,7 +18291,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_RO_M_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18299,7 +18299,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_RO_S_125x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18307,7 +18307,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_ROX_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18323,7 +18323,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_SDO_350x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18331,7 +18331,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_SF_G2_500x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18355,7 +18355,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_ST_Prisim_500x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18363,7 +18363,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_SU_123_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18371,7 +18371,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Scope_SU_230_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -18387,7 +18387,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Top_120_mW_Blue",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -18395,7 +18395,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Top_5_mW_Green",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18403,7 +18403,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Top_5_mW_Red",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -18411,7 +18411,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Top_50_mW_Blue",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -18419,7 +18419,7 @@
     "WeaponKey": "AssaultRifle_SOR_556_Mk2",
     "AttachmentKey": "Top_50_mW_Green",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
