@@ -13179,15 +13179,15 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Ammo_FMJ",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 5,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Ammo_Frangible",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -13195,7 +13195,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Ammo_Hollow_Point",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -13211,7 +13211,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Ammo_Polymer_Case",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -13235,7 +13235,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Ammo_Tungsten_Core",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -13971,15 +13971,15 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Barrel_409mm_Cut",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 15,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Barrel_409mm_Factory",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -13987,7 +13987,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Barrel_409mm_Fluted",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -14107,7 +14107,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Barrel_458mm_Custom",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 15,
     "IsDefault": false,
     "Note": ""
   },
@@ -14531,7 +14531,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_6H64_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -14547,7 +14547,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Alloy_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -14555,7 +14555,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Bipod",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -14563,7 +14563,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Canted_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -14571,7 +14571,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Classic_Grip_Pod",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -14579,7 +14579,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Classic_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 35,
     "IsDefault": false,
     "Note": ""
   },
@@ -14611,7 +14611,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Folding_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -14619,7 +14619,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Folding_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -14627,7 +14627,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Full_Angled",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -14651,7 +14651,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Low_Profile_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 45,
     "IsDefault": false,
     "Note": ""
   },
@@ -14659,7 +14659,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_PTT_Grip_Pod",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -14667,7 +14667,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_QD_Grip_Pod",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -14675,7 +14675,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Ribbed_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -14683,7 +14683,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Ribbed_Vertical",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -14691,7 +14691,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Slim_Angled",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -14707,7 +14707,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Bottom_Stippled_Stubby",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 35,
     "IsDefault": false,
     "Note": ""
   },
@@ -14755,7 +14755,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Ergonomic_Match_Trigger",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 15,
     "IsDefault": false,
     "Note": ""
   },
@@ -14811,7 +14811,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Left_Flashlight",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -14923,7 +14923,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Magazine_20rnd_Fast_Mag",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -14931,7 +14931,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Magazine_20rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -14987,7 +14987,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Magazine_30rnd_Fast_Mag",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -14995,15 +14995,15 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Magazine_30rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 5,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Magazine_36rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 15,
     "IsDefault": false,
     "Note": ""
   },
@@ -15019,7 +15019,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Magazine_40rnd_Fast_Mag",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -15027,7 +15027,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Magazine_40rnd_Magazine",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -15219,7 +15219,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_Compensated_Brake",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -15227,7 +15227,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_CQB_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -15235,7 +15235,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_Double_port_Brake",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15243,15 +15243,15 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_Flash_Hider",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 10,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_Lightened_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -15259,7 +15259,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_Linear_Comp",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15267,7 +15267,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_Long_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -15275,7 +15275,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_Single_port_Brake",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -15291,7 +15291,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Muzzle_Standard_Suppressor",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -15315,7 +15315,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Right_120_mW_Blue",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 30,
     "IsDefault": false,
     "Note": ""
   },
@@ -15323,7 +15323,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Right_5_mW_Green",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15331,7 +15331,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Right_5_mW_Red",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15339,7 +15339,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Right_50_mW_Blue",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -15347,7 +15347,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Right_50_mW_Green",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
@@ -15395,7 +15395,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_1p87_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15411,7 +15411,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_2Pro_125x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15419,7 +15419,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_3VZR_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15427,7 +15427,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_A_P2_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15475,7 +15475,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_Baker_300x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15483,7 +15483,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_BF_2M_250x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15491,7 +15491,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_Canted_Iron_Sights",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -15499,15 +15499,15 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_CCO_200x",
     "IsEquippable": true,
-    "Cost": 0,
-    "IsDefault": false,
+    "Cost": 10,
+    "IsDefault": true,
     "Note": ""
   },
   {
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_CQ_RDS_125x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15523,7 +15523,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_DVO_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -15531,7 +15531,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_GRIM_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -15539,7 +15539,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_Iron_Sights",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 5,
     "IsDefault": false,
     "Note": ""
   },
@@ -15547,7 +15547,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_LDS_450x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15563,7 +15563,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_Mars_F_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -15571,7 +15571,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_MC_CO_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -15579,7 +15579,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_Mini_Flex_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15603,7 +15603,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_Osa_7_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15611,7 +15611,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_PAS_35_300x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 25,
     "IsDefault": false,
     "Note": ""
   },
@@ -15627,7 +15627,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_PVQ_31_400x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15635,7 +15635,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_R_MR_100x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15651,7 +15651,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_R4T_200x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15659,7 +15659,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_RO_M_175x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15667,7 +15667,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_RO_S_125x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15675,7 +15675,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_ROX_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15691,7 +15691,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_SDO_350x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15699,7 +15699,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_SF_G2_500x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15723,7 +15723,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_ST_Prisim_500x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15731,7 +15731,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_SU_123_150x",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 10,
     "IsDefault": false,
     "Note": ""
   },
@@ -15739,7 +15739,7 @@
     "WeaponKey": "AssaultRifle_NVO_228E",
     "AttachmentKey": "Scope_SU_230_LPVO",
     "IsEquippable": true,
-    "Cost": 0,
+    "Cost": 20,
     "IsDefault": false,
     "Note": ""
   },
