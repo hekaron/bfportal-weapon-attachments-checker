@@ -391,7 +391,7 @@
     "AttachmentKey": "Barrel_165_Fluted",
     "Category": "Barrel",
     "NameEN": "165_Fluted",
-    "NameJP": "",
+    "NameJP": "16.5インチフルーテッド",
     "ShortName": "LIGHT",
     "ShortUniqueName": "LIGHT"
   },
@@ -409,7 +409,7 @@
     "AttachmentKey": "Barrel_165_Rifle",
     "Category": "Barrel",
     "NameEN": "165_Rifle",
-    "NameJP": "",
+    "NameJP": "16.5インチライフル",
     "ShortName": "BASIC",
     "ShortUniqueName": "BASIC"
   },
@@ -517,7 +517,7 @@
     "AttachmentKey": "Barrel_189_Prototype",
     "Category": "Barrel",
     "NameEN": "189_Prototype",
-    "NameJP": "",
+    "NameJP": "18.9インチプロトタイプ",
     "ShortName": "EXTENDED",
     "ShortUniqueName": "EXTENDED"
   },
