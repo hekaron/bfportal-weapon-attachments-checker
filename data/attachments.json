@@ -418,7 +418,7 @@
     "AttachmentKey": "Barrel_17_Cut",
     "Category": "Barrel",
     "NameEN": "17_Cut",
-    "NameJP": "",
+    "NameJP": "17インチカット",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -427,7 +427,7 @@
     "AttachmentKey": "Barrel_17_Factory",
     "Category": "Barrel",
     "NameEN": "17_Factory",
-    "NameJP": "",
+    "NameJP": "17インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -553,7 +553,7 @@
     "AttachmentKey": "Barrel_20_Long",
     "Category": "Barrel",
     "NameEN": "20_Long",
-    "NameJP": "",
+    "NameJP": "20インチロング",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -886,7 +886,7 @@
     "AttachmentKey": "Barrel_391mm_CQB",
     "Category": "Barrel",
     "NameEN": "391mm_CQB",
-    "NameJP": "",
+    "NameJP": "391MM CQB",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1003,7 +1003,7 @@
     "AttachmentKey": "Barrel_432mm_Fluted",
     "Category": "Barrel",
     "NameEN": "432mm_Fluted",
-    "NameJP": "",
+    "NameJP": "432MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1084,7 +1084,7 @@
     "AttachmentKey": "Barrel_480mm_Factory",
     "Category": "Barrel",
     "NameEN": "480mm_Factory",
-    "NameJP": "",
+    "NameJP": "480MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1093,7 +1093,7 @@
     "AttachmentKey": "Barrel_480mm_Fluted",
     "Category": "Barrel",
     "NameEN": "480mm_Fluted",
-    "NameJP": "",
+    "NameJP": "480MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1102,7 +1102,7 @@
     "AttachmentKey": "Barrel_480mm_MG",
     "Category": "Barrel",
     "NameEN": "480mm_MG",
-    "NameJP": "",
+    "NameJP": "480MM MG",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1138,7 +1138,7 @@
     "AttachmentKey": "Barrel_510mm_DMR",
     "Category": "Barrel",
     "NameEN": "510mm_DMR",
-    "NameJP": "",
+    "NameJP": "510MM DMR",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1147,7 +1147,7 @@
     "AttachmentKey": "Barrel_510mm_Fluted",
     "Category": "Barrel",
     "NameEN": "510mm_Fluted",
-    "NameJP": "",
+    "NameJP": "510MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1732,7 +1732,7 @@
     "AttachmentKey": "Bottom_Slim_Handstop",
     "Category": "Bottom",
     "NameEN": "Slim_Handstop",
-    "NameJP": "",
+    "NameJP": "コンパクト・ハンドストップ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1750,7 +1750,7 @@
     "AttachmentKey": "Bottom_Underslung_Mount",
     "Category": "Bottom",
     "NameEN": "Underslung_Mount",
-    "NameJP": "",
+    "NameJP": "アンダースリングマウント",
     "ShortName": "MOUNT",
     "ShortUniqueName": "MOUNT"
   },
@@ -2029,7 +2029,7 @@
     "AttachmentKey": "Magazine_25rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "25rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "25連ファストマグ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2425,7 +2425,7 @@
     "AttachmentKey": "Right_120_mW_Blue",
     "Category": "Right",
     "NameEN": "120_mW_Blue",
-    "NameJP": "",
+    "NameJP": "120MWブルー",
     "ShortName": "BLUE LASER",
     "ShortUniqueName": "BLUE LASER 120"
   },
@@ -2434,7 +2434,7 @@
     "AttachmentKey": "Right_5_mW_Green",
     "Category": "Right",
     "NameEN": "5_mW_Green",
-    "NameJP": "",
+    "NameJP": "5MWグリーン",
     "ShortName": "GREEN LASER",
     "ShortUniqueName": "GREEN LASER"
   },
@@ -2443,7 +2443,7 @@
     "AttachmentKey": "Right_5_mW_Red",
     "Category": "Right",
     "NameEN": "5_mW_Red",
-    "NameJP": "",
+    "NameJP": "5MWレッド",
     "ShortName": "RED LASER",
     "ShortUniqueName": "RED LASER"
   },
@@ -2452,7 +2452,7 @@
     "AttachmentKey": "Right_50_mW_Blue",
     "Category": "Right",
     "NameEN": "50_mW_Blue",
-    "NameJP": "",
+    "NameJP": "50MWブルー",
     "ShortName": "BLUE LASER",
     "ShortUniqueName": "BLUE LASER 50"
   },
@@ -2461,7 +2461,7 @@
     "AttachmentKey": "Right_50_mW_Green",
     "Category": "Right",
     "NameEN": "50_mW_Green",
-    "NameJP": "",
+    "NameJP": "50MWグリーン",
     "ShortName": "GREEN LASER",
     "ShortUniqueName": "GREEN LASER 50"
   },
@@ -2470,7 +2470,7 @@
     "AttachmentKey": "Right_Flashlight",
     "Category": "Right",
     "NameEN": "Flashlight",
-    "NameJP": "",
+    "NameJP": "フラッシュライト",
     "ShortName": "LIGHT",
     "ShortUniqueName": "LIGHT"
   },
@@ -2479,7 +2479,7 @@
     "AttachmentKey": "Right_Laser_Light_Combo_Green",
     "Category": "Right",
     "NameEN": "Laser_Light_Combo_Green",
-    "NameJP": "",
+    "NameJP": "レーザー/ライトコンボ・グリーン",
     "ShortName": "LASER/LIGHT",
     "ShortUniqueName": "LASER/LIGHT G"
   },
@@ -2488,7 +2488,7 @@
     "AttachmentKey": "Right_Laser_Light_Combo_Red",
     "Category": "Right",
     "NameEN": "Laser_Light_Combo_Red",
-    "NameJP": "",
+    "NameJP": "レーザー/ライトコンボ・レッド",
     "ShortName": "LASER/LIGHT",
     "ShortUniqueName": "LASER/LIGHT R"
   },
@@ -2785,7 +2785,7 @@
     "AttachmentKey": "Scope_R_MR_100x",
     "Category": "Scope",
     "NameEN": "R_MR_100x",
-    "NameJP": "",
+    "NameJP": "R-MR X1.00",
     "ShortName": "SIGHT 1.00X",
     "ShortUniqueName": "SIGHT 1.00X R"
   },
