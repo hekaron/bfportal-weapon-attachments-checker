@@ -94,7 +94,7 @@
     "AttachmentKey": "Barrel_10_Factory",
     "Category": "Barrel",
     "NameEN": "10_Factory",
-    "NameJP": "",
+    "NameJP": "10インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -103,7 +103,7 @@
     "AttachmentKey": "Barrel_10_Full",
     "Category": "Barrel",
     "NameEN": "10_Full",
-    "NameJP": "",
+    "NameJP": "10インチフル",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -130,7 +130,7 @@
     "AttachmentKey": "Barrel_105_Factory",
     "Category": "Barrel",
     "NameEN": "105_Factory",
-    "NameJP": "",
+    "NameJP": "10.5インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -175,7 +175,7 @@
     "AttachmentKey": "Barrel_115_Commando",
     "Category": "Barrel",
     "NameEN": "115_Commando",
-    "NameJP": "",
+    "NameJP": "11.5インチコマンドー",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -184,7 +184,7 @@
     "AttachmentKey": "Barrel_12_Assaulter",
     "Category": "Barrel",
     "NameEN": "12_Assaulter",
-    "NameJP": "",
+    "NameJP": "12インチアサルター",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -220,7 +220,7 @@
     "AttachmentKey": "Barrel_125_Fluted",
     "Category": "Barrel",
     "NameEN": "125_Fluted",
-    "NameJP": "",
+    "NameJP": "12.5インチフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -229,7 +229,7 @@
     "AttachmentKey": "Barrel_125_Mid",
     "Category": "Barrel",
     "NameEN": "125_Mid",
-    "NameJP": "",
+    "NameJP": "12.5インチミッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -238,7 +238,7 @@
     "AttachmentKey": "Barrel_13_Factory",
     "Category": "Barrel",
     "NameEN": "13_Factory",
-    "NameJP": "",
+    "NameJP": "13インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -247,7 +247,7 @@
     "AttachmentKey": "Barrel_13_Fluted",
     "Category": "Barrel",
     "NameEN": "13_Fluted",
-    "NameJP": "",
+    "NameJP": "13インチフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -256,7 +256,7 @@
     "AttachmentKey": "Barrel_13_Prototype",
     "Category": "Barrel",
     "NameEN": "13_Prototype",
-    "NameJP": "",
+    "NameJP": "13インチプロトタイプ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -265,7 +265,7 @@
     "AttachmentKey": "Barrel_13_Standard",
     "Category": "Barrel",
     "NameEN": "13_Standard",
-    "NameJP": "",
+    "NameJP": "13インチスタンダード",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -283,7 +283,7 @@
     "AttachmentKey": "Barrel_145_Alt",
     "Category": "Barrel",
     "NameEN": "145_Alt",
-    "NameJP": "",
+    "NameJP": "14.5インチオルト",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -301,7 +301,7 @@
     "AttachmentKey": "Barrel_145_Common",
     "Category": "Barrel",
     "NameEN": "145_Common",
-    "NameJP": "14.5インチオルト",
+    "NameJP": "14.5インチ共通",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -328,7 +328,7 @@
     "AttachmentKey": "Barrel_16_Custom",
     "Category": "Barrel",
     "NameEN": "16_Custom",
-    "NameJP": "",
+    "NameJP": "16インチカスタム",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -355,7 +355,7 @@
     "AttachmentKey": "Barrel_16_Rifle",
     "Category": "Barrel",
     "NameEN": "16_Rifle",
-    "NameJP": "",
+    "NameJP": "16インチライフル",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -364,7 +364,7 @@
     "AttachmentKey": "Barrel_16_Short",
     "Category": "Barrel",
     "NameEN": "16_Short",
-    "NameJP": "",
+    "NameJP": "16インチショート",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -454,7 +454,7 @@
     "AttachmentKey": "Barrel_18_EBR",
     "Category": "Barrel",
     "NameEN": "18_EBR",
-    "NameJP": "",
+    "NameJP": "18インチEBR",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -616,7 +616,7 @@
     "AttachmentKey": "Barrel_215_Factory",
     "Category": "Barrel",
     "NameEN": "215_Factory",
-    "NameJP": "",
+    "NameJP": "21.5インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -625,7 +625,7 @@
     "AttachmentKey": "Barrel_215_Fluted",
     "Category": "Barrel",
     "NameEN": "215_Fluted",
-    "NameJP": "",
+    "NameJP": "21.5インチフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -643,7 +643,7 @@
     "AttachmentKey": "Barrel_22_Factory",
     "Category": "Barrel",
     "NameEN": "22_Factory",
-    "NameJP": "",
+    "NameJP": "22インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -670,7 +670,7 @@
     "AttachmentKey": "Barrel_24_Extended",
     "Category": "Barrel",
     "NameEN": "24_Extended",
-    "NameJP": "",
+    "NameJP": "24インチ拡張",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -697,7 +697,7 @@
     "AttachmentKey": "Barrel_240mm_Fluted",
     "Category": "Barrel",
     "NameEN": "240mm_Fluted",
-    "NameJP": "",
+    "NameJP": "240MM フルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -706,7 +706,7 @@
     "AttachmentKey": "Barrel_240mm_SB",
     "Category": "Barrel",
     "NameEN": "240mm_SB",
-    "NameJP": "",
+    "NameJP": "240MM SB",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -778,7 +778,7 @@
     "AttachmentKey": "Barrel_303mm_LB",
     "Category": "Barrel",
     "NameEN": "303mm_LB",
-    "NameJP": "",
+    "NameJP": "303MM LB",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -805,7 +805,7 @@
     "AttachmentKey": "Barrel_314mm_Factory",
     "Category": "Barrel",
     "NameEN": "314mm_Factory",
-    "NameJP": "",
+    "NameJP": "314MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -814,7 +814,7 @@
     "AttachmentKey": "Barrel_314mm_Fluted",
     "Category": "Barrel",
     "NameEN": "314mm_Fluted",
-    "NameJP": "",
+    "NameJP": "314MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -823,7 +823,7 @@
     "AttachmentKey": "Barrel_314mm_Prototype",
     "Category": "Barrel",
     "NameEN": "314mm_Prototype",
-    "NameJP": "",
+    "NameJP": "314MMプロトタイプ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1057,7 +1057,7 @@
     "AttachmentKey": "Barrel_457mm_Urban",
     "Category": "Barrel",
     "NameEN": "457mm_Urban",
-    "NameJP": "",
+    "NameJP": "457MM市街",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1228,7 +1228,7 @@
     "AttachmentKey": "Barrel_550mm_Factory",
     "Category": "Barrel",
     "NameEN": "550mm_Factory",
-    "NameJP": "",
+    "NameJP": "550MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1246,7 +1246,7 @@
     "AttachmentKey": "Barrel_560mm_Cut",
     "Category": "Barrel",
     "NameEN": "560mm_Cut",
-    "NameJP": "",
+    "NameJP": "560MMカット",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1255,7 +1255,7 @@
     "AttachmentKey": "Barrel_560mm_Factory",
     "Category": "Barrel",
     "NameEN": "560mm_Factory",
-    "NameJP": "",
+    "NameJP": "560MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1264,7 +1264,7 @@
     "AttachmentKey": "Barrel_565mm_Fluted",
     "Category": "Barrel",
     "NameEN": "565mm_Fluted",
-    "NameJP": "",
+    "NameJP": "565MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1273,7 +1273,7 @@
     "AttachmentKey": "Barrel_565mm_Para",
     "Category": "Barrel",
     "NameEN": "565mm_Para",
-    "NameJP": "",
+    "NameJP": "565MMパラ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1354,7 +1354,7 @@
     "AttachmentKey": "Barrel_620mm_Classic",
     "Category": "Barrel",
     "NameEN": "620mm_Classic",
-    "NameJP": "",
+    "NameJP": "620MMクラシック",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1615,7 +1615,7 @@
     "AttachmentKey": "Bottom_Factory_Angled",
     "Category": "Bottom",
     "NameEN": "Factory_Angled",
-    "NameJP": "",
+    "NameJP": "標準アングル",
     "ShortName": "ANGLED",
     "ShortUniqueName": "ANGLED FA"
   },
@@ -1732,7 +1732,7 @@
     "AttachmentKey": "Bottom_Slim_Handstop",
     "Category": "Bottom",
     "NameEN": "Slim_Handstop",
-    "NameJP": "コンパクト・ハンドストップ",
+    "NameJP": "スリム・ハンドストップ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1858,7 +1858,7 @@
     "AttachmentKey": "Left_Flashlight",
     "Category": "Left",
     "NameEN": "Flashlight",
-    "NameJP": "",
+    "NameJP": "フラッシュライト",
     "ShortName": "LIGHT",
     "ShortUniqueName": "LIGHT"
   },
@@ -1867,7 +1867,7 @@
     "AttachmentKey": "Left_Range_Finder",
     "Category": "Left",
     "NameEN": "Range_Finder",
-    "NameJP": "",
+    "NameJP": "距離計",
     "ShortName": "RANGE",
     "ShortUniqueName": "RANGE"
   },
@@ -2182,7 +2182,7 @@
     "AttachmentKey": "Magazine_50rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "50rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "50連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2416,7 +2416,7 @@
     "AttachmentKey": "Muzzle_Triple_port_Brake",
     "Category": "Muzzle",
     "NameEN": "Triple_port_Brake",
-    "NameJP": "",
+    "NameJP": "トリプルポート・ブレーキ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2524,9 +2524,9 @@
     "AttachmentKey": "Scope_1p88_Variable",
     "Category": "Scope",
     "NameEN": "1p88_Variable",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "1P88可変",
+    "ShortName": "VARIABLE 3-10X",
+    "ShortUniqueName": "VARIABLE 3-10X"
   },
   {
     "Index": 281,
@@ -2558,36 +2558,36 @@
   {
     "Index": 284,
     "AttachmentKey": "Scope_Adjustable_Magnification_200x",
-    "Category": "Scope",
+    "Category": "Optics",
     "NameEN": "Adjustable_Magnification_200x",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "可変倍率X2.00",
+    "ShortName": "LOW-ZOOM",
+    "ShortUniqueName": "LOW-ZOOM 2X"
   },
   {
     "Index": 285,
     "AttachmentKey": "Scope_Adjustable_Magnification_300x",
-    "Category": "Scope",
+    "Category": "Optics",
     "NameEN": "Adjustable_Magnification_300x",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "可変倍率X3.00",
+    "ShortName": "LOW-ZOOM",
+    "ShortUniqueName": "LOW-ZOOM 3X"
   },
   {
     "Index": 286,
     "AttachmentKey": "Scope_Adjustable_Magnification_400x",
-    "Category": "Scope",
+    "Category": "Optics",
     "NameEN": "Adjustable_Magnification_400x",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "可変倍率X4.00",
+    "ShortName": "LOW-ZOOM",
+    "ShortUniqueName": "LOW-ZOOM 4X"
   },
   {
     "Index": 287,
     "AttachmentKey": "Scope_Anti_Glare_Coating",
-    "Category": "Scope",
+    "Category": "Optics",
     "NameEN": "Anti_Glare_Coating",
-    "NameJP": "",
+    "NameJP": "アンチグレア・コーティング",
     "ShortName": "ANTI-GLARE",
     "ShortUniqueName": "ANTI-GLARE"
   },
@@ -2614,7 +2614,7 @@
     "AttachmentKey": "Scope_BF_2M_250x",
     "Category": "Scope",
     "NameEN": "BF_2M_250x",
-    "NameJP": "",
+    "NameJP": "BF-2M X2.50",
     "ShortName": "SCOPE 2.50X",
     "ShortUniqueName": "SCOPE 2.50X"
   },
@@ -2641,7 +2641,7 @@
     "AttachmentKey": "Scope_CQ_RDS_125x",
     "Category": "Scope",
     "NameEN": "CQ_RDS_125x",
-    "NameJP": "",
+    "NameJP": "CQ RDS X1.25",
     "ShortName": "SIGHT 1.25X",
     "ShortUniqueName": "SIGHT 1.25X C"
   },
@@ -2695,7 +2695,7 @@
     "AttachmentKey": "Scope_LERT_800x",
     "Category": "Scope",
     "NameEN": "LERT_800x",
-    "NameJP": "",
+    "NameJP": "LERT X8.00",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2731,7 +2731,7 @@
     "AttachmentKey": "Scope_NFX_800x",
     "Category": "Scope",
     "NameEN": "NFX_800x",
-    "NameJP": "",
+    "NameJP": "NFX X8.00",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2741,8 +2741,8 @@
     "Category": "Scope",
     "NameEN": "NGFC_LPVO",
     "NameJP": "NGFC LVPO",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "ShortName": "VARIABLE 1-5X",
+    "ShortUniqueName": "VARIABLE 1-5X"
   },
   {
     "Index": 305,
@@ -2794,7 +2794,7 @@
     "AttachmentKey": "Scope_R_VPS_1000x",
     "Category": "Scope",
     "NameEN": "R_VPS_1000x",
-    "NameJP": "",
+    "NameJP": "R-VPS X10.00",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2839,7 +2839,7 @@
     "AttachmentKey": "Scope_S_VPS_600x",
     "Category": "Scope",
     "NameEN": "S_VPS_600x",
-    "NameJP": "",
+    "NameJP": "S-VPS X6.00",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2866,16 +2866,16 @@
     "AttachmentKey": "Scope_SM_Rifle_Variable",
     "Category": "Scope",
     "NameEN": "SM_Rifle_Variable",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "SMライフル可変",
+    "ShortName": "VARIABLE 2-8X",
+    "ShortUniqueName": "VARIABLE 2-8X"
   },
   {
     "Index": 319,
     "AttachmentKey": "Scope_SSDS_600x",
     "Category": "Scope",
     "NameEN": "SSDS_600x",
-    "NameJP": "",
+    "NameJP": "SSDS X6.00",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2903,17 +2903,17 @@
     "Category": "Scope",
     "NameEN": "SU_230_LPVO",
     "NameJP": "SU-230 LPVO",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "ShortName": "VARIABLE 1-4X",
+    "ShortUniqueName": "VARIABLE 1-4X"
   },
   {
     "Index": 323,
     "AttachmentKey": "Scope_TS_HD_600x",
     "Category": "Scope",
     "NameEN": "TS_HD_600x",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "TS-HD X6.00",
+    "ShortName": "THERMAL 6.00X",
+    "ShortUniqueName": "THERMAL 6.00X"
   },
   {
     "Index": 324,
