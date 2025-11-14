@@ -166,7 +166,7 @@
     "AttachmentKey": "Barrel_114mm_Pencil",
     "Category": "Barrel",
     "NameEN": "114mm_Pencil",
-    "NameJP": "",
+    "NameJP": "114MMペンシル",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -940,7 +940,7 @@
     "AttachmentKey": "Barrel_409mm_US",
     "Category": "Barrel",
     "NameEN": "409mm_US",
-    "NameJP": "",
+    "NameJP": "409MM US",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1030,7 +1030,7 @@
     "AttachmentKey": "Barrel_450mm_Factory",
     "Category": "Barrel",
     "NameEN": "450mm_Factory",
-    "NameJP": "",
+    "NameJP": "450MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1309,7 +1309,7 @@
     "AttachmentKey": "Barrel_600mm_Cut",
     "Category": "Barrel",
     "NameEN": "600mm_Cut",
-    "NameJP": "",
+    "NameJP": "600MMカット",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1318,7 +1318,7 @@
     "AttachmentKey": "Barrel_600mm_DMR",
     "Category": "Barrel",
     "NameEN": "600mm_DMR",
-    "NameJP": "",
+    "NameJP": "600MM DMR",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1327,7 +1327,7 @@
     "AttachmentKey": "Barrel_600mm_Fluted",
     "Category": "Barrel",
     "NameEN": "600mm_Fluted",
-    "NameJP": "",
+    "NameJP": "600MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },

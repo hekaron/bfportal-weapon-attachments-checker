@@ -916,7 +916,7 @@
     "AttachmentKey": "Barrel_450mm_Factory",
     "IsEquippable": true,
     "Cost": 10,
-    "IsDefault": false,
+    "IsDefault": true,
     "Note": ""
   },
   {
@@ -924,7 +924,7 @@
     "AttachmentKey": "Barrel_450mm_Standard",
     "IsEquippable": false,
     "Cost": 0,
-    "IsDefault": true,
+    "IsDefault": false,
     "Note": ""
   },
   {
