@@ -139,7 +139,7 @@
     "AttachmentKey": "Barrel_11_Extended",
     "Category": "Barrel",
     "NameEN": "11_Extended",
-    "NameJP": "",
+    "NameJP": "11インチ拡張",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -148,7 +148,7 @@
     "AttachmentKey": "Barrel_11_Heavy",
     "Category": "Barrel",
     "NameEN": "11_Heavy",
-    "NameJP": "",
+    "NameJP": "11インチヘビー",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -157,7 +157,7 @@
     "AttachmentKey": "Barrel_114mm_Factory",
     "Category": "Barrel",
     "NameEN": "114mm_Factory",
-    "NameJP": "",
+    "NameJP": "114MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -193,7 +193,7 @@
     "AttachmentKey": "Barrel_12_SBR",
     "Category": "Barrel",
     "NameEN": "12_SBR",
-    "NameJP": "",
+    "NameJP": "12インチSBR",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -202,7 +202,7 @@
     "AttachmentKey": "Barrel_122mm_Factory",
     "Category": "Barrel",
     "NameEN": "122mm_Factory",
-    "NameJP": "",
+    "NameJP": "122MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -211,7 +211,7 @@
     "AttachmentKey": "Barrel_122mm_Pencil",
     "Category": "Barrel",
     "NameEN": "122mm_Pencil",
-    "NameJP": "",
+    "NameJP": "122MMペンシル",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -337,7 +337,7 @@
     "AttachmentKey": "Barrel_16_Factory",
     "Category": "Barrel",
     "NameEN": "16_Factory",
-    "NameJP": "",
+    "NameJP": "16インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -346,7 +346,7 @@
     "AttachmentKey": "Barrel_16_Pencil",
     "Category": "Barrel",
     "NameEN": "16_Pencil",
-    "NameJP": "",
+    "NameJP": "16インチペンシル",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -382,7 +382,7 @@
     "AttachmentKey": "Barrel_165_Basic",
     "Category": "Barrel",
     "NameEN": "165_Basic",
-    "NameJP": "",
+    "NameJP": "16.5インチベーシック",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -400,9 +400,9 @@
     "AttachmentKey": "Barrel_165_LSW",
     "Category": "Barrel",
     "NameEN": "165_LSW",
-    "NameJP": "",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "NameJP": "16.5インチLSW",
+    "ShortName": "HEAVY",
+    "ShortUniqueName": "HEAVY"
   },
   {
     "Index": 45,
@@ -436,7 +436,7 @@
     "AttachmentKey": "Barrel_17_Fluted",
     "Category": "Barrel",
     "NameEN": "17_Fluted",
-    "NameJP": "",
+    "NameJP": "17インチフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -463,7 +463,7 @@
     "AttachmentKey": "Barrel_18_Extended",
     "Category": "Barrel",
     "NameEN": "18_Extended",
-    "NameJP": "",
+    "NameJP": "18インチ拡張",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -481,7 +481,7 @@
     "AttachmentKey": "Barrel_180mm_Prototype",
     "Category": "Barrel",
     "NameEN": "180mm_Prototype",
-    "NameJP": "",
+    "NameJP": "180MMプロトタイプ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -490,7 +490,7 @@
     "AttachmentKey": "Barrel_180mm_Standard",
     "Category": "Barrel",
     "NameEN": "180mm_Standard",
-    "NameJP": "",
+    "NameJP": "180MMスタンダード",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -499,7 +499,7 @@
     "AttachmentKey": "Barrel_185_Factory",
     "Category": "Barrel",
     "NameEN": "185_Factory",
-    "NameJP": "",
+    "NameJP": "18.5インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -526,7 +526,7 @@
     "AttachmentKey": "Barrel_20_Factory",
     "Category": "Barrel",
     "NameEN": "20_Factory",
-    "NameJP": "",
+    "NameJP": "20インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -535,7 +535,7 @@
     "AttachmentKey": "Barrel_20_LE",
     "Category": "Barrel",
     "NameEN": "20_LE",
-    "NameJP": "",
+    "NameJP": "20インチLE",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -544,7 +544,7 @@
     "AttachmentKey": "Barrel_20_Lima",
     "Category": "Barrel",
     "NameEN": "20_Lima",
-    "NameJP": "",
+    "NameJP": "20インチLIMA",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -562,7 +562,7 @@
     "AttachmentKey": "Barrel_20_OH",
     "Category": "Barrel",
     "NameEN": "20_OH",
-    "NameJP": "",
+    "NameJP": "20インチOH",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -571,7 +571,7 @@
     "AttachmentKey": "Barrel_20_SDM_R",
     "Category": "Barrel",
     "NameEN": "20_SDM_R",
-    "NameJP": "",
+    "NameJP": "20インチSQDM-R",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -589,7 +589,7 @@
     "AttachmentKey": "Barrel_200mm_Custom_H",
     "Category": "Barrel",
     "NameEN": "200mm_Custom_H",
-    "NameJP": "",
+    "NameJP": "200MMカスタム-H",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -598,7 +598,7 @@
     "AttachmentKey": "Barrel_200mm_Factory",
     "Category": "Barrel",
     "NameEN": "200mm_Factory",
-    "NameJP": "",
+    "NameJP": "200MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -607,7 +607,7 @@
     "AttachmentKey": "Barrel_200mm_Fluted",
     "Category": "Barrel",
     "NameEN": "200mm_Fluted",
-    "NameJP": "",
+    "NameJP": "200MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -634,7 +634,7 @@
     "AttachmentKey": "Barrel_22_E3_Long",
     "Category": "Barrel",
     "NameEN": "22_E3_Long",
-    "NameJP": "",
+    "NameJP": "22インチE3ロング",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -652,7 +652,7 @@
     "AttachmentKey": "Barrel_225mm_Factory",
     "Category": "Barrel",
     "NameEN": "225mm_Factory",
-    "NameJP": "",
+    "NameJP": "225MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -661,7 +661,7 @@
     "AttachmentKey": "Barrel_24_Bravo",
     "Category": "Barrel",
     "NameEN": "24_Bravo",
-    "NameJP": "",
+    "NameJP": "24インチBRAVO",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -679,7 +679,7 @@
     "AttachmentKey": "Barrel_24_Fluted",
     "Category": "Barrel",
     "NameEN": "24_Fluted",
-    "NameJP": "",
+    "NameJP": "24インチフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -688,7 +688,7 @@
     "AttachmentKey": "Barrel_24_Full",
     "Category": "Barrel",
     "NameEN": "24_Full",
-    "NameJP": "",
+    "NameJP": "24インチFULL",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -715,7 +715,7 @@
     "AttachmentKey": "Barrel_245mm_Custom",
     "Category": "Barrel",
     "NameEN": "245mm_Custom",
-    "NameJP": "",
+    "NameJP": "245MMカスタム",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -724,7 +724,7 @@
     "AttachmentKey": "Barrel_26_Carbon",
     "Category": "Barrel",
     "NameEN": "26_Carbon",
-    "NameJP": "",
+    "NameJP": "26インチカーボン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -733,7 +733,7 @@
     "AttachmentKey": "Barrel_26_Factory",
     "Category": "Barrel",
     "NameEN": "26_Factory",
-    "NameJP": "",
+    "NameJP": "26インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -742,7 +742,7 @@
     "AttachmentKey": "Barrel_264mm_Factory",
     "Category": "Barrel",
     "NameEN": "264mm_Factory",
-    "NameJP": "",
+    "NameJP": "264MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -751,7 +751,7 @@
     "AttachmentKey": "Barrel_264mm_Fluted",
     "Category": "Barrel",
     "NameEN": "264mm_Fluted",
-    "NameJP": "",
+    "NameJP": "264MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -760,7 +760,7 @@
     "AttachmentKey": "Barrel_264mm_Prototype",
     "Category": "Barrel",
     "NameEN": "264mm_Prototype",
-    "NameJP": "",
+    "NameJP": "264MMプロトタイプ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -769,7 +769,7 @@
     "AttachmentKey": "Barrel_27_MK22",
     "Category": "Barrel",
     "NameEN": "27_MK22",
-    "NameJP": "",
+    "NameJP": "27インチMK22",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -787,7 +787,7 @@
     "AttachmentKey": "Barrel_305mm_Custom",
     "Category": "Barrel",
     "NameEN": "305mm_Custom",
-    "NameJP": "",
+    "NameJP": "305MMカスタム",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -796,7 +796,7 @@
     "AttachmentKey": "Barrel_305mm_Custom_H",
     "Category": "Barrel",
     "NameEN": "305mm_Custom_H",
-    "NameJP": "",
+    "NameJP": "305MMカスタム-H",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -832,7 +832,7 @@
     "AttachmentKey": "Barrel_330mm_Mk3",
     "Category": "Barrel",
     "NameEN": "330mm_Mk3",
-    "NameJP": "",
+    "NameJP": "330MM MK3",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -841,7 +841,7 @@
     "AttachmentKey": "Barrel_349mm_Fluted",
     "Category": "Barrel",
     "NameEN": "349mm_Fluted",
-    "NameJP": "",
+    "NameJP": "349MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -850,7 +850,7 @@
     "AttachmentKey": "Barrel_349mm_SB",
     "Category": "Barrel",
     "NameEN": "349mm_SB",
-    "NameJP": "",
+    "NameJP": "349MM SB",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -859,7 +859,7 @@
     "AttachmentKey": "Barrel_370mm_Compact",
     "Category": "Barrel",
     "NameEN": "370mm_Compact",
-    "NameJP": "",
+    "NameJP": "370MMコンパクト",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -868,7 +868,7 @@
     "AttachmentKey": "Barrel_39_Factory",
     "Category": "Barrel",
     "NameEN": "39_Factory",
-    "NameJP": "",
+    "NameJP": "3.9インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -877,7 +877,7 @@
     "AttachmentKey": "Barrel_39_Pencil",
     "Category": "Barrel",
     "NameEN": "39_Pencil",
-    "NameJP": "",
+    "NameJP": "3.9インチペンシル",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -895,7 +895,7 @@
     "AttachmentKey": "Barrel_406mm_Standard",
     "Category": "Barrel",
     "NameEN": "406mm_Standard",
-    "NameJP": "",
+    "NameJP": "406MMスタンダード",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -904,7 +904,7 @@
     "AttachmentKey": "Barrel_407mm_Civ_S",
     "Category": "Barrel",
     "NameEN": "407mm_Civ_S",
-    "NameJP": "",
+    "NameJP": "407MM CIV-S",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -976,7 +976,7 @@
     "AttachmentKey": "Barrel_419mm_Boar_F",
     "Category": "Barrel",
     "NameEN": "419mm_Boar_F",
-    "NameJP": "",
+    "NameJP": "419MMボア-F",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -985,7 +985,7 @@
     "AttachmentKey": "Barrel_430mm_Cut",
     "Category": "Barrel",
     "NameEN": "430mm_Cut",
-    "NameJP": "",
+    "NameJP": "430MM カット",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -994,7 +994,7 @@
     "AttachmentKey": "Barrel_430mm_Factory",
     "Category": "Barrel",
     "NameEN": "430mm_Factory",
-    "NameJP": "",
+    "NameJP": "430MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1021,7 +1021,7 @@
     "AttachmentKey": "Barrel_45_Compact",
     "Category": "Barrel",
     "NameEN": "45_Compact",
-    "NameJP": "",
+    "NameJP": "4.5インチコンパクト",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1039,7 +1039,7 @@
     "AttachmentKey": "Barrel_450mm_Standard",
     "Category": "Barrel",
     "NameEN": "450mm_Standard",
-    "NameJP": "",
+    "NameJP": "450MMスタンダード",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1048,7 +1048,7 @@
     "AttachmentKey": "Barrel_457mm_Mk9",
     "Category": "Barrel",
     "NameEN": "457mm_Mk9",
-    "NameJP": "",
+    "NameJP": "457MM MK9",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1075,7 +1075,7 @@
     "AttachmentKey": "Barrel_465mm_LB",
     "Category": "Barrel",
     "NameEN": "465mm_LB",
-    "NameJP": "",
+    "NameJP": "465MM LB",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1111,7 +1111,7 @@
     "AttachmentKey": "Barrel_5_Factory",
     "Category": "Barrel",
     "NameEN": "5_Factory",
-    "NameJP": "",
+    "NameJP": "5インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1120,7 +1120,7 @@
     "AttachmentKey": "Barrel_5_Pencil",
     "Category": "Barrel",
     "NameEN": "5_Pencil",
-    "NameJP": "",
+    "NameJP": "5インチペンシル",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1129,7 +1129,7 @@
     "AttachmentKey": "Barrel_508mm_Mk8",
     "Category": "Barrel",
     "NameEN": "508mm_Mk8",
-    "NameJP": "",
+    "NameJP": "508MM MK8",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1156,7 +1156,7 @@
     "AttachmentKey": "Barrel_512_Compact",
     "Category": "Barrel",
     "NameEN": "512_Compact",
-    "NameJP": "",
+    "NameJP": "5.12インチ コンパクト",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1165,7 +1165,7 @@
     "AttachmentKey": "Barrel_514mm_Carbine",
     "Category": "Barrel",
     "NameEN": "514mm_Carbine",
-    "NameJP": "",
+    "NameJP": "514MMカービン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1192,7 +1192,7 @@
     "AttachmentKey": "Barrel_521mm_Boar",
     "Category": "Barrel",
     "NameEN": "521mm_Boar",
-    "NameJP": "",
+    "NameJP": "521MMボア",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1201,7 +1201,7 @@
     "AttachmentKey": "Barrel_521mm_Boar_F",
     "Category": "Barrel",
     "NameEN": "521mm_Boar_F",
-    "NameJP": "",
+    "NameJP": "521MMボア-F",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1210,7 +1210,7 @@
     "AttachmentKey": "Barrel_55_Factory",
     "Category": "Barrel",
     "NameEN": "55_Factory",
-    "NameJP": "",
+    "NameJP": "5.5インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1219,7 +1219,7 @@
     "AttachmentKey": "Barrel_55_Fluted",
     "Category": "Barrel",
     "NameEN": "55_Fluted",
-    "NameJP": "",
+    "NameJP": "5.5インチフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1237,7 +1237,7 @@
     "AttachmentKey": "Barrel_556mm_Prototype",
     "Category": "Barrel",
     "NameEN": "556mm_Prototype",
-    "NameJP": "",
+    "NameJP": "556MMプロトタイプ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1282,7 +1282,7 @@
     "AttachmentKey": "Barrel_590mm_Factory",
     "Category": "Barrel",
     "NameEN": "590mm_Factory",
-    "NameJP": "",
+    "NameJP": "590MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1291,7 +1291,7 @@
     "AttachmentKey": "Barrel_6_Fluted",
     "Category": "Barrel",
     "NameEN": "6_Fluted",
-    "NameJP": "",
+    "NameJP": "6インチフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1300,7 +1300,7 @@
     "AttachmentKey": "Barrel_6_Standard",
     "Category": "Barrel",
     "NameEN": "6_Standard",
-    "NameJP": "",
+    "NameJP": "6インチスタンダード",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1336,7 +1336,7 @@
     "AttachmentKey": "Barrel_600mm_Tabuk",
     "Category": "Barrel",
     "NameEN": "600mm_Tabuk",
-    "NameJP": "",
+    "NameJP": "600MMタブク",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1345,7 +1345,7 @@
     "AttachmentKey": "Barrel_612mm_VMW",
     "Category": "Barrel",
     "NameEN": "612mm_VMW",
-    "NameJP": "",
+    "NameJP": "612MM VMW",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1390,7 +1390,7 @@
     "AttachmentKey": "Barrel_65_Extended",
     "Category": "Barrel",
     "NameEN": "65_Extended",
-    "NameJP": "",
+    "NameJP": "6.5インチ拡張",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1399,7 +1399,7 @@
     "AttachmentKey": "Barrel_650mm_Factory",
     "Category": "Barrel",
     "NameEN": "650mm_Factory",
-    "NameJP": "",
+    "NameJP": "650MM標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1408,7 +1408,7 @@
     "AttachmentKey": "Barrel_650mm_Fluted",
     "Category": "Barrel",
     "NameEN": "650mm_Fluted",
-    "NameJP": "",
+    "NameJP": "650MMフルーテッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1417,7 +1417,7 @@
     "AttachmentKey": "Barrel_675_Factory",
     "Category": "Barrel",
     "NameEN": "675_Factory",
-    "NameJP": "",
+    "NameJP": "6.75インチ標準",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1444,7 +1444,7 @@
     "AttachmentKey": "Barrel_730mm_3LR",
     "Category": "Barrel",
     "NameEN": "730mm_3LR",
-    "NameJP": "",
+    "NameJP": "730MM 3LR",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1462,7 +1462,7 @@
     "AttachmentKey": "Barrel_8_Extended",
     "Category": "Barrel",
     "NameEN": "8_Extended",
-    "NameJP": "",
+    "NameJP": "8インチ拡張",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1471,7 +1471,7 @@
     "AttachmentKey": "Barrel_837_Long",
     "Category": "Barrel",
     "NameEN": "837_Long",
-    "NameJP": "",
+    "NameJP": "8.37インチロング",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1498,7 +1498,7 @@
     "AttachmentKey": "Barrel_9_Heavy",
     "Category": "Barrel",
     "NameEN": "9_Heavy",
-    "NameJP": "",
+    "NameJP": "9インチヘビー",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1516,7 +1516,7 @@
     "AttachmentKey": "Bottom_5_mW_Green",
     "Category": "Bottom",
     "NameEN": "5_mW_Green",
-    "NameJP": "",
+    "NameJP": "5MWグリーン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1525,7 +1525,7 @@
     "AttachmentKey": "Bottom_5_mW_Red",
     "Category": "Bottom",
     "NameEN": "5_mW_Red",
-    "NameJP": "",
+    "NameJP": "5MWレッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1534,7 +1534,7 @@
     "AttachmentKey": "Bottom_50_mW_Green",
     "Category": "Bottom",
     "NameEN": "50_mW_Green",
-    "NameJP": "",
+    "NameJP": "50MWグリーン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1624,7 +1624,7 @@
     "AttachmentKey": "Bottom_Flashlight",
     "Category": "Bottom",
     "NameEN": "Flashlight",
-    "NameJP": "",
+    "NameJP": "フラッシュライト",
     "ShortName": "FLASHLIGHT",
     "ShortUniqueName": "FLASHLIGHT"
   },
@@ -1660,7 +1660,7 @@
     "AttachmentKey": "Bottom_Laser_Light_Combo_Green",
     "Category": "Bottom",
     "NameEN": "Laser_Light_Combo_Green",
-    "NameJP": "",
+    "NameJP": "レーザー/ライトコンボ・グリーン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1669,7 +1669,7 @@
     "AttachmentKey": "Bottom_Laser_Light_Combo_Red",
     "Category": "Bottom",
     "NameEN": "Laser_Light_Combo_Red",
-    "NameJP": "",
+    "NameJP": "レーザー/ライトコンボ・レッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1768,7 +1768,7 @@
     "AttachmentKey": "Ergonomic_DLC_Bolt",
     "Category": "Ergonomic",
     "NameEN": "DLC_Bolt",
-    "NameJP": "",
+    "NameJP": "DLCボルト",
     "ShortName": "ADS BOLT",
     "ShortUniqueName": "ADS BOLT"
   },
@@ -1813,7 +1813,7 @@
     "AttachmentKey": "Left_120_mW_Blue",
     "Category": "Left",
     "NameEN": "120_mW_Blue",
-    "NameJP": "",
+    "NameJP": "120MWブルー",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1822,7 +1822,7 @@
     "AttachmentKey": "Left_5_mW_Green",
     "Category": "Left",
     "NameEN": "5_mW_Green",
-    "NameJP": "",
+    "NameJP": "5MWグリーン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1831,7 +1831,7 @@
     "AttachmentKey": "Left_5_mW_Red",
     "Category": "Left",
     "NameEN": "5_mW_Red",
-    "NameJP": "",
+    "NameJP": "5MWレッド",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1840,7 +1840,7 @@
     "AttachmentKey": "Left_50_mW_Blue",
     "Category": "Left",
     "NameEN": "50_mW_Blue",
-    "NameJP": "",
+    "NameJP": "50MWブルー",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1849,7 +1849,7 @@
     "AttachmentKey": "Left_50_mW_Green",
     "Category": "Left",
     "NameEN": "50_mW_Green",
-    "NameJP": "",
+    "NameJP": "50MWグリーン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1885,7 +1885,7 @@
     "AttachmentKey": "Magazine_100rnd_Belt_Box",
     "Category": "Magazine",
     "NameEN": "100rnd_Belt_Box",
-    "NameJP": "",
+    "NameJP": "100連ベルトボックス",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1894,7 +1894,7 @@
     "AttachmentKey": "Magazine_100rnd_Belt_Pouch",
     "Category": "Magazine",
     "NameEN": "100rnd_Belt_Pouch",
-    "NameJP": "",
+    "NameJP": "100連ベルトポーチ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1903,7 +1903,7 @@
     "AttachmentKey": "Magazine_100rnd_Drum_Mag",
     "Category": "Magazine",
     "NameEN": "100rnd_Drum_Mag",
-    "NameJP": "",
+    "NameJP": "100連ドラムマガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1930,7 +1930,7 @@
     "AttachmentKey": "Magazine_11rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "11rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "11連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1957,7 +1957,7 @@
     "AttachmentKey": "Magazine_17rnd_Fast_Mag",
     "Category": "Magazine",
     "NameEN": "17rnd_Fast_Mag",
-    "NameJP": "",
+    "NameJP": "17連ファストマグ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1966,7 +1966,7 @@
     "AttachmentKey": "Magazine_17rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "17rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "17連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -1975,7 +1975,7 @@
     "AttachmentKey": "Magazine_200rnd_Belt_Box",
     "Category": "Magazine",
     "NameEN": "200rnd_Belt_Box",
-    "NameJP": "",
+    "NameJP": "200連ベルトボックス",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2002,7 +2002,7 @@
     "AttachmentKey": "Magazine_21rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "21rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "21連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2011,7 +2011,7 @@
     "AttachmentKey": "Magazine_22rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "22rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "22連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2020,7 +2020,7 @@
     "AttachmentKey": "Magazine_23rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "23rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "23連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2047,7 +2047,7 @@
     "AttachmentKey": "Magazine_27rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "27rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "27連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2110,7 +2110,7 @@
     "AttachmentKey": "Magazine_41rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "41rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "41連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2164,7 +2164,7 @@
     "AttachmentKey": "Magazine_50rnd_Belt_Pouch",
     "Category": "Magazine",
     "NameEN": "50rnd_Belt_Pouch",
-    "NameJP": "",
+    "NameJP": "50連ベルトポーチ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2173,7 +2173,7 @@
     "AttachmentKey": "Magazine_50rnd_Loose_Belt",
     "Category": "Magazine",
     "NameEN": "50rnd_Loose_Belt",
-    "NameJP": "",
+    "NameJP": "50連リンク式ベルト",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2209,7 +2209,7 @@
     "AttachmentKey": "Magazine_6_Shell_Tube",
     "Category": "Magazine",
     "NameEN": "6_Shell_Tube",
-    "NameJP": "6シェルチューブ",
+    "NameJP": "7シェルチューブ",
     "ShortName": "6 RND",
     "ShortUniqueName": "6 RND"
   },
@@ -2218,7 +2218,7 @@
     "AttachmentKey": "Magazine_60rnd_Drum_Mag",
     "Category": "Magazine",
     "NameEN": "60rnd_Drum_Mag",
-    "NameJP": "",
+    "NameJP": "60連ドラムマガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2227,7 +2227,7 @@
     "AttachmentKey": "Magazine_60rnd_Magazine",
     "Category": "Magazine",
     "NameEN": "60rnd_Magazine",
-    "NameJP": "",
+    "NameJP": "60連マガジン",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2236,7 +2236,7 @@
     "AttachmentKey": "Magazine_6rnd_Speedloader",
     "Category": "Magazine",
     "NameEN": "6rnd_Speedloader",
-    "NameJP": "",
+    "NameJP": "6連スピードローダー",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2255,15 +2255,15 @@
     "Category": "Magazine",
     "NameEN": "7_Shell_Tube",
     "NameJP": "7シェルチューブ",
-    "ShortName": "",
-    "ShortUniqueName": ""
+    "ShortName": "7 RND",
+    "ShortUniqueName": "7 RND"
   },
   {
     "Index": 251,
     "AttachmentKey": "Magazine_75rnd_Belt_Box",
     "Category": "Magazine",
     "NameEN": "75rnd_Belt_Box",
-    "NameJP": "",
+    "NameJP": "75連ベルトボックス",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2272,7 +2272,7 @@
     "AttachmentKey": "Magazine_75rnd_Drum",
     "Category": "Magazine",
     "NameEN": "75rnd_Drum",
-    "NameJP": "",
+    "NameJP": "75連ドラム",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2389,7 +2389,7 @@
     "AttachmentKey": "Muzzle_Slant_Brake",
     "Category": "Muzzle",
     "NameEN": "Slant_Brake",
-    "NameJP": "",
+    "NameJP": "スラントブレーキ",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2407,7 +2407,7 @@
     "AttachmentKey": "Muzzle_Thread_Protector",
     "Category": "Muzzle",
     "NameEN": "Thread_Protector",
-    "NameJP": "",
+    "NameJP": "スレッドプロテクター",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2596,7 +2596,7 @@
     "AttachmentKey": "Scope_Aperture_Sight",
     "Category": "Scope",
     "NameEN": "Aperture_Sight",
-    "NameJP": "",
+    "NameJP": "アパチャーサイト",
     "ShortName": "",
     "ShortUniqueName": ""
   },
@@ -2650,7 +2650,7 @@
     "AttachmentKey": "Scope_CQB_Sights",
     "Category": "Scope",
     "NameEN": "CQB_Sights",
-    "NameJP": "",
+    "NameJP": "CQBサイト",
     "ShortName": "",
     "ShortUniqueName": ""
   },
